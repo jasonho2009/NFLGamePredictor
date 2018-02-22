@@ -13,7 +13,7 @@ import time
 
 def specificGameData(url):
     print(url)
-    response = requests.get('https://www.pro-football-reference.com'+str(url),timeout=120)
+    response = requests.get('https://www.pro-football-reference.com'+str(url),timeout=200)
     html = response.text
     soup = BeautifulSoup(html,"html.parser")
     game_info = soup.find_all(string=re.compile('Game Info Table'))[0]
@@ -25,7 +25,7 @@ def specificGameData(url):
             weather = info_soup.find('th',string='Weather').nextSibling.contents[0]
         except:
             weather = ''
-        environment = [info_soup.find('th',string='Roof').nextSibling.contents[0],info_soup.find('th',string='Surface').nextSibling.contents[0], weather,info_soup.find('th',string='Vegas Line').nextSibling.contents[0]]
+        environment = [info_soup.find('th',string='Roof').nextSibling.contents[0],info_soup.find('th',string='Surface').nextSibling.contents[0], weather,info_soup.find('th',string='Vegas Line').nextSibling.contents[0],info_soup.find('th',string='Over/Under').nextSibling.contents[0]]
         homeStats = []
         visStats = []
         homeStats.append(team_soup.find_all('th',string='First Downs')[0].parent.find(attrs={'data-stat':'home_stat'}).contents[0])
@@ -108,15 +108,15 @@ def printCSV(table,writer):
                              'away_score':away_score,'home_yds':home_yds,'away_yds':away_yds,'home_TO':home_TO,'away_TO':away_TO,'roof':environment[0],'surface':environment[1],'weather':environment[2],
                              '1stDownsHome':homeStats[0],'1stDownsAway':visStats[0],'rushHome':homeStats[1],'rushAway':visStats[1],'passHome':homeStats[2],'passAway':visStats[2],
                              'sacksHome':homeStats[3],'sacksAway':visStats[3],'fumbleHome':homeStats[4],'fumbleAway':visStats[4],'penaltyHome':homeStats[5],'penaltyAway':visStats[5],
-                             '3rdDownHome':homeStats[6],'3rdDownAway':visStats[6],'4thDownHome':homeStats[7],'4thDownAway':visStats[7],'posessionHome':homeStats[8],'possessionAway':visStats[8],'VegasLine':environment[3]})  
+                             '3rdDownHome':homeStats[6],'3rdDownAway':visStats[6],'4thDownHome':homeStats[7],'4thDownAway':visStats[7],'posessionHome':homeStats[8],'possessionAway':visStats[8],'VegasLine':environment[3],'Over/Under':environment[4]})  
 
 def getHistory(year): 
     for year in years:
         print (year)
-        with open('NFLgames'+str(year)+'.csv','w') as csvfile:
+        with open('GameData/NFLgames'+str(year)+'.csv','w') as csvfile:
             fieldnames = ['date','week','home_team','away_team','home_score','away_score','home_yds','away_yds','home_TO','away_TO','roof','surface','weather','1stDownsHome','1stDownsAway'
                           ,'rushHome','rushAway','passHome','passAway','sacksHome','sacksAway','fumbleHome','fumbleAway','penaltyHome','penaltyAway','3rdDownHome','3rdDownAway'
-                          ,'4thDownHome','4thDownAway','posessionHome','possessionAway','VegasLine']
+                          ,'4thDownHome','4thDownAway','posessionHome','possessionAway','VegasLine','Over/Under']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames, lineterminator = '\n')
             writer.writeheader()
             
@@ -126,5 +126,5 @@ def getHistory(year):
             table = soup.find(name='table',id='games')
             printCSV(table,writer)
             
-years = range(2017,2018)
+years = range(2002,2018)
 getHistory(years)
