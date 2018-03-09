@@ -31,8 +31,8 @@ def specificGameData(url):
         homeStats.append(team_soup.find_all('th',string='First Downs')[0].parent.find(attrs={'data-stat':'home_stat'}).contents[0])
         visStats.append(team_soup.find_all('th',string='First Downs')[0].parent.find(attrs={'data-stat':'vis_stat'}).contents[0])
     
-        homeStats.append(team_soup.find_all('th',string='Rush-Yds-TDs')[0].parent.find(attrs={'data-stat':'home_stat'}).contents[0])
-        visStats.append(team_soup.find_all('th',string='Rush-Yds-TDs')[0].parent.find(attrs={'data-stat':'vis_stat'}).contents[0])
+        homeStats.append("'"+team_soup.find_all('th',string='Rush-Yds-TDs')[0].parent.find(attrs={'data-stat':'home_stat'}).contents[0])
+        visStats.append("'"+team_soup.find_all('th',string='Rush-Yds-TDs')[0].parent.find(attrs={'data-stat':'vis_stat'}).contents[0])
     
         homeStats.append(team_soup.find_all('th',string='Cmp-Att-Yd-TD-INT')[0].parent.find(attrs={'data-stat':'home_stat'}).contents[0])
         visStats.append(team_soup.find_all('th',string='Cmp-Att-Yd-TD-INT')[0].parent.find(attrs={'data-stat':'vis_stat'}).contents[0])
