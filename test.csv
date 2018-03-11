@@ -1,0 +1,1733 @@
+,date,week,team,opp_team,roof,temp,humidity,wind
+183,2004-12-05,13,Detroit Lions,Arizona Cardinals,dome,,,
+226,2009-12-27,16,New England Patriots,Jacksonville Jaguars,outdoors,55.0,88.0,14.0
+212,2005-12-18,15,Jacksonville Jaguars,San Francisco 49ers,outdoors,49.0,93.0,10.0
+183,2015-12-06,13,Cleveland Browns,Cincinnati Bengals,outdoors,45.0,63.0,12.0
+193,2017-12-10,14,Buffalo Bills,Indianapolis Colts,outdoors,32.0,,15.0
+161,2008-11-23,12,Kansas City Chiefs,Buffalo Bills,outdoors,50.0,56.0,10.0
+238,2004-12-26,16,Miami Dolphins,Cleveland Browns,outdoors,55.0,77.0,
+150,2006-11-19,11,Miami Dolphins,Minnesota Vikings,outdoors,68.0,33.0,9.0
+252,2016-01-03,17,San Francisco 49ers,St. Louis Rams,outdoors,53.0,59.0,6.0
+203,2002-12-08,14,Arizona Cardinals,Detroit Lions,outdoors,67.0,32.0,3.0
+133,2008-11-09,10,New England Patriots,Buffalo Bills,outdoors,54.0,43.0,15.0
+241,2008-12-28,17,Tampa Bay Buccaneers,Oakland Raiders,outdoors,77.0,61.0,5.0
+107,2016-10-27,8,Tennessee Titans,Jacksonville Jaguars,outdoors,71.0,78.0,3.0
+228,2008-12-21,16,Tennessee Titans,Pittsburgh Steelers,outdoors,29.0,37.0,11.0
+153,2005-11-20,11,Atlanta Falcons,Tampa Bay Buccaneers,dome,,,
+138,2007-11-11,10,Baltimore Ravens,Cincinnati Bengals,outdoors,50.0,44.0,4.0
+155,2014-11-16,11,Kansas City Chiefs,Seattle Seahawks,outdoors,21.0,65.0,8.0
+103,2008-10-26,8,Baltimore Ravens,Oakland Raiders,outdoors,65.0,40.0,6.0
+158,2013-11-17,11,New Orleans Saints,San Francisco 49ers,dome,,,
+179,2012-12-02,13,Buffalo Bills,Jacksonville Jaguars,outdoors,52.0,87.0,17.0
+189,2006-12-03,13,Pittsburgh Steelers,Tampa Bay Buccaneers,outdoors,42.0,43.0,7.0
+230,2007-12-23,16,Detroit Lions,Kansas City Chiefs,dome,,,
+239,2012-12-23,16,Seattle Seahawks,San Francisco 49ers,outdoors,45.0,76.0,3.0
+141,2014-11-09,10,Jacksonville Jaguars,Dallas Cowboys,outdoors,50.0,71.0,3.0
+123,2010-11-07,9,Carolina Panthers,New Orleans Saints,outdoors,50.0,33.0,7.0
+155,2016-11-20,11,Cleveland Browns,Pittsburgh Steelers,outdoors,36.0,,27.0
+142,2011-11-13,10,San Francisco 49ers,New York Giants,outdoors,58.0,74.0,10.0
+196,2009-12-13,14,Atlanta Falcons,New Orleans Saints,dome,,,
+150,2014-11-16,11,Chicago Bears,Minnesota Vikings,outdoors,31.0,76.0,12.0
+103,2011-10-30,8,St. Louis Rams,New Orleans Saints,dome,,,
+135,2003-11-09,10,Carolina Panthers,Tampa Bay Buccaneers,outdoors,50.0,46.0,13.0
+113,2014-10-26,8,Tennessee Titans,Houston Texans,outdoors,73.0,45.0,2.0
+249,2017-12-31,17,Tennessee Titans,Jacksonville Jaguars,outdoors,23.0,,5.0
+158,2017-11-19,11,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+244,2016-01-03,17,Miami Dolphins,New England Patriots,outdoors,80.0,65.0,7.0
+201,2012-12-09,14,Carolina Panthers,Atlanta Falcons,outdoors,70.0,50.0,4.0
+191,2002-12-02,13,Oakland Raiders,New York Jets,outdoors,57.0,74.0,7.0
+155,2015-11-22,11,San Diego Chargers,Kansas City Chiefs,outdoors,87.0,12.0,4.0
+90,2009-10-25,7,St. Louis Rams,Indianapolis Colts,dome,,,
+84,2011-10-16,6,Oakland Raiders,Cleveland Browns,outdoors,71.0,60.0,8.0
+188,2011-12-04,13,San Francisco 49ers,St. Louis Rams,outdoors,53.0,48.0,2.0
+254,2012-12-30,17,Seattle Seahawks,St. Louis Rams,outdoors,41.0,77.0,1.0
+126,2004-11-07,9,St. Louis Rams,New England Patriots,dome,,,
+92,2002-10-20,7,Detroit Lions,Chicago Bears,dome,,,
+143,2015-11-15,10,New York Giants,New England Patriots,outdoors,60.0,31.0,8.0
+225,2013-12-22,16,Houston Texans,Denver Broncos,retractable roof (closed),,,
+128,2004-11-07,9,Baltimore Ravens,Cleveland Browns,outdoors,61.0,56.0,7.0
+213,2013-12-15,15,Miami Dolphins,New England Patriots,outdoors,84.0,70.0,14.0
+207,2007-12-10,14,Atlanta Falcons,New Orleans Saints,dome,,,
+236,2015-12-27,16,Arizona Cardinals,Green Bay Packers,retractable roof (closed),,,
+210,2003-12-14,15,Tampa Bay Buccaneers,Houston Texans,outdoors,67.0,93.0,7.0
+79,2014-10-12,6,Buffalo Bills,New England Patriots,outdoors,55.0,45.0,6.0
+141,2012-11-11,10,Seattle Seahawks,New York Jets,outdoors,43.0,66.0,2.0
+166,2002-11-24,12,Baltimore Ravens,Tennessee Titans,outdoors,53.0,47.0,12.0
+130,2008-11-06,10,Cleveland Browns,Denver Broncos,outdoors,56.0,52.0,6.0
+249,2016-01-03,17,New York Giants,Philadelphia Eagles,outdoors,45.0,38.0,17.0
+90,2005-10-23,7,Philadelphia Eagles,San Diego Chargers,outdoors,53.0,45.0,17.0
+217,2012-12-16,15,Buffalo Bills,Seattle Seahawks,dome,,,
+214,2009-12-20,15,Buffalo Bills,New England Patriots,outdoors,28.0,52.0,5.0
+190,2011-12-04,13,New Orleans Saints,Detroit Lions,dome,,,
+219,2011-12-18,15,Arizona Cardinals,Cleveland Browns,retractable roof (closed),,,
+132,2016-11-07,9,Seattle Seahawks,Buffalo Bills,outdoors,61.0,,4.0
+89,2009-10-19,6,San Diego Chargers,Denver Broncos,outdoors,68.0,73.0,8.0
+109,2003-10-26,8,New Orleans Saints,Carolina Panthers,dome,,,
+89,2005-10-23,7,Minnesota Vikings,Green Bay Packers,dome,,,
+78,2010-10-17,6,Pittsburgh Steelers,Cleveland Browns,outdoors,61.0,48.0,13.0
+116,2003-11-02,9,Houston Texans,Carolina Panthers,retractable roof (closed),,,
+255,2017-01-01,17,Detroit Lions,Green Bay Packers,dome,,,
+107,2015-11-01,8,St. Louis Rams,San Francisco 49ers,dome,,,
+239,2015-12-28,16,Denver Broncos,Cincinnati Bengals,outdoors,16.0,75.0,6.0
+253,2016-01-03,17,Carolina Panthers,Tampa Bay Buccaneers,outdoors,54.0,31.0,4.0
+155,2005-11-20,11,Cincinnati Bengals,Indianapolis Colts,outdoors,55.0,40.0,10.0
+166,2007-11-25,12,Cincinnati Bengals,Tennessee Titans,outdoors,42.0,67.0,2.0
+246,2017-12-31,17,New York Giants,Washington Redskins,outdoors,16.0,,16.0
+119,2006-11-05,9,Tampa Bay Buccaneers,New Orleans Saints,outdoors,81.0,48.0,16.0
+167,2007-11-25,12,Carolina Panthers,New Orleans Saints,outdoors,46.0,41.0,5.0
+132,2008-11-09,10,Houston Texans,Baltimore Ravens,retractable roof (open),,,
+132,2005-11-13,10,New York Giants,Minnesota Vikings,outdoors,62.0,44.0,14.0
+204,2011-12-11,14,Green Bay Packers,Oakland Raiders,outdoors,43.0,55.0,15.0
+114,2002-10-27,8,Washington Redskins,Indianapolis Colts,outdoors,55.0,64.0,7.0
+247,2013-12-29,17,Atlanta Falcons,Carolina Panthers,dome,,,
+169,2006-11-26,12,Minnesota Vikings,Arizona Cardinals,dome,,,
+149,2008-11-16,11,Miami Dolphins,Oakland Raiders,outdoors,67.0,39.0,11.0
+210,2012-12-16,15,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+237,2005-12-25,16,Green Bay Packers,Chicago Bears,outdoors,34.0,86.0,6.0
+215,2007-12-16,15,Miami Dolphins,Baltimore Ravens,outdoors,79.0,84.0,20.0
+120,2015-11-08,9,New England Patriots,Washington Redskins,outdoors,54.0,34.0,12.0
+206,2011-12-11,14,Dallas Cowboys,New York Giants,retractable roof (closed),,,
+241,2016-01-03,17,Chicago Bears,Detroit Lions,outdoors,31.0,67.0,15.0
+176,2011-12-01,13,Seattle Seahawks,Philadelphia Eagles,outdoors,38.0,0.0,2.0
+78,2014-10-12,6,Cleveland Browns,Pittsburgh Steelers,outdoors,58.0,48.0,13.0
+222,2008-12-14,15,Dallas Cowboys,New York Giants,outdoors,71.0,57.0,
+238,2009-12-27,16,Washington Redskins,Dallas Cowboys,outdoors,37.0,53.0,8.0
+89,2012-10-14,6,Houston Texans,Green Bay Packers,retractable roof (closed),,,
+199,2002-12-08,14,Jacksonville Jaguars,Cleveland Browns,outdoors,63.0,67.0,6.0
+77,2009-10-18,6,Pittsburgh Steelers,Cleveland Browns,outdoors,41.0,77.0,9.0
+166,2003-11-23,12,Houston Texans,New England Patriots,retractable roof (closed),,,
+139,2015-11-15,10,Tampa Bay Buccaneers,Dallas Cowboys,outdoors,79.0,56.0,13.0
+217,2004-12-19,15,Cleveland Browns,San Diego Chargers,outdoors,18.0,68.0,30.0
+156,2002-11-17,11,Miami Dolphins,Baltimore Ravens,outdoors,68.0,65.0,12.0
+163,2016-11-24,12,Indianapolis Colts,Pittsburgh Steelers,retractable roof (closed),,,
+149,2004-11-21,11,Buffalo Bills,St. Louis Rams,outdoors,50.0,74.0,10.0
+209,2008-12-14,15,St. Louis Rams,Seattle Seahawks,dome,,,
+224,2014-12-18,16,Jacksonville Jaguars,Tennessee Titans,outdoors,58.0,0.0,2.0
+125,2017-11-05,9,Carolina Panthers,Atlanta Falcons,outdoors,61.0,,4.0
+194,2007-12-09,14,Tennessee Titans,San Diego Chargers,outdoors,69.0,85.0,7.0
+182,2008-11-30,13,Cincinnati Bengals,Baltimore Ravens,outdoors,42.0,93.0,3.0
+120,2006-11-05,9,New York Giants,Houston Texans,outdoors,46.0,36.0,1.0
+177,2008-11-27,13,Dallas Cowboys,Seattle Seahawks,outdoors,69.0,31.0,
+184,2005-12-04,13,New Orleans Saints,Tampa Bay Buccaneers,outdoors,74.0,65.0,9.0
+216,2010-12-19,15,Tampa Bay Buccaneers,Detroit Lions,outdoors,54.0,96.0,10.0
+208,2012-12-13,15,Philadelphia Eagles,Cincinnati Bengals,outdoors,36.0,55.0,1.0
+149,2017-11-19,11,Green Bay Packers,Baltimore Ravens,outdoors,28.0,,14.0
+166,2004-11-28,12,New York Giants,Philadelphia Eagles,outdoors,61.0,82.0,3.0
+132,2017-11-09,10,Arizona Cardinals,Seattle Seahawks,retractable roof (open),,,
+167,2006-11-26,12,Washington Redskins,Carolina Panthers,outdoors,60.0,61.0,3.0
+161,2006-11-23,12,Dallas Cowboys,Tampa Bay Buccaneers,outdoors,76.0,37.0,
+201,2007-12-09,14,San Francisco 49ers,Minnesota Vikings,outdoors,53.0,42.0,6.0
+128,2017-11-05,9,San Francisco 49ers,Arizona Cardinals,outdoors,61.0,,8.0
+181,2016-12-04,13,Baltimore Ravens,Miami Dolphins,outdoors,47.0,,3.0
+107,2008-10-26,8,Carolina Panthers,Arizona Cardinals,outdoors,70.0,80.0,
+157,2008-11-16,11,Pittsburgh Steelers,San Diego Chargers,outdoors,35.0,80.0,14.0
+163,2003-11-23,12,Dallas Cowboys,Carolina Panthers,outdoors,44.0,53.0,10.0
+214,2003-12-14,15,Cincinnati Bengals,San Francisco 49ers,outdoors,30.0,92.0,5.0
+202,2007-12-09,14,Seattle Seahawks,Arizona Cardinals,outdoors,35.0,83.0,
+226,2003-12-20,16,New York Jets,New England Patriots,outdoors,30.0,47.0,12.0
+201,2013-12-08,14,Washington Redskins,Kansas City Chiefs,outdoors,30.0,79.0,10.0
+178,2002-12-01,13,Minnesota Vikings,Atlanta Falcons,dome,,,
+168,2006-11-26,12,Cleveland Browns,Cincinnati Bengals,outdoors,61.0,0.0,5.0
+142,2002-11-10,10,New York Jets,Miami Dolphins,outdoors,65.0,90.0,10.0
+150,2005-11-20,11,New England Patriots,New Orleans Saints,outdoors,51.0,38.0,12.0
+248,2010-01-03,17,Minnesota Vikings,New York Giants,dome,,,
+206,2013-12-08,14,New Orleans Saints,Carolina Panthers,dome,,,
+249,2013-12-29,17,Arizona Cardinals,San Francisco 49ers,retractable roof (closed),,,
+232,2009-12-27,16,New Orleans Saints,Tampa Bay Buccaneers,dome,,,
+202,2015-12-13,14,Carolina Panthers,Atlanta Falcons,outdoors,63.0,93.0,6.0
+132,2010-11-14,10,Buffalo Bills,Detroit Lions,outdoors,58.0,36.0,12.0
+147,2013-11-14,11,Tennessee Titans,Indianapolis Colts,outdoors,44.0,36.0,3.0
+76,2004-10-17,6,Atlanta Falcons,San Diego Chargers,dome,,,
+198,2006-12-10,14,Detroit Lions,Minnesota Vikings,dome,,,
+220,2007-12-16,15,San Diego Chargers,Detroit Lions,outdoors,67.0,63.0,8.0
+174,2006-11-26,12,Indianapolis Colts,Philadelphia Eagles,dome,,,
+212,2008-12-14,15,New York Jets,Buffalo Bills,outdoors,40.0,47.0,20.0
+226,2010-12-26,16,St. Louis Rams,San Francisco 49ers,dome,,,
+109,2012-10-28,8,Green Bay Packers,Jacksonville Jaguars,outdoors,44.0,47.0,10.0
+170,2005-11-27,12,Oakland Raiders,Miami Dolphins,outdoors,52.0,57.0,
+216,2002-12-15,15,New Orleans Saints,Minnesota Vikings,dome,,,
+200,2011-12-11,14,Tennessee Titans,New Orleans Saints,outdoors,41.0,44.0,7.0
+217,2015-12-20,15,Oakland Raiders,Green Bay Packers,outdoors,54.0,70.0,18.0
+81,2016-10-16,6,New York Giants,Baltimore Ravens,outdoors,66.0,65.0,6.0
+118,2014-10-26,8,Pittsburgh Steelers,Indianapolis Colts,outdoors,62.0,28.0,12.0
+179,2017-12-03,13,Atlanta Falcons,Minnesota Vikings,dome,,,
+140,2010-11-14,10,Arizona Cardinals,Seattle Seahawks,retractable roof (closed),,,
+192,2011-12-08,14,Pittsburgh Steelers,Cleveland Browns,outdoors,31.0,74.0,6.0
+229,2011-12-24,16,New England Patriots,Miami Dolphins,outdoors,30.0,0.0,7.0
+105,2013-10-20,7,Indianapolis Colts,Denver Broncos,retractable roof (open),,,
+182,2011-12-04,13,Miami Dolphins,Oakland Raiders,outdoors,80.0,49.0,22.0
+175,2014-11-24,12,New Orleans Saints,Baltimore Ravens,dome,,,
+105,2015-10-29,8,New England Patriots,Miami Dolphins,outdoors,58.0,39.0,10.0
+152,2004-11-21,11,New Orleans Saints,Denver Broncos,dome,,,
+184,2015-12-06,13,Miami Dolphins,Baltimore Ravens,outdoors,80.0,70.0,21.0
+237,2006-12-24,16,Seattle Seahawks,San Diego Chargers,outdoors,47.0,55.0,18.0
+140,2013-11-10,10,New York Giants,Oakland Raiders,outdoors,49.0,71.0,14.0
+214,2014-12-14,15,New York Giants,Washington Redskins,outdoors,43.0,63.0,9.0
+135,2009-11-15,10,Carolina Panthers,Atlanta Falcons,outdoors,73.0,80.0,3.0
+224,2002-12-21,16,Minnesota Vikings,Miami Dolphins,dome,,,
+163,2017-11-26,12,Indianapolis Colts,Tennessee Titans,retractable roof (open),,,
+166,2011-11-27,12,Tennessee Titans,Tampa Bay Buccaneers,outdoors,47.0,96.0,20.0
+196,2003-12-07,14,Baltimore Ravens,Cincinnati Bengals,outdoors,34.0,53.0,20.0
+252,2007-12-30,17,New York Jets,Kansas City Chiefs,outdoors,41.0,52.0,7.0
+126,2016-11-06,9,Cleveland Browns,Dallas Cowboys,outdoors,58.0,,4.0
+141,2008-11-09,10,San Diego Chargers,Kansas City Chiefs,outdoors,62.0,61.0,24.0
+134,2017-11-12,10,Chicago Bears,Green Bay Packers,outdoors,40.0,,6.0
+253,2017-12-31,17,Seattle Seahawks,Arizona Cardinals,outdoors,40.0,,7.0
+94,2006-10-22,7,Atlanta Falcons,Pittsburgh Steelers,dome,,,
+177,2013-11-28,13,Dallas Cowboys,Oakland Raiders,retractable roof (closed),,,
+85,2011-10-16,6,Baltimore Ravens,Houston Texans,outdoors,72.0,29.0,10.0
+241,2014-12-28,17,Minnesota Vikings,Chicago Bears,outdoors,15.0,77.0,
+92,2008-10-19,7,Buffalo Bills,San Diego Chargers,outdoors,51.0,46.0,4.0
+189,2005-12-04,13,New England Patriots,New York Jets,outdoors,26.0,100.0,4.0
+232,2006-12-24,16,Atlanta Falcons,Carolina Panthers,dome,,,
+213,2007-12-16,15,Carolina Panthers,Seattle Seahawks,outdoors,45.0,78.0,18.0
+108,2012-10-28,8,Chicago Bears,Carolina Panthers,outdoors,49.0,51.0,18.0
+199,2013-12-08,14,New York Jets,Oakland Raiders,outdoors,33.0,51.0,6.0
+104,2017-10-22,7,New England Patriots,Atlanta Falcons,outdoors,56.0,,2.0
+202,2005-12-11,14,Seattle Seahawks,San Francisco 49ers,outdoors,36.0,97.0,1.0
+99,2007-10-21,7,Dallas Cowboys,Minnesota Vikings,outdoors,88.0,33.0,
+185,2009-12-06,13,Carolina Panthers,Tampa Bay Buccaneers,outdoors,43.0,50.0,7.0
+80,2016-10-16,6,Tennessee Titans,Cleveland Browns,outdoors,75.0,70.0,10.0
+194,2014-12-07,14,Minnesota Vikings,New York Jets,outdoors,32.0,0.0,17.0
+230,2003-12-21,16,St. Louis Rams,Cincinnati Bengals,dome,,,
+204,2008-12-07,14,Arizona Cardinals,St. Louis Rams,retractable roof (open),,,
+131,2003-11-09,10,Jacksonville Jaguars,Indianapolis Colts,outdoors,62.0,77.0,15.0
+199,2009-12-13,14,Houston Texans,Seattle Seahawks,retractable roof (closed),,,
+204,2007-12-09,14,New York Jets,Cleveland Browns,outdoors,38.0,51.0,4.0
+107,2003-10-26,8,Baltimore Ravens,Denver Broncos,outdoors,67.0,0.0,12.0
+230,2004-12-26,16,Cincinnati Bengals,New York Giants,outdoors,24.0,81.0,3.0
+158,2003-11-16,11,New England Patriots,Dallas Cowboys,outdoors,33.0,64.0,
+186,2003-11-30,13,Washington Redskins,New Orleans Saints,outdoors,49.0,51.0,9.0
+254,2016-01-03,17,Kansas City Chiefs,Oakland Raiders,outdoors,37.0,56.0,9.0
+210,2017-12-16,15,Kansas City Chiefs,Los Angeles Chargers,outdoors,53.0,,9.0
+200,2005-12-11,14,Arizona Cardinals,Washington Redskins,outdoors,66.0,13.0,
+117,2016-10-30,8,Atlanta Falcons,Green Bay Packers,dome,,,
+150,2015-11-22,11,Atlanta Falcons,Indianapolis Colts,dome,,,
+233,2002-12-22,16,Atlanta Falcons,Detroit Lions,dome,,,
+96,2014-10-19,7,Baltimore Ravens,Atlanta Falcons,outdoors,54.0,0.0,14.0
+205,2016-12-11,14,Los Angeles Rams,Atlanta Falcons,outdoors,65.0,,1.0
+95,2012-10-21,7,Houston Texans,Baltimore Ravens,retractable roof (closed),,,
+255,2003-12-28,17,Baltimore Ravens,Pittsburgh Steelers,outdoors,42.0,64.0,5.0
+178,2016-12-04,13,Green Bay Packers,Houston Texans,outdoors,32.0,,8.0
+120,2002-11-03,9,Cleveland Browns,Pittsburgh Steelers,outdoors,40.0,0.0,6.0
+220,2016-12-18,15,San Diego Chargers,Oakland Raiders,outdoors,62.0,,5.0
+109,2014-10-26,8,New York Jets,Buffalo Bills,outdoors,59.0,44.0,16.0
+102,2006-10-29,8,Tennessee Titans,Houston Texans,outdoors,72.0,33.0,8.0
+123,2007-11-04,9,New York Jets,Washington Redskins,outdoors,55.0,44.0,8.0
+113,2007-10-28,8,San Francisco 49ers,New Orleans Saints,outdoors,63.0,70.0,6.0
+183,2006-12-03,13,Washington Redskins,Atlanta Falcons,outdoors,44.0,56.0,5.0
+110,2007-10-28,8,Tampa Bay Buccaneers,Jacksonville Jaguars,outdoors,84.0,57.0,11.0
+246,2014-12-28,17,Kansas City Chiefs,San Diego Chargers,outdoors,31.0,63.0,7.0
+242,2003-12-27,17,Washington Redskins,Philadelphia Eagles,outdoors,46.0,39.0,12.0
+178,2009-12-06,13,Pittsburgh Steelers,Oakland Raiders,outdoors,28.0,54.0,6.0
+203,2006-12-10,14,San Francisco 49ers,Green Bay Packers,outdoors,58.0,70.0,15.0
+166,2006-11-26,12,New York Jets,Houston Texans,outdoors,56.0,59.0,10.0
+232,2015-12-27,16,Tampa Bay Buccaneers,Chicago Bears,outdoors,83.0,59.0,13.0
+252,2006-01-01,17,Jacksonville Jaguars,Tennessee Titans,outdoors,69.0,78.0,7.0
+92,2017-10-22,7,Buffalo Bills,Tampa Bay Buccaneers,outdoors,74.0,,9.0
+121,2003-11-02,9,Chicago Bears,San Diego Chargers,outdoors,57.0,96.0,
+104,2006-10-29,8,Chicago Bears,San Francisco 49ers,outdoors,46.0,39.0,9.0
+131,2013-11-03,9,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+250,2010-01-03,17,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+136,2012-11-11,10,Baltimore Ravens,Oakland Raiders,outdoors,61.0,56.0,6.0
+220,2006-12-17,15,New York Giants,Philadelphia Eagles,outdoors,56.0,43.0,7.0
+228,2013-12-22,16,New York Jets,Cleveland Browns,outdoors,70.0,65.0,12.0
+138,2008-11-09,10,Minnesota Vikings,Green Bay Packers,dome,,,
+210,2015-12-20,15,Baltimore Ravens,Kansas City Chiefs,outdoors,41.0,35.0,5.0
+100,2004-10-24,7,Arizona Cardinals,Seattle Seahawks,outdoors,77.0,30.0,
+135,2005-11-13,10,Miami Dolphins,New England Patriots,outdoors,82.0,60.0,18.0
+171,2003-11-23,12,Kansas City Chiefs,Oakland Raiders,outdoors,30.0,76.0,14.0
+129,2005-11-07,9,New England Patriots,Indianapolis Colts,outdoors,51.0,39.0,8.0
+125,2007-11-04,9,Cleveland Browns,Seattle Seahawks,outdoors,48.0,50.0,6.0
+90,2004-10-24,7,Kansas City Chiefs,Atlanta Falcons,outdoors,69.0,41.0,9.0
+204,2003-12-07,14,Denver Broncos,Kansas City Chiefs,outdoors,63.0,23.0,8.0
+207,2014-12-08,14,Green Bay Packers,Atlanta Falcons,outdoors,33.0,96.0,
+170,2012-11-25,12,Miami Dolphins,Seattle Seahawks,outdoors,72.0,51.0,6.0
+246,2011-01-02,17,Atlanta Falcons,Carolina Panthers,dome,,,
+216,2005-12-18,15,Tennessee Titans,Seattle Seahawks,outdoors,45.0,44.0,4.0
+214,2015-12-20,15,New England Patriots,Tennessee Titans,outdoors,40.0,41.0,12.0
+114,2017-10-29,8,New Orleans Saints,Chicago Bears,dome,,,
+77,2017-10-12,6,Carolina Panthers,Philadelphia Eagles,outdoors,72.0,,6.0
+206,2015-12-13,14,Houston Texans,New England Patriots,retractable roof (closed),,,
+184,2003-11-30,13,Houston Texans,Atlanta Falcons,retractable roof (closed),,,
+205,2014-12-07,14,Philadelphia Eagles,Seattle Seahawks,outdoors,45.0,32.0,15.0
+129,2009-11-12,10,San Francisco 49ers,Chicago Bears,outdoors,60.0,51.0,18.0
+160,2007-11-22,12,Detroit Lions,Green Bay Packers,dome,,,
+100,2002-10-20,7,Green Bay Packers,Washington Redskins,outdoors,44.0,47.0,15.0
+162,2015-11-26,12,Green Bay Packers,Chicago Bears,outdoors,39.0,92.0,19.0
+110,2008-10-26,8,New Orleans Saints,San Diego Chargers,outdoors,54.0,94.0,9.0
+93,2014-10-19,7,Chicago Bears,Miami Dolphins,outdoors,50.0,64.0,10.0
+217,2009-12-20,15,San Diego Chargers,Cincinnati Bengals,outdoors,72.0,54.0,8.0
+145,2011-11-14,10,Green Bay Packers,Minnesota Vikings,outdoors,47.0,68.0,13.0
+142,2016-11-13,10,San Diego Chargers,Miami Dolphins,outdoors,85.0,,11.0
+208,2004-12-18,15,New York Giants,Pittsburgh Steelers,outdoors,42.0,65.0,5.0
+253,2003-12-28,17,Green Bay Packers,Denver Broncos,outdoors,45.0,89.0,15.0
+174,2014-11-24,12,Buffalo Bills,New York Jets,dome,,,
+242,2006-12-31,17,New York Jets,Oakland Raiders,outdoors,40.0,46.0,
+92,2016-10-20,7,Green Bay Packers,Chicago Bears,outdoors,47.0,63.0,10.0
+242,2017-01-01,17,Tennessee Titans,Houston Texans,outdoors,52.0,,7.0
+203,2013-12-08,14,San Diego Chargers,New York Giants,outdoors,53.0,53.0,8.0
+128,2002-11-03,9,New York Giants,Jacksonville Jaguars,outdoors,43.0,47.0,
+119,2003-11-02,9,Detroit Lions,Oakland Raiders,dome,,,
+189,2002-12-01,13,San Francisco 49ers,Seattle Seahawks,outdoors,58.0,14.0,
+196,2016-12-11,14,Detroit Lions,Chicago Bears,dome,,,
+119,2009-11-08,9,Tampa Bay Buccaneers,Green Bay Packers,outdoors,82.0,48.0,13.0
+254,2003-12-28,17,San Diego Chargers,Oakland Raiders,outdoors,61.0,48.0,8.0
+90,2003-10-19,7,Carolina Panthers,Tennessee Titans,outdoors,67.0,54.0,3.0
+90,2016-10-16,6,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+146,2015-11-19,11,Jacksonville Jaguars,Tennessee Titans,outdoors,75.0,90.0,5.0
+242,2011-01-02,17,Cleveland Browns,Pittsburgh Steelers,outdoors,25.0,51.0,14.0
+98,2014-10-19,7,Detroit Lions,New Orleans Saints,dome,,,
+200,2007-12-09,14,Jacksonville Jaguars,Carolina Panthers,outdoors,77.0,64.0,9.0
+223,2002-12-16,15,Tennessee Titans,New England Patriots,outdoors,57.0,81.0,3.0
+98,2009-10-25,7,Dallas Cowboys,Atlanta Falcons,retractable roof (closed),,,
+249,2012-01-01,17,Oakland Raiders,San Diego Chargers,outdoors,56.0,63.0,8.0
+220,2015-12-20,15,San Diego Chargers,Miami Dolphins,outdoors,61.0,49.0,11.0
+208,2009-12-17,15,Jacksonville Jaguars,Indianapolis Colts,outdoors,56.0,85.0,10.0
+139,2014-11-09,10,New Orleans Saints,San Francisco 49ers,dome,,,
+160,2004-11-25,12,Detroit Lions,Indianapolis Colts,dome,,,
+227,2016-12-24,16,New England Patriots,New York Jets,outdoors,40.0,,6.0
+245,2008-12-28,17,Buffalo Bills,New England Patriots,outdoors,39.0,74.0,30.0
+141,2003-11-09,10,Dallas Cowboys,Buffalo Bills,outdoors,55.0,77.0,5.0
+231,2002-12-22,16,Cincinnati Bengals,New Orleans Saints,outdoors,44.0,71.0,23.0
+227,2009-12-27,16,Miami Dolphins,Houston Texans,outdoors,75.0,65.0,6.0
+77,2002-10-13,6,Washington Redskins,New Orleans Saints,outdoors,65.0,96.0,4.0
+138,2017-11-12,10,Tennessee Titans,Cincinnati Bengals,outdoors,53.0,,4.0
+192,2002-12-08,14,Kansas City Chiefs,St. Louis Rams,outdoors,38.0,67.0,12.0
+129,2017-11-05,9,Dallas Cowboys,Kansas City Chiefs,retractable roof (closed),,,
+94,2012-10-21,7,Buffalo Bills,Tennessee Titans,outdoors,55.0,75.0,15.0
+81,2014-10-12,6,Miami Dolphins,Green Bay Packers,outdoors,86.0,63.0,13.0
+116,2016-10-30,8,Denver Broncos,San Diego Chargers,outdoors,76.0,19.0,6.0
+209,2012-12-16,15,St. Louis Rams,Minnesota Vikings,dome,,,
+171,2010-11-28,12,Baltimore Ravens,Tampa Bay Buccaneers,outdoors,48.0,37.0,3.0
+131,2012-11-05,9,New Orleans Saints,Philadelphia Eagles,dome,,,
+110,2005-10-30,8,New Orleans Saints,Miami Dolphins,outdoors,76.0,30.0,3.0
+106,2008-10-26,8,Detroit Lions,Washington Redskins,dome,,,
+206,2017-12-10,14,Pittsburgh Steelers,Baltimore Ravens,outdoors,33.0,,12.0
+122,2003-11-02,9,Tampa Bay Buccaneers,New Orleans Saints,outdoors,82.0,62.0,9.0
+89,2003-10-19,7,Cincinnati Bengals,Baltimore Ravens,outdoors,63.0,64.0,3.0
+197,2005-12-11,14,Carolina Panthers,Tampa Bay Buccaneers,outdoors,52.0,35.0,10.0
+141,2016-11-13,10,Philadelphia Eagles,Atlanta Falcons,outdoors,58.0,,10.0
+147,2017-11-19,11,Chicago Bears,Detroit Lions,outdoors,33.0,,16.0
+229,2008-12-21,16,Tampa Bay Buccaneers,San Diego Chargers,outdoors,72.0,82.0,10.0
+251,2005-01-02,17,Seattle Seahawks,Atlanta Falcons,outdoors,40.0,58.0,5.0
+187,2007-12-02,13,Arizona Cardinals,Cleveland Browns,retractable roof (open),,,
+191,2011-12-05,13,Jacksonville Jaguars,San Diego Chargers,outdoors,67.0,81.0,6.0
+123,2012-11-04,9,Cleveland Browns,Baltimore Ravens,outdoors,39.0,69.0,8.0
+108,2010-10-31,8,Cincinnati Bengals,Miami Dolphins,outdoors,54.0,57.0,11.0
+252,2011-01-02,17,San Francisco 49ers,Arizona Cardinals,outdoors,49.0,85.0,3.0
+239,2005-12-26,16,New York Jets,New England Patriots,outdoors,41.0,59.0,18.0
+236,2013-12-22,16,Baltimore Ravens,New England Patriots,outdoors,65.0,75.0,8.0
+147,2005-11-20,11,St. Louis Rams,Arizona Cardinals,dome,,,
+157,2016-11-20,11,San Francisco 49ers,New England Patriots,outdoors,64.0,,6.0
+243,2008-12-28,17,Green Bay Packers,Detroit Lions,outdoors,22.0,71.0,13.0
+125,2002-11-03,9,Seattle Seahawks,Washington Redskins,outdoors,49.0,43.0,3.0
+210,2008-12-14,15,Kansas City Chiefs,San Diego Chargers,outdoors,36.0,65.0,25.0
+207,2006-12-11,14,St. Louis Rams,Chicago Bears,dome,,,
+174,2003-11-23,12,Miami Dolphins,Washington Redskins,outdoors,74.0,66.0,10.0
+169,2008-11-23,12,Jacksonville Jaguars,Minnesota Vikings,outdoors,66.0,41.0,5.0
+178,2007-12-02,13,St. Louis Rams,Atlanta Falcons,dome,,,
+189,2017-12-03,13,Arizona Cardinals,Los Angeles Rams,retractable roof (closed),,,
+208,2011-12-15,15,Atlanta Falcons,Jacksonville Jaguars,dome,,,
+93,2003-10-19,7,New York Giants,Philadelphia Eagles,outdoors,51.0,89.0,9.0
+115,2005-10-31,8,Pittsburgh Steelers,Baltimore Ravens,outdoors,54.0,57.0,2.0
+230,2015-12-27,16,Baltimore Ravens,Pittsburgh Steelers,outdoors,64.0,87.0,9.0
+131,2011-11-13,10,Philadelphia Eagles,Arizona Cardinals,outdoors,60.0,40.0,15.0
+163,2002-11-24,12,New England Patriots,Minnesota Vikings,outdoors,49.0,0.0,20.0
+143,2014-11-09,10,Arizona Cardinals,St. Louis Rams,retractable roof (closed),,,
+114,2003-10-26,8,Kansas City Chiefs,Buffalo Bills,outdoors,45.0,50.0,5.0
+81,2006-10-15,6,Atlanta Falcons,New York Giants,dome,,,
+173,2014-11-23,12,New York Giants,Dallas Cowboys,outdoors,51.0,58.0,2.0
+104,2008-10-26,8,New England Patriots,St. Louis Rams,outdoors,61.0,54.0,7.0
+196,2004-12-12,14,Houston Texans,Indianapolis Colts,retractable roof (open),,,
+129,2002-11-04,9,Green Bay Packers,Miami Dolphins,outdoors,30.0,0.0,6.0
+173,2005-11-27,12,Philadelphia Eagles,Green Bay Packers,outdoors,50.0,59.0,4.0
+146,2017-11-16,11,Pittsburgh Steelers,Tennessee Titans,outdoors,40.0,,17.0
+126,2006-11-05,9,New England Patriots,Indianapolis Colts,outdoors,31.0,72.0,
+117,2014-10-26,8,Cleveland Browns,Oakland Raiders,outdoors,55.0,53.0,20.0
+122,2002-11-03,9,Chicago Bears,Philadelphia Eagles,outdoors,38.0,93.0,7.0
+229,2012-12-23,16,Pittsburgh Steelers,Cincinnati Bengals,outdoors,35.0,56.0,10.0
+109,2009-11-01,8,Indianapolis Colts,San Francisco 49ers,retractable roof (open),,,
+153,2003-11-16,11,Indianapolis Colts,New York Jets,dome,,,
+139,2011-11-13,10,Cleveland Browns,St. Louis Rams,outdoors,60.0,0.0,40.0
+170,2015-11-29,12,Kansas City Chiefs,Buffalo Bills,outdoors,35.0,99.0,7.0
+79,2005-10-16,6,Detroit Lions,Carolina Panthers,dome,,,
+149,2014-11-16,11,New Orleans Saints,Cincinnati Bengals,dome,,,
+254,2017-12-31,17,Tampa Bay Buccaneers,New Orleans Saints,outdoors,71.0,,3.0
+171,2015-11-29,12,Jacksonville Jaguars,San Diego Chargers,outdoors,75.0,60.0,8.0
+236,2007-12-23,16,New England Patriots,Miami Dolphins,outdoors,43.0,95.0,7.0
+198,2009-12-13,14,Indianapolis Colts,Denver Broncos,retractable roof (closed),,,
+255,2016-01-03,17,Green Bay Packers,Minnesota Vikings,outdoors,24.0,70.0,11.0
+157,2004-11-21,11,Philadelphia Eagles,Washington Redskins,outdoors,55.0,82.0,2.0
+85,2013-10-13,6,Minnesota Vikings,Carolina Panthers,dome,,,
+86,2014-10-12,6,Arizona Cardinals,Washington Redskins,retractable roof (closed),,,
+252,2012-01-01,17,Cincinnati Bengals,Baltimore Ravens,outdoors,42.0,68.0,19.0
+116,2011-11-06,9,Indianapolis Colts,Atlanta Falcons,retractable roof (open),,,
+243,2013-12-29,17,Tennessee Titans,Houston Texans,outdoors,53.0,61.0,4.0
+218,2006-12-17,15,Minnesota Vikings,New York Jets,dome,,,
+121,2014-10-30,9,Carolina Panthers,New Orleans Saints,outdoors,58.0,42.0,3.0
+156,2003-11-16,11,Oakland Raiders,Minnesota Vikings,outdoors,55.0,72.0,6.0
+202,2011-12-11,14,Denver Broncos,Chicago Bears,outdoors,50.0,22.0,7.0
+198,2007-12-09,14,Buffalo Bills,Miami Dolphins,outdoors,30.0,67.0,6.0
+93,2008-10-19,7,Chicago Bears,Minnesota Vikings,outdoors,58.0,50.0,17.0
+94,2003-10-19,7,Miami Dolphins,New England Patriots,outdoors,84.0,60.0,9.0
+184,2002-12-01,13,Cleveland Browns,Carolina Panthers,outdoors,25.0,0.0,12.0
+212,2003-12-14,15,New England Patriots,Jacksonville Jaguars,outdoors,25.0,50.0,8.0
+174,2007-11-25,12,New England Patriots,Philadelphia Eagles,outdoors,39.0,49.0,8.0
+208,2007-12-13,15,Houston Texans,Denver Broncos,retractable roof (open),,,
+157,2009-11-22,11,New England Patriots,New York Jets,outdoors,45.0,68.0,10.0
+222,2010-12-19,15,New England Patriots,Green Bay Packers,outdoors,32.0,0.0,8.0
+135,2010-11-14,10,Tampa Bay Buccaneers,Carolina Panthers,outdoors,73.0,57.0,7.0
+200,2003-12-07,14,New Orleans Saints,Tampa Bay Buccaneers,dome,,,
+127,2007-11-04,9,Indianapolis Colts,New England Patriots,dome,,,
+207,2010-12-13,14,Houston Texans,Baltimore Ravens,retractable roof (closed),,,
+136,2016-11-13,10,Washington Redskins,Minnesota Vikings,outdoors,58.0,,7.0
+100,2014-10-19,7,Washington Redskins,Tennessee Titans,outdoors,55.0,43.0,13.0
+183,2002-12-01,13,New York Giants,Tennessee Titans,outdoors,35.0,50.0,18.0
+160,2006-11-23,12,Detroit Lions,Miami Dolphins,dome,,,
+131,2002-11-10,10,Pittsburgh Steelers,Atlanta Falcons,outdoors,64.0,78.0,15.0
+190,2012-12-02,13,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+247,2006-12-31,17,Cincinnati Bengals,Pittsburgh Steelers,outdoors,54.0,91.0,8.0
+157,2003-11-16,11,Seattle Seahawks,Detroit Lions,outdoors,46.0,93.0,9.0
+219,2016-12-18,15,Atlanta Falcons,San Francisco 49ers,dome,,,
+181,2013-12-01,13,Indianapolis Colts,Tennessee Titans,retractable roof (closed),,,
+193,2008-12-07,14,Chicago Bears,Jacksonville Jaguars,outdoors,19.0,43.0,8.0
+159,2002-11-18,11,St. Louis Rams,Chicago Bears,dome,,,
+242,2013-12-29,17,Pittsburgh Steelers,Cleveland Browns,outdoors,40.0,93.0,5.0
+108,2008-10-26,8,Miami Dolphins,Buffalo Bills,outdoors,78.0,83.0,8.0
+161,2002-11-24,12,Pittsburgh Steelers,Cincinnati Bengals,outdoors,45.0,63.0,14.0
+78,2009-10-18,6,Green Bay Packers,Detroit Lions,outdoors,46.0,65.0,13.0
+203,2004-12-12,14,Carolina Panthers,St. Louis Rams,outdoors,53.0,48.0,6.0
+198,2013-12-08,14,Tampa Bay Buccaneers,Buffalo Bills,outdoors,82.0,62.0,13.0
+127,2008-11-02,9,Seattle Seahawks,Philadelphia Eagles,outdoors,58.0,71.0,13.0
+144,2015-11-15,10,Seattle Seahawks,Arizona Cardinals,outdoors,49.0,63.0,
+138,2004-11-14,10,Washington Redskins,Cincinnati Bengals,outdoors,53.0,37.0,
+133,2004-11-14,10,New Orleans Saints,Kansas City Chiefs,dome,,,
+251,2012-12-30,17,Minnesota Vikings,Green Bay Packers,dome,,,
+127,2009-11-08,9,Philadelphia Eagles,Dallas Cowboys,outdoors,61.0,61.0,1.0
+85,2017-10-15,6,Arizona Cardinals,Tampa Bay Buccaneers,retractable roof (closed),,,
+189,2009-12-06,13,Seattle Seahawks,San Francisco 49ers,outdoors,35.0,57.0,6.0
+225,2007-12-22,16,Carolina Panthers,Dallas Cowboys,outdoors,51.0,70.0,10.0
+87,2007-10-14,6,Seattle Seahawks,New Orleans Saints,outdoors,68.0,47.0,4.0
+233,2012-12-23,16,Philadelphia Eagles,Washington Redskins,outdoors,40.0,52.0,11.0
+84,2007-10-14,6,Arizona Cardinals,Carolina Panthers,retractable roof (closed),,,
+117,2012-10-29,8,Arizona Cardinals,San Francisco 49ers,retractable roof (closed),,,
+150,2009-11-22,11,New York Giants,Atlanta Falcons,outdoors,53.0,54.0,10.0
+130,2014-11-02,9,New England Patriots,Denver Broncos,outdoors,35.0,63.0,19.0
+192,2017-12-07,14,Atlanta Falcons,New Orleans Saints,dome,,,
+204,2015-12-13,14,Denver Broncos,Oakland Raiders,outdoors,45.0,33.0,2.0
+104,2011-10-30,8,Baltimore Ravens,Arizona Cardinals,outdoors,48.0,49.0,9.0
+230,2012-12-23,16,Houston Texans,Minnesota Vikings,retractable roof (closed),,,
+243,2014-12-28,17,Tennessee Titans,Indianapolis Colts,outdoors,40.0,99.0,6.0
+243,2012-12-30,17,Tennessee Titans,Jacksonville Jaguars,outdoors,39.0,50.0,4.0
+255,2006-12-31,17,Chicago Bears,Green Bay Packers,outdoors,50.0,81.0,10.0
+197,2012-12-09,14,Jacksonville Jaguars,New York Jets,outdoors,67.0,0.0,10.0
+173,2017-11-26,12,Oakland Raiders,Denver Broncos,outdoors,61.0,,13.0
+240,2005-01-02,17,Buffalo Bills,Pittsburgh Steelers,outdoors,52.0,77.0,17.0
+80,2003-10-12,6,Dallas Cowboys,Philadelphia Eagles,outdoors,70.0,68.0,5.0
+182,2009-12-06,13,Washington Redskins,New Orleans Saints,outdoors,36.0,52.0,9.0
+228,2017-12-24,16,New York Jets,Los Angeles Chargers,outdoors,40.0,,6.0
+165,2017-11-26,12,Philadelphia Eagles,Chicago Bears,outdoors,49.0,,17.0
+172,2016-11-27,12,Tampa Bay Buccaneers,Seattle Seahawks,outdoors,81.0,,6.0
+118,2013-10-27,8,Minnesota Vikings,Green Bay Packers,dome,,,
+96,2012-10-21,7,Indianapolis Colts,Cleveland Browns,retractable roof (open),,,
+232,2005-12-24,16,Cincinnati Bengals,Buffalo Bills,outdoors,51.0,57.0,10.0
+110,2003-10-26,8,Chicago Bears,Detroit Lions,outdoors,46.0,70.0,10.0
+95,2007-10-21,7,New Orleans Saints,Atlanta Falcons,dome,,,
+228,2012-12-23,16,Dallas Cowboys,New Orleans Saints,retractable roof (closed),,,
+132,2009-11-15,10,Pittsburgh Steelers,Cincinnati Bengals,outdoors,64.0,55.0,4.0
+164,2006-11-26,12,Buffalo Bills,Jacksonville Jaguars,outdoors,60.0,49.0,12.0
+134,2009-11-15,10,Tennessee Titans,Buffalo Bills,outdoors,68.0,50.0,5.0
+222,2015-12-20,15,Philadelphia Eagles,Arizona Cardinals,outdoors,37.0,54.0,4.0
+152,2015-11-22,11,Detroit Lions,Oakland Raiders,dome,,,
+119,2008-11-02,9,Chicago Bears,Detroit Lions,outdoors,60.0,65.0,9.0
+254,2013-12-29,17,San Diego Chargers,Kansas City Chiefs,outdoors,73.0,14.0,1.0
+148,2006-11-19,11,Baltimore Ravens,Atlanta Falcons,outdoors,49.0,54.0,8.0
+132,2007-11-11,10,Pittsburgh Steelers,Cleveland Browns,outdoors,40.0,85.0,3.0
+168,2013-11-24,12,Kansas City Chiefs,San Diego Chargers,outdoors,24.0,50.0,3.0
+148,2007-11-18,11,Baltimore Ravens,Cleveland Browns,outdoors,53.0,57.0,11.0
+131,2006-11-12,10,Tennessee Titans,Baltimore Ravens,outdoors,47.0,58.0,11.0
+250,2012-01-01,17,Arizona Cardinals,Seattle Seahawks,retractable roof (closed),,,
+246,2005-01-02,17,Chicago Bears,Green Bay Packers,outdoors,44.0,86.0,12.0
+191,2005-12-05,13,Philadelphia Eagles,Seattle Seahawks,outdoors,31.0,80.0,6.0
+193,2015-12-13,14,Philadelphia Eagles,Buffalo Bills,outdoors,66.0,68.0,3.0
+236,2017-12-24,16,Dallas Cowboys,Seattle Seahawks,retractable roof (closed),,,
+249,2006-12-31,17,Minnesota Vikings,St. Louis Rams,dome,,,
+153,2012-11-18,11,Carolina Panthers,Tampa Bay Buccaneers,outdoors,53.0,15.0,9.0
+121,2013-11-03,9,St. Louis Rams,Tennessee Titans,dome,,,
+236,2009-12-27,16,Indianapolis Colts,New York Jets,retractable roof (closed),,,
+196,2008-12-07,14,Green Bay Packers,Houston Texans,outdoors,3.0,79.0,3.0
+145,2007-11-18,11,Indianapolis Colts,Kansas City Chiefs,dome,,,
+151,2002-11-17,11,New York Giants,Washington Redskins,outdoors,42.0,92.0,8.0
+133,2017-11-12,10,Buffalo Bills,New Orleans Saints,outdoors,42.0,,2.0
+228,2004-12-26,16,Pittsburgh Steelers,Baltimore Ravens,outdoors,26.0,53.0,3.0
+248,2002-12-29,17,Detroit Lions,Minnesota Vikings,dome,,,
+240,2017-12-31,17,Minnesota Vikings,Chicago Bears,dome,,,
+98,2013-10-20,7,Carolina Panthers,St. Louis Rams,outdoors,68.0,42.0,4.0
+99,2005-10-23,7,New York Giants,Denver Broncos,outdoors,54.0,55.0,17.0
+85,2016-10-16,6,Washington Redskins,Philadelphia Eagles,outdoors,69.0,62.0,13.0
+81,2012-10-14,6,New York Jets,Indianapolis Colts,outdoors,65.0,55.0,14.0
+162,2005-11-27,12,Kansas City Chiefs,New England Patriots,outdoors,58.0,88.0,8.0
+241,2010-01-03,17,Miami Dolphins,Pittsburgh Steelers,outdoors,60.0,44.0,11.0
+86,2011-10-16,6,New England Patriots,Dallas Cowboys,outdoors,63.0,0.0,8.0
+120,2012-11-04,9,Houston Texans,Buffalo Bills,retractable roof (closed),,,
+122,2004-11-07,9,Detroit Lions,Washington Redskins,dome,,,
+135,2014-11-09,10,Buffalo Bills,Kansas City Chiefs,outdoors,42.0,72.0,10.0
+190,2009-12-06,13,Arizona Cardinals,Minnesota Vikings,retractable roof (closed),,,
+208,2014-12-11,15,St. Louis Rams,Arizona Cardinals,dome,,,
+210,2014-12-14,15,Baltimore Ravens,Jacksonville Jaguars,outdoors,47.0,64.0,3.0
+229,2017-12-24,16,New England Patriots,Buffalo Bills,outdoors,35.0,,7.0
+171,2009-11-29,12,San Diego Chargers,Kansas City Chiefs,outdoors,63.0,60.0,8.0
+192,2008-12-04,14,San Diego Chargers,Oakland Raiders,outdoors,62.0,70.0,8.0
+235,2011-12-24,16,Detroit Lions,San Diego Chargers,dome,,,
+87,2009-10-18,6,New York Jets,Buffalo Bills,outdoors,44.0,37.0,18.0
+234,2002-12-22,16,Jacksonville Jaguars,Tennessee Titans,outdoors,64.0,41.0,10.0
+140,2015-11-15,10,Washington Redskins,New Orleans Saints,outdoors,61.0,29.0,5.0
+225,2010-12-25,16,Arizona Cardinals,Dallas Cowboys,retractable roof (closed),,,
+100,2013-10-20,7,Washington Redskins,Chicago Bears,outdoors,61.0,39.0,13.0
+94,2005-10-23,7,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+102,2014-10-19,7,Oakland Raiders,Arizona Cardinals,outdoors,69.0,71.0,6.0
+106,2002-10-27,8,Buffalo Bills,Detroit Lions,outdoors,47.0,56.0,18.0
+164,2007-11-25,12,Kansas City Chiefs,Oakland Raiders,outdoors,43.0,60.0,6.0
+194,2006-12-10,14,Tampa Bay Buccaneers,Atlanta Falcons,outdoors,72.0,60.0,14.0
+254,2017-01-01,17,San Francisco 49ers,Seattle Seahawks,outdoors,54.0,,5.0
+118,2005-11-06,9,Tampa Bay Buccaneers,Carolina Panthers,outdoors,84.0,47.0,8.0
+184,2016-12-04,13,Cincinnati Bengals,Philadelphia Eagles,outdoors,42.0,,10.0
+142,2009-11-15,10,Indianapolis Colts,New England Patriots,retractable roof (closed),,,
+203,2011-12-11,14,Arizona Cardinals,San Francisco 49ers,retractable roof (closed),,,
+214,2011-12-18,15,Indianapolis Colts,Tennessee Titans,retractable roof (closed),,,
+228,2010-12-26,16,Cleveland Browns,Baltimore Ravens,outdoors,26.0,73.0,18.0
+166,2008-11-23,12,Detroit Lions,Tampa Bay Buccaneers,dome,,,
+108,2002-10-27,8,New York Jets,Cleveland Browns,outdoors,57.0,55.0,12.0
+198,2005-12-11,14,Tennessee Titans,Houston Texans,outdoors,43.0,53.0,12.0
+207,2012-12-10,14,New England Patriots,Houston Texans,outdoors,59.0,91.0,7.0
+109,2015-11-01,8,Pittsburgh Steelers,Cincinnati Bengals,outdoors,62.0,71.0,11.0
+131,2015-11-09,9,San Diego Chargers,Chicago Bears,outdoors,63.0,67.0,9.0
+181,2002-12-01,13,Green Bay Packers,Chicago Bears,outdoors,23.0,60.0,10.0
+120,2004-11-07,9,Pittsburgh Steelers,Philadelphia Eagles,outdoors,63.0,50.0,24.0
+251,2008-12-28,17,San Francisco 49ers,Washington Redskins,outdoors,50.0,83.0,5.0
+148,2016-11-20,11,Dallas Cowboys,Baltimore Ravens,retractable roof (closed),,,
+143,2006-11-13,10,Carolina Panthers,Tampa Bay Buccaneers,outdoors,58.0,42.0,3.0
+83,2009-10-18,6,Minnesota Vikings,Baltimore Ravens,dome,,,
+112,2009-11-01,8,San Diego Chargers,Oakland Raiders,outdoors,78.0,26.0,8.0
+171,2017-11-26,12,Los Angeles Rams,New Orleans Saints,outdoors,72.0,,1.0
+113,2016-10-30,8,Tampa Bay Buccaneers,Oakland Raiders,outdoors,86.0,54.0,15.0
+78,2004-10-17,6,Tennessee Titans,Houston Texans,outdoors,60.0,47.0,
+123,2004-11-07,9,San Francisco 49ers,Seattle Seahawks,outdoors,57.0,77.0,7.0
+179,2015-12-06,13,Chicago Bears,San Francisco 49ers,outdoors,50.0,55.0,5.0
+222,2004-12-19,15,Indianapolis Colts,Baltimore Ravens,dome,,,
+115,2010-10-31,8,New Orleans Saints,Pittsburgh Steelers,dome,,,
+210,2007-12-16,15,Kansas City Chiefs,Tennessee Titans,outdoors,22.0,71.0,6.0
+78,2011-10-16,6,New York Giants,Buffalo Bills,outdoors,65.0,40.0,15.0
+175,2016-11-27,12,Denver Broncos,Kansas City Chiefs,outdoors,44.0,,21.0
+227,2008-12-21,16,Kansas City Chiefs,Miami Dolphins,outdoors,10.0,45.0,20.0
+120,2003-11-02,9,Miami Dolphins,Indianapolis Colts,outdoors,82.0,64.0,14.0
+221,2012-12-16,15,Dallas Cowboys,Pittsburgh Steelers,retractable roof (closed),,,
+189,2007-12-02,13,New Orleans Saints,Tampa Bay Buccaneers,dome,,,
+187,2008-11-30,13,Oakland Raiders,Kansas City Chiefs,outdoors,59.0,72.0,6.0
+114,2013-10-27,8,Oakland Raiders,Pittsburgh Steelers,outdoors,56.0,81.0,17.0
+130,2017-11-05,9,Miami Dolphins,Oakland Raiders,outdoors,77.0,,2.0
+142,2005-11-13,10,Pittsburgh Steelers,Cleveland Browns,outdoors,58.0,84.0,11.0
+169,2011-11-27,12,Jacksonville Jaguars,Houston Texans,outdoors,75.0,61.0,10.0
+242,2002-12-29,17,Pittsburgh Steelers,Baltimore Ravens,outdoors,32.0,87.0,6.0
+139,2008-11-09,10,Oakland Raiders,Carolina Panthers,outdoors,62.0,59.0,12.0
+177,2002-11-28,13,Dallas Cowboys,Washington Redskins,outdoors,58.0,37.0,5.0
+213,2012-12-16,15,Miami Dolphins,Jacksonville Jaguars,outdoors,80.0,60.0,13.0
+215,2015-12-20,15,Jacksonville Jaguars,Atlanta Falcons,outdoors,65.0,60.0,8.0
+126,2005-11-06,9,San Francisco 49ers,New York Giants,outdoors,61.0,80.0,5.0
+126,2010-11-07,9,Oakland Raiders,Kansas City Chiefs,outdoors,62.0,82.0,9.0
+74,2008-10-12,6,Houston Texans,Miami Dolphins,retractable roof (open),,,
+88,2007-10-15,6,Atlanta Falcons,New York Giants,dome,,,
+116,2012-10-28,8,Denver Broncos,New Orleans Saints,outdoors,59.0,30.0,5.0
+238,2014-12-21,16,Arizona Cardinals,Seattle Seahawks,retractable roof (closed),,,
+235,2010-12-26,16,Denver Broncos,Houston Texans,outdoors,50.0,18.0,7.0
+254,2002-12-29,17,Chicago Bears,Tampa Bay Buccaneers,outdoors,38.0,0.0,7.0
+158,2016-11-20,11,Seattle Seahawks,Philadelphia Eagles,outdoors,54.0,,5.0
+212,2006-12-17,15,New England Patriots,Houston Texans,outdoors,52.0,45.0,10.0
+154,2012-11-18,11,Dallas Cowboys,Cleveland Browns,retractable roof (closed),,,
+180,2016-12-04,13,New Orleans Saints,Detroit Lions,dome,,,
+80,2011-10-16,6,Atlanta Falcons,Carolina Panthers,dome,,,
+140,2004-11-14,10,San Francisco 49ers,Carolina Panthers,outdoors,59.0,83.0,3.0
+150,2003-11-16,11,Miami Dolphins,Baltimore Ravens,outdoors,79.0,60.0,16.0
+123,2017-11-05,9,Tennessee Titans,Baltimore Ravens,outdoors,75.0,,10.0
+162,2007-11-22,12,Atlanta Falcons,Indianapolis Colts,dome,,,
+144,2014-11-09,10,Seattle Seahawks,New York Giants,outdoors,50.0,88.0,
+140,2005-11-13,10,Tampa Bay Buccaneers,Washington Redskins,outdoors,81.0,48.0,9.0
+204,2016-12-11,14,Green Bay Packers,Seattle Seahawks,outdoors,26.0,,5.0
+146,2003-11-16,11,Tennessee Titans,Jacksonville Jaguars,outdoors,60.0,96.0,6.0
+104,2004-10-31,8,Houston Texans,Jacksonville Jaguars,retractable roof (open),,,
+165,2007-11-25,12,Tampa Bay Buccaneers,Washington Redskins,outdoors,81.0,61.0,8.0
+246,2017-01-01,17,Tampa Bay Buccaneers,Carolina Panthers,outdoors,81.0,,6.0
+255,2007-12-30,17,Indianapolis Colts,Tennessee Titans,dome,,,
+244,2006-12-31,17,Dallas Cowboys,Detroit Lions,outdoors,45.0,58.0,
+106,2013-10-21,7,New York Giants,Minnesota Vikings,outdoors,57.0,63.0,4.0
+129,2011-11-07,9,Philadelphia Eagles,Chicago Bears,outdoors,51.0,74.0,2.0
+179,2011-12-04,13,Tampa Bay Buccaneers,Carolina Panthers,outdoors,79.0,46.0,13.0
+121,2015-11-08,9,New York Jets,Jacksonville Jaguars,outdoors,56.0,36.0,10.0
+111,2014-10-26,8,New England Patriots,Chicago Bears,outdoors,54.0,53.0,14.0
+99,2016-10-23,7,Tennessee Titans,Indianapolis Colts,outdoors,68.0,50.0,5.0
+244,2012-12-30,17,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+242,2008-12-28,17,Cincinnati Bengals,Kansas City Chiefs,outdoors,43.0,56.0,17.0
+79,2002-10-13,6,Cincinnati Bengals,Pittsburgh Steelers,outdoors,54.0,67.0,15.0
+177,2016-12-01,13,Minnesota Vikings,Dallas Cowboys,dome,,,
+193,2011-12-11,14,Baltimore Ravens,Indianapolis Colts,outdoors,43.0,34.0,2.0
+212,2007-12-16,15,New England Patriots,New York Jets,outdoors,36.0,88.0,17.0
+121,2010-11-07,9,Baltimore Ravens,Miami Dolphins,outdoors,50.0,38.0,11.0
+188,2004-12-05,13,Philadelphia Eagles,Green Bay Packers,outdoors,55.0,38.0,14.0
+210,2013-12-15,15,Jacksonville Jaguars,Buffalo Bills,outdoors,60.0,0.0,20.0
+161,2013-11-18,11,Carolina Panthers,New England Patriots,outdoors,59.0,35.0,8.0
+196,2010-12-12,14,Detroit Lions,Green Bay Packers,dome,,,
+75,2003-10-12,6,Jacksonville Jaguars,Miami Dolphins,outdoors,75.0,87.0,13.0
+137,2010-11-14,10,Jacksonville Jaguars,Houston Texans,outdoors,70.0,50.0,5.0
+245,2013-12-29,17,New York Giants,Washington Redskins,outdoors,40.0,100.0,2.0
+225,2008-12-20,16,Dallas Cowboys,Baltimore Ravens,outdoors,45.0,45.0,
+166,2009-11-29,12,New York Jets,Carolina Panthers,outdoors,53.0,44.0,9.0
+241,2006-12-31,17,Kansas City Chiefs,Jacksonville Jaguars,outdoors,40.0,89.0,10.0
+233,2008-12-21,16,Oakland Raiders,Houston Texans,outdoors,48.0,80.0,6.0
+168,2003-11-23,12,New York Jets,Jacksonville Jaguars,outdoors,53.0,73.0,
+114,2015-11-01,8,New Orleans Saints,New York Giants,dome,,,
+178,2010-12-05,13,Green Bay Packers,San Francisco 49ers,outdoors,26.0,60.0,16.0
+101,2015-10-25,7,San Diego Chargers,Oakland Raiders,outdoors,77.0,48.0,4.0
+74,2004-10-17,6,Buffalo Bills,Miami Dolphins,outdoors,45.0,0.0,25.0
+129,2006-11-12,10,Indianapolis Colts,Buffalo Bills,dome,,,
+176,2017-11-30,13,Dallas Cowboys,Washington Redskins,retractable roof (closed),,,
+134,2008-11-09,10,Chicago Bears,Tennessee Titans,outdoors,37.0,63.0,16.0
+209,2007-12-15,15,San Francisco 49ers,Cincinnati Bengals,outdoors,52.0,74.0,
+169,2016-11-27,12,New Orleans Saints,Los Angeles Rams,dome,,,
+76,2007-10-14,6,Kansas City Chiefs,Cincinnati Bengals,outdoors,68.0,56.0,12.0
+247,2012-12-30,17,Detroit Lions,Chicago Bears,dome,,,
+148,2005-11-20,11,Washington Redskins,Oakland Raiders,outdoors,55.0,55.0,4.0
+118,2009-11-08,9,Indianapolis Colts,Houston Texans,retractable roof (open),,,
+239,2003-12-22,16,Oakland Raiders,Green Bay Packers,outdoors,54.0,83.0,6.0
+90,2010-10-24,7,Miami Dolphins,Pittsburgh Steelers,outdoors,80.0,84.0,13.0
+77,2003-10-12,6,New England Patriots,New York Giants,outdoors,55.0,94.0,10.0
+124,2015-11-08,9,Pittsburgh Steelers,Oakland Raiders,outdoors,54.0,38.0,5.0
+237,2003-12-21,16,Philadelphia Eagles,San Francisco 49ers,outdoors,35.0,58.0,16.0
+102,2013-10-20,7,Pittsburgh Steelers,Baltimore Ravens,outdoors,57.0,49.0,14.0
+215,2011-12-18,15,Chicago Bears,Seattle Seahawks,outdoors,39.0,65.0,5.0
+213,2008-12-14,15,Miami Dolphins,San Francisco 49ers,outdoors,77.0,54.0,17.0
+98,2010-10-24,7,Atlanta Falcons,Cincinnati Bengals,dome,,,
+228,2009-12-27,16,Pittsburgh Steelers,Baltimore Ravens,outdoors,39.0,49.0,9.0
+94,2008-10-19,7,Carolina Panthers,New Orleans Saints,outdoors,65.0,71.0,12.0
+187,2011-12-04,13,Arizona Cardinals,Dallas Cowboys,retractable roof (closed),,,
+139,2016-11-13,10,New Orleans Saints,Denver Broncos,dome,,,
+152,2009-11-22,11,Jacksonville Jaguars,Buffalo Bills,outdoors,74.0,85.0,10.0
+182,2017-12-03,13,Tennessee Titans,Houston Texans,outdoors,60.0,,4.0
+212,2004-12-19,15,New York Jets,Seattle Seahawks,outdoors,45.0,82.0,5.0
+198,2012-12-09,14,Tampa Bay Buccaneers,Philadelphia Eagles,outdoors,69.0,92.0,1.0
+141,2010-11-14,10,San Francisco 49ers,St. Louis Rams,outdoors,74.0,50.0,5.0
+77,2016-10-13,6,San Diego Chargers,Denver Broncos,outdoors,70.0,63.0,9.0
+218,2012-12-16,15,Arizona Cardinals,Detroit Lions,retractable roof (closed),,,
+206,2004-12-12,14,Washington Redskins,Philadelphia Eagles,outdoors,47.0,51.0,13.0
+92,2012-10-21,7,St. Louis Rams,Green Bay Packers,dome,,,
+195,2014-12-07,14,Cincinnati Bengals,Pittsburgh Steelers,outdoors,39.0,70.0,8.0
+217,2016-12-18,15,Cincinnati Bengals,Pittsburgh Steelers,outdoors,24.0,,8.0
+93,2015-10-25,7,St. Louis Rams,Cleveland Browns,dome,,,
+194,2017-12-10,14,Kansas City Chiefs,Oakland Raiders,outdoors,46.0,,13.0
+188,2015-12-06,13,New Orleans Saints,Carolina Panthers,dome,,,
+184,2010-12-05,13,Minnesota Vikings,Buffalo Bills,dome,,,
+162,2006-11-23,12,Kansas City Chiefs,Denver Broncos,outdoors,65.0,39.0,10.0
+232,2010-12-26,16,Miami Dolphins,Detroit Lions,outdoors,69.0,47.0,22.0
+231,2017-12-24,16,Cincinnati Bengals,Detroit Lions,outdoors,35.0,,2.0
+254,2007-12-30,17,Baltimore Ravens,Pittsburgh Steelers,outdoors,42.0,100.0,5.0
+178,2017-12-03,13,Miami Dolphins,Denver Broncos,outdoors,80.0,,11.0
+207,2017-12-11,14,Miami Dolphins,New England Patriots,outdoors,55.0,,7.0
+130,2010-11-11,10,Atlanta Falcons,Baltimore Ravens,dome,,,
+108,2009-11-01,8,Detroit Lions,St. Louis Rams,dome,,,
+175,2011-11-28,12,New Orleans Saints,New York Giants,dome,,,
+205,2009-12-13,14,Dallas Cowboys,San Diego Chargers,retractable roof (open),,,
+175,2009-11-30,12,New Orleans Saints,New England Patriots,dome,,,
+195,2015-12-13,14,New York Jets,Tennessee Titans,outdoors,,,
+223,2003-12-15,15,Miami Dolphins,Philadelphia Eagles,outdoors,70.0,73.0,8.0
+87,2017-10-15,6,Kansas City Chiefs,Pittsburgh Steelers,outdoors,60.0,,14.0
+190,2008-11-30,13,Minnesota Vikings,Chicago Bears,dome,,,
+194,2005-12-11,14,Pittsburgh Steelers,Chicago Bears,outdoors,32.0,81.0,12.0
+218,2015-12-20,15,Seattle Seahawks,Cleveland Browns,outdoors,47.0,56.0,10.0
+188,2006-12-03,13,New York Giants,Dallas Cowboys,outdoors,45.0,47.0,9.0
+146,2013-11-11,10,Tampa Bay Buccaneers,Miami Dolphins,outdoors,73.0,74.0,5.0
+245,2006-01-01,17,Pittsburgh Steelers,Detroit Lions,outdoors,39.0,63.0,6.0
+168,2016-11-27,12,Chicago Bears,Tennessee Titans,outdoors,40.0,,11.0
+166,2010-11-28,12,Washington Redskins,Minnesota Vikings,outdoors,47.0,44.0,5.0
+128,2016-11-06,9,Los Angeles Rams,Carolina Panthers,outdoors,75.0,,2.0
+118,2007-11-04,9,Detroit Lions,Denver Broncos,dome,,,
+246,2013-12-29,17,Minnesota Vikings,Detroit Lions,dome,,,
+210,2006-12-17,15,Carolina Panthers,Pittsburgh Steelers,outdoors,68.0,60.0,5.0
+79,2010-10-17,6,Chicago Bears,Seattle Seahawks,outdoors,61.0,49.0,9.0
+195,2007-12-09,14,Cincinnati Bengals,St. Louis Rams,outdoors,38.0,93.0,7.0
+249,2002-12-29,17,Houston Texans,Tennessee Titans,retractable roof (open),,,
+242,2012-12-30,17,Buffalo Bills,New York Jets,outdoors,28.0,53.0,18.0
+182,2016-12-04,13,Jacksonville Jaguars,Denver Broncos,outdoors,70.0,,10.0
+116,2014-10-26,8,Arizona Cardinals,Philadelphia Eagles,retractable roof (closed),,,
+123,2015-11-08,9,Buffalo Bills,Miami Dolphins,outdoors,49.0,55.0,7.0
+104,2016-10-23,7,Pittsburgh Steelers,New England Patriots,outdoors,63.0,54.0,13.0
+91,2004-10-24,7,Baltimore Ravens,Buffalo Bills,outdoors,52.0,69.0,3.0
+188,2010-12-05,13,Tampa Bay Buccaneers,Atlanta Falcons,outdoors,72.0,53.0,9.0
+103,2010-10-25,7,Dallas Cowboys,New York Giants,retractable roof (open),,,
+87,2011-10-16,6,Tampa Bay Buccaneers,New Orleans Saints,outdoors,84.0,0.0,11.0
+145,2003-11-16,11,Philadelphia Eagles,New York Giants,outdoors,52.0,59.0,6.0
+185,2014-11-30,13,Indianapolis Colts,Washington Redskins,retractable roof (closed),,,
+211,2016-12-18,15,Houston Texans,Jacksonville Jaguars,retractable roof (closed),,,
+102,2005-10-30,8,Carolina Panthers,Minnesota Vikings,outdoors,70.0,24.0,5.0
+123,2011-11-06,9,Tennessee Titans,Cincinnati Bengals,outdoors,68.0,39.0,13.0
+195,2010-12-12,14,Pittsburgh Steelers,Cincinnati Bengals,outdoors,37.0,89.0,8.0
+121,2006-11-05,9,Jacksonville Jaguars,Tennessee Titans,outdoors,69.0,63.0,20.0
+157,2012-11-18,11,Denver Broncos,San Diego Chargers,outdoors,62.0,22.0,3.0
+86,2004-10-17,6,New Orleans Saints,Minnesota Vikings,dome,,,
+159,2003-11-17,11,San Francisco 49ers,Pittsburgh Steelers,outdoors,57.0,80.0,14.0
+249,2006-01-01,17,Tampa Bay Buccaneers,New Orleans Saints,outdoors,74.0,84.0,7.0
+100,2017-10-22,7,San Francisco 49ers,Dallas Cowboys,outdoors,68.0,,10.0
+228,2007-12-23,16,Jacksonville Jaguars,Oakland Raiders,outdoors,69.0,78.0,6.0
+90,2014-10-13,6,St. Louis Rams,San Francisco 49ers,dome,,,
+82,2002-10-13,6,Dallas Cowboys,Carolina Panthers,outdoors,56.0,55.0,13.0
+188,2008-11-30,13,New England Patriots,Pittsburgh Steelers,outdoors,34.0,100.0,3.0
+124,2013-11-03,9,Washington Redskins,San Diego Chargers,outdoors,57.0,41.0,20.0
+141,2011-11-13,10,Seattle Seahawks,Baltimore Ravens,outdoors,50.0,0.0,10.0
+183,2017-12-03,13,Buffalo Bills,New England Patriots,outdoors,48.0,,13.0
+209,2004-12-18,15,San Francisco 49ers,Washington Redskins,outdoors,55.0,80.0,
+159,2015-11-23,11,New England Patriots,Buffalo Bills,outdoors,29.0,40.0,8.0
+128,2012-11-04,9,Seattle Seahawks,Minnesota Vikings,outdoors,60.0,89.0,5.0
+225,2016-12-24,16,Chicago Bears,Washington Redskins,outdoors,37.0,,1.0
+114,2004-10-31,8,Chicago Bears,San Francisco 49ers,outdoors,50.0,76.0,7.0
+207,2004-12-13,14,Tennessee Titans,Kansas City Chiefs,outdoors,37.0,50.0,10.0
+212,2009-12-20,15,Detroit Lions,Arizona Cardinals,dome,,,
+108,2015-11-01,8,Chicago Bears,Minnesota Vikings,outdoors,62.0,42.0,11.0
+225,2011-12-24,16,Buffalo Bills,Denver Broncos,outdoors,30.0,42.0,2.0
+151,2012-11-18,11,Houston Texans,Jacksonville Jaguars,retractable roof (closed),,,
+249,2014-12-28,17,Washington Redskins,Dallas Cowboys,outdoors,58.0,54.0,
+196,2015-12-13,14,Baltimore Ravens,Seattle Seahawks,outdoors,65.0,70.0,2.0
+236,2011-12-24,16,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+142,2004-11-14,10,New England Patriots,Buffalo Bills,outdoors,40.0,57.0,2.0
+98,2015-10-25,7,Kansas City Chiefs,Pittsburgh Steelers,outdoors,58.0,57.0,7.0
+113,2012-10-28,8,Cleveland Browns,San Diego Chargers,outdoors,44.0,89.0,19.0
+167,2009-11-29,12,Cincinnati Bengals,Cleveland Browns,outdoors,59.0,41.0,15.0
+151,2009-11-22,11,Dallas Cowboys,Washington Redskins,retractable roof (closed),,,
+224,2010-12-23,16,Pittsburgh Steelers,Carolina Panthers,outdoors,27.0,70.0,11.0
+100,2006-10-29,8,Kansas City Chiefs,Seattle Seahawks,outdoors,67.0,48.0,5.0
+134,2002-11-10,10,Carolina Panthers,New Orleans Saints,outdoors,69.0,84.0,12.0
+134,2007-11-11,10,New Orleans Saints,St. Louis Rams,dome,,,
+76,2014-10-09,6,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+91,2008-10-19,7,Miami Dolphins,Baltimore Ravens,outdoors,80.0,72.0,13.0
+99,2013-10-20,7,New York Jets,New England Patriots,outdoors,63.0,36.0,11.0
+202,2010-12-12,14,Arizona Cardinals,Denver Broncos,retractable roof (closed),,,
+122,2016-11-06,9,Kansas City Chiefs,Jacksonville Jaguars,outdoors,62.0,,7.0
+117,2013-10-27,8,Denver Broncos,Washington Redskins,outdoors,69.0,14.0,8.0
+107,2014-10-26,8,Atlanta Falcons,Detroit Lions,outdoors,59.0,0.0,13.0
+114,2009-11-01,8,Arizona Cardinals,Carolina Panthers,retractable roof (closed),,,
+211,2002-12-15,15,Houston Texans,Baltimore Ravens,retractable roof (open),,,
+236,2014-12-21,16,Oakland Raiders,Buffalo Bills,outdoors,64.0,84.0,10.0
+177,2014-11-27,13,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+81,2005-10-16,6,Tennessee Titans,Cincinnati Bengals,outdoors,66.0,36.0,
+163,2012-11-25,12,Chicago Bears,Minnesota Vikings,outdoors,41.0,26.0,5.0
+80,2005-10-16,6,Chicago Bears,Minnesota Vikings,outdoors,57.0,47.0,9.0
+207,2009-12-14,14,San Francisco 49ers,Arizona Cardinals,outdoors,53.0,83.0,
+106,2014-10-23,8,Denver Broncos,San Diego Chargers,outdoors,68.0,24.0,3.0
+250,2011-01-02,17,Denver Broncos,San Diego Chargers,outdoors,42.0,22.0,4.0
+120,2005-11-06,9,Baltimore Ravens,Cincinnati Bengals,outdoors,70.0,55.0,14.0
+83,2016-10-16,6,Detroit Lions,Los Angeles Rams,dome,,,
+97,2008-10-19,7,Oakland Raiders,New York Jets,outdoors,59.0,66.0,8.0
+104,2003-10-26,8,Jacksonville Jaguars,Tennessee Titans,outdoors,80.0,0.0,10.0
+90,2008-10-19,7,New York Giants,San Francisco 49ers,outdoors,51.0,45.0,14.0
+160,2016-11-21,11,Oakland Raiders,Houston Texans,outdoors,63.0,,6.0
+232,2013-12-22,16,Carolina Panthers,New Orleans Saints,outdoors,72.0,84.0,18.0
+150,2002-11-17,11,Tennessee Titans,Pittsburgh Steelers,outdoors,42.0,47.0,12.0
+152,2011-11-20,11,Washington Redskins,Dallas Cowboys,outdoors,62.0,55.0,4.0
+249,2007-12-30,17,Washington Redskins,Dallas Cowboys,outdoors,39.0,60.0,6.0
+128,2009-11-09,9,Denver Broncos,Pittsburgh Steelers,outdoors,55.0,37.0,7.0
+158,2011-11-20,11,New York Giants,Philadelphia Eagles,outdoors,58.0,66.0,10.0
+77,2013-10-10,6,Chicago Bears,New York Giants,outdoors,63.0,74.0,10.0
+189,2016-12-04,13,Arizona Cardinals,Washington Redskins,retractable roof (closed),,,
+180,2008-11-30,13,Buffalo Bills,San Francisco 49ers,outdoors,38.0,69.0,15.0
+105,2002-10-27,8,Cincinnati Bengals,Tennessee Titans,outdoors,54.0,66.0,6.0
+152,2017-11-19,11,New Orleans Saints,Washington Redskins,dome,,,
+227,2010-12-26,16,Buffalo Bills,New England Patriots,outdoors,22.0,69.0,16.0
+169,2017-11-26,12,New England Patriots,Miami Dolphins,outdoors,47.0,,17.0
+181,2006-12-03,13,Chicago Bears,Minnesota Vikings,outdoors,20.0,57.0,15.0
+162,2010-11-25,12,New York Jets,Cincinnati Bengals,outdoors,39.0,87.0,6.0
+234,2006-12-24,16,New York Giants,New Orleans Saints,outdoors,52.0,40.0,20.0
+198,2014-12-07,14,Washington Redskins,St. Louis Rams,outdoors,45.0,37.0,8.0
+175,2005-11-28,12,Indianapolis Colts,Pittsburgh Steelers,dome,,,
+109,2005-10-30,8,New York Giants,Washington Redskins,outdoors,64.0,45.0,13.0
+240,2012-01-01,17,St. Louis Rams,San Francisco 49ers,dome,,,
+115,2016-10-30,8,Houston Texans,Detroit Lions,retractable roof (closed),,,
+76,2010-10-17,6,St. Louis Rams,San Diego Chargers,dome,,,
+136,2013-11-10,10,Pittsburgh Steelers,Buffalo Bills,outdoors,46.0,56.0,21.0
+154,2008-11-16,11,San Francisco 49ers,St. Louis Rams,outdoors,75.0,50.0,5.0
+103,2015-10-25,7,Carolina Panthers,Philadelphia Eagles,outdoors,71.0,80.0,
+198,2011-12-11,14,Jacksonville Jaguars,Tampa Bay Buccaneers,outdoors,58.0,80.0,12.0
+145,2009-11-22,11,Kansas City Chiefs,Pittsburgh Steelers,outdoors,55.0,62.0,5.0
+91,2003-10-19,7,St. Louis Rams,Green Bay Packers,dome,,,
+170,2013-11-24,12,Cleveland Browns,Pittsburgh Steelers,outdoors,20.0,84.0,31.0
+103,2006-10-29,8,Green Bay Packers,Arizona Cardinals,outdoors,45.0,45.0,10.0
+245,2014-12-28,17,Baltimore Ravens,Cleveland Browns,outdoors,54.0,0.0,5.0
+156,2011-11-20,11,Atlanta Falcons,Tennessee Titans,dome,,,
+171,2013-11-24,12,Oakland Raiders,Tennessee Titans,outdoors,58.0,56.0,5.0
+98,2002-10-20,7,Arizona Cardinals,Dallas Cowboys,outdoors,81.0,24.0,5.0
+100,2011-10-23,7,Oakland Raiders,Kansas City Chiefs,outdoors,79.0,46.0,6.0
+101,2010-10-24,7,Denver Broncos,Oakland Raiders,outdoors,63.0,23.0,9.0
+131,2016-11-06,9,Oakland Raiders,Denver Broncos,outdoors,65.0,,6.0
+156,2009-11-22,11,Denver Broncos,San Diego Chargers,outdoors,51.0,25.0,3.0
+215,2005-12-18,15,New Orleans Saints,Carolina Panthers,outdoors,55.0,45.0,8.0
+254,2006-12-31,17,Denver Broncos,San Francisco 49ers,outdoors,32.0,33.0,4.0
+182,2007-12-02,13,Indianapolis Colts,Jacksonville Jaguars,dome,,,
+190,2004-12-05,13,Jacksonville Jaguars,Pittsburgh Steelers,outdoors,56.0,89.0,
+216,2011-12-18,15,Houston Texans,Carolina Panthers,retractable roof (closed),,,
+111,2017-10-29,8,Tampa Bay Buccaneers,Carolina Panthers,outdoors,63.0,,13.0
+241,2003-12-27,17,San Francisco 49ers,Seattle Seahawks,outdoors,49.0,80.0,5.0
+114,2008-10-26,8,Pittsburgh Steelers,New York Giants,outdoors,62.0,50.0,10.0
+210,2016-12-18,15,Baltimore Ravens,Philadelphia Eagles,outdoors,62.0,,9.0
+163,2007-11-25,12,St. Louis Rams,Seattle Seahawks,dome,,,
+235,2003-12-21,16,Pittsburgh Steelers,San Diego Chargers,outdoors,36.0,43.0,15.0
+122,2007-11-04,9,Atlanta Falcons,San Francisco 49ers,dome,,,
+100,2012-10-21,7,Oakland Raiders,Jacksonville Jaguars,outdoors,62.0,49.0,11.0
+218,2013-12-15,15,Oakland Raiders,Kansas City Chiefs,outdoors,64.0,39.0,6.0
+220,2017-12-17,15,San Francisco 49ers,Tennessee Titans,outdoors,65.0,,17.0
+176,2003-11-27,13,Detroit Lions,Green Bay Packers,dome,,,
+184,2009-12-06,13,Jacksonville Jaguars,Houston Texans,outdoors,54.0,71.0,6.0
+130,2015-11-08,9,Dallas Cowboys,Philadelphia Eagles,retractable roof (closed),,,
+153,2007-11-18,11,Minnesota Vikings,Oakland Raiders,dome,,,
+116,2013-10-27,8,Arizona Cardinals,Atlanta Falcons,retractable roof (closed),,,
+199,2003-12-07,14,Tennessee Titans,Indianapolis Colts,outdoors,42.0,70.0,
+215,2002-12-15,15,Atlanta Falcons,Seattle Seahawks,dome,,,
+179,2005-12-04,13,Pittsburgh Steelers,Cincinnati Bengals,outdoors,30.0,81.0,10.0
+149,2011-11-20,11,Miami Dolphins,Buffalo Bills,outdoors,80.0,79.0,15.0
+116,2015-11-01,8,Dallas Cowboys,Seattle Seahawks,retractable roof (closed),,,
+233,2004-12-26,16,New York Jets,New England Patriots,outdoors,30.0,90.0,10.0
+117,2015-11-01,8,Denver Broncos,Green Bay Packers,outdoors,61.0,23.0,9.0
+241,2017-01-01,17,Minnesota Vikings,Chicago Bears,dome,,,
+245,2016-01-03,17,Cincinnati Bengals,Baltimore Ravens,outdoors,35.0,67.0,7.0
+163,2004-11-28,12,Minnesota Vikings,Jacksonville Jaguars,dome,,,
+234,2012-12-23,16,New York Jets,San Diego Chargers,outdoors,39.0,54.0,13.0
+114,2014-10-26,8,Kansas City Chiefs,St. Louis Rams,outdoors,70.0,73.0,8.0
+191,2010-12-06,13,New England Patriots,New York Jets,outdoors,27.0,0.0,16.0
+121,2016-11-06,9,Miami Dolphins,New York Jets,outdoors,80.0,,14.0
+77,2010-10-17,6,New England Patriots,Baltimore Ravens,outdoors,57.0,0.0,14.0
+128,2003-11-02,9,Minnesota Vikings,Green Bay Packers,dome,,,
+211,2013-12-15,15,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+253,2012-01-01,17,Cleveland Browns,Pittsburgh Steelers,outdoors,49.0,66.0,24.0
+194,2016-12-11,14,Miami Dolphins,Arizona Cardinals,outdoors,77.0,,18.0
+176,2014-11-27,13,Detroit Lions,Chicago Bears,dome,,,
+244,2002-12-29,17,New Orleans Saints,Carolina Panthers,dome,,,
+84,2014-10-12,6,Cincinnati Bengals,Carolina Panthers,outdoors,60.0,61.0,5.0
+235,2005-12-24,16,Denver Broncos,Oakland Raiders,outdoors,52.0,20.0,7.0
+149,2016-11-20,11,Cincinnati Bengals,Buffalo Bills,outdoors,36.0,,8.0
+224,2005-12-24,16,Kansas City Chiefs,San Diego Chargers,outdoors,42.0,89.0,10.0
+127,2015-11-08,9,Tampa Bay Buccaneers,New York Giants,outdoors,80.0,90.0,3.0
+213,2017-12-17,15,Buffalo Bills,Miami Dolphins,outdoors,22.0,,8.0
+153,2010-11-21,11,Minnesota Vikings,Green Bay Packers,dome,,,
+107,2004-10-31,8,Dallas Cowboys,Detroit Lions,outdoors,78.0,71.0,
+148,2014-11-16,11,St. Louis Rams,Denver Broncos,dome,,,
+143,2010-11-15,10,Washington Redskins,Philadelphia Eagles,outdoors,52.0,67.0,3.0
+89,2013-10-13,6,San Francisco 49ers,Arizona Cardinals,outdoors,65.0,55.0,5.0
+188,2016-12-04,13,Pittsburgh Steelers,New York Giants,outdoors,43.0,,71.0
+223,2016-12-19,15,Washington Redskins,Carolina Panthers,outdoors,32.0,,8.0
+122,2010-11-07,9,Detroit Lions,New York Jets,dome,,,
+146,2009-11-22,11,Tampa Bay Buccaneers,New Orleans Saints,outdoors,79.0,78.0,8.0
+191,2014-12-01,13,New York Jets,Miami Dolphins,outdoors,42.0,75.0,6.0
+231,2015-12-27,16,Buffalo Bills,Dallas Cowboys,outdoors,39.0,83.0,11.0
+163,2006-11-26,12,St. Louis Rams,San Francisco 49ers,dome,,,
+202,2017-12-10,14,Los Angeles Chargers,Washington Redskins,outdoors,81.0,,4.0
+101,2007-10-21,7,Denver Broncos,Pittsburgh Steelers,outdoors,37.0,59.0,10.0
+254,2008-12-28,17,New York Jets,Miami Dolphins,outdoors,65.0,85.0,15.0
+119,2012-11-04,9,Cincinnati Bengals,Denver Broncos,outdoors,48.0,59.0,1.0
+132,2015-11-12,10,New York Jets,Buffalo Bills,outdoors,60.0,75.0,16.0
+182,2006-12-03,13,Cleveland Browns,Kansas City Chiefs,outdoors,31.0,0.0,12.0
+184,2013-12-01,13,Carolina Panthers,Tampa Bay Buccaneers,outdoors,56.0,55.0,2.0
+231,2011-12-24,16,Baltimore Ravens,Cleveland Browns,outdoors,44.0,32.0,10.0
+231,2016-12-24,16,Jacksonville Jaguars,Tennessee Titans,outdoors,67.0,,5.0
+195,2017-12-10,14,Tampa Bay Buccaneers,Detroit Lions,outdoors,55.0,,9.0
+190,2003-11-30,13,Jacksonville Jaguars,Tampa Bay Buccaneers,outdoors,46.0,0.0,
+130,2011-11-10,10,San Diego Chargers,Oakland Raiders,outdoors,69.0,27.0,5.0
+242,2007-12-30,17,Philadelphia Eagles,Buffalo Bills,outdoors,42.0,62.0,5.0
+249,2017-01-01,17,Los Angeles Rams,Arizona Cardinals,outdoors,59.0,,
+98,2011-10-23,7,Dallas Cowboys,St. Louis Rams,retractable roof (closed),,,
+155,2004-11-21,11,Seattle Seahawks,Miami Dolphins,outdoors,46.0,73.0,3.0
+154,2007-11-18,11,New York Jets,Pittsburgh Steelers,outdoors,42.0,58.0,10.0
+91,2014-10-16,7,New England Patriots,New York Jets,outdoors,64.0,93.0,9.0
+143,2012-11-11,10,Philadelphia Eagles,Dallas Cowboys,outdoors,63.0,45.0,7.0
+193,2013-12-08,14,Philadelphia Eagles,Detroit Lions,outdoors,27.0,56.0,6.0
+157,2011-11-20,11,Chicago Bears,San Diego Chargers,outdoors,42.0,78.0,13.0
+143,2008-11-10,10,Arizona Cardinals,San Francisco 49ers,retractable roof (open),,,
+91,2007-10-21,7,Washington Redskins,Arizona Cardinals,outdoors,75.0,38.0,9.0
+197,2017-12-10,14,Cincinnati Bengals,Chicago Bears,outdoors,31.0,,11.0
+164,2002-11-24,12,New York Jets,Buffalo Bills,outdoors,50.0,66.0,14.0
+86,2003-10-12,6,Seattle Seahawks,San Francisco 49ers,outdoors,59.0,72.0,16.0
+133,2006-11-12,10,Detroit Lions,San Francisco 49ers,dome,,,
+186,2014-11-30,13,Buffalo Bills,Cleveland Browns,outdoors,57.0,61.0,17.0
+88,2013-10-13,6,New England Patriots,New Orleans Saints,outdoors,59.0,57.0,7.0
+196,2012-12-09,14,Buffalo Bills,St. Louis Rams,outdoors,37.0,74.0,14.0
+205,2005-12-11,14,Denver Broncos,Baltimore Ravens,outdoors,41.0,46.0,5.0
+167,2016-11-27,12,Houston Texans,San Diego Chargers,retractable roof (closed),,,
+185,2012-12-02,13,New York Jets,Arizona Cardinals,outdoors,46.0,89.0,6.0
+201,2003-12-07,14,Philadelphia Eagles,Dallas Cowboys,outdoors,30.0,51.0,23.0
+208,2006-12-14,15,Seattle Seahawks,San Francisco 49ers,outdoors,52.0,95.0,20.0
+197,2003-12-07,14,New York Giants,Washington Redskins,outdoors,27.0,57.0,15.0
+108,2003-10-26,8,New England Patriots,Cleveland Browns,outdoors,62.0,80.0,15.0
+186,2015-12-06,13,San Diego Chargers,Denver Broncos,outdoors,78.0,13.0,4.0
+250,2005-01-02,17,Arizona Cardinals,Tampa Bay Buccaneers,outdoors,63.0,47.0,7.0
+219,2004-12-19,15,Arizona Cardinals,St. Louis Rams,outdoors,75.0,13.0,10.0
+183,2004-12-05,13,Arizona Cardinals,Detroit Lions,dome,,,
+226,2009-12-27,16,Jacksonville Jaguars,New England Patriots,outdoors,55.0,88.0,14.0
+212,2005-12-18,15,San Francisco 49ers,Jacksonville Jaguars,outdoors,49.0,93.0,10.0
+183,2015-12-06,13,Cincinnati Bengals,Cleveland Browns,outdoors,45.0,63.0,12.0
+193,2017-12-10,14,Indianapolis Colts,Buffalo Bills,outdoors,32.0,,15.0
+161,2008-11-23,12,Buffalo Bills,Kansas City Chiefs,outdoors,50.0,56.0,10.0
+238,2004-12-26,16,Cleveland Browns,Miami Dolphins,outdoors,55.0,77.0,
+150,2006-11-19,11,Minnesota Vikings,Miami Dolphins,outdoors,68.0,33.0,9.0
+252,2016-01-03,17,St. Louis Rams,San Francisco 49ers,outdoors,53.0,59.0,6.0
+203,2002-12-08,14,Detroit Lions,Arizona Cardinals,outdoors,67.0,32.0,3.0
+133,2008-11-09,10,Buffalo Bills,New England Patriots,outdoors,54.0,43.0,15.0
+241,2008-12-28,17,Oakland Raiders,Tampa Bay Buccaneers,outdoors,77.0,61.0,5.0
+107,2016-10-27,8,Jacksonville Jaguars,Tennessee Titans,outdoors,71.0,78.0,3.0
+228,2008-12-21,16,Pittsburgh Steelers,Tennessee Titans,outdoors,29.0,37.0,11.0
+153,2005-11-20,11,Tampa Bay Buccaneers,Atlanta Falcons,dome,,,
+138,2007-11-11,10,Cincinnati Bengals,Baltimore Ravens,outdoors,50.0,44.0,4.0
+155,2014-11-16,11,Seattle Seahawks,Kansas City Chiefs,outdoors,21.0,65.0,8.0
+103,2008-10-26,8,Oakland Raiders,Baltimore Ravens,outdoors,65.0,40.0,6.0
+158,2013-11-17,11,San Francisco 49ers,New Orleans Saints,dome,,,
+179,2012-12-02,13,Jacksonville Jaguars,Buffalo Bills,outdoors,52.0,87.0,17.0
+189,2006-12-03,13,Tampa Bay Buccaneers,Pittsburgh Steelers,outdoors,42.0,43.0,7.0
+230,2007-12-23,16,Kansas City Chiefs,Detroit Lions,dome,,,
+239,2012-12-23,16,San Francisco 49ers,Seattle Seahawks,outdoors,45.0,76.0,3.0
+141,2014-11-09,10,Dallas Cowboys,Jacksonville Jaguars,outdoors,50.0,71.0,3.0
+123,2010-11-07,9,New Orleans Saints,Carolina Panthers,outdoors,50.0,33.0,7.0
+155,2016-11-20,11,Pittsburgh Steelers,Cleveland Browns,outdoors,36.0,,27.0
+142,2011-11-13,10,New York Giants,San Francisco 49ers,outdoors,58.0,74.0,10.0
+196,2009-12-13,14,New Orleans Saints,Atlanta Falcons,dome,,,
+150,2014-11-16,11,Minnesota Vikings,Chicago Bears,outdoors,31.0,76.0,12.0
+103,2011-10-30,8,New Orleans Saints,St. Louis Rams,dome,,,
+135,2003-11-09,10,Tampa Bay Buccaneers,Carolina Panthers,outdoors,50.0,46.0,13.0
+113,2014-10-26,8,Houston Texans,Tennessee Titans,outdoors,73.0,45.0,2.0
+249,2017-12-31,17,Jacksonville Jaguars,Tennessee Titans,outdoors,23.0,,5.0
+158,2017-11-19,11,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+244,2016-01-03,17,New England Patriots,Miami Dolphins,outdoors,80.0,65.0,7.0
+201,2012-12-09,14,Atlanta Falcons,Carolina Panthers,outdoors,70.0,50.0,4.0
+191,2002-12-02,13,New York Jets,Oakland Raiders,outdoors,57.0,74.0,7.0
+155,2015-11-22,11,Kansas City Chiefs,San Diego Chargers,outdoors,87.0,12.0,4.0
+90,2009-10-25,7,Indianapolis Colts,St. Louis Rams,dome,,,
+84,2011-10-16,6,Cleveland Browns,Oakland Raiders,outdoors,71.0,60.0,8.0
+188,2011-12-04,13,St. Louis Rams,San Francisco 49ers,outdoors,53.0,48.0,2.0
+254,2012-12-30,17,St. Louis Rams,Seattle Seahawks,outdoors,41.0,77.0,1.0
+126,2004-11-07,9,New England Patriots,St. Louis Rams,dome,,,
+92,2002-10-20,7,Chicago Bears,Detroit Lions,dome,,,
+143,2015-11-15,10,New England Patriots,New York Giants,outdoors,60.0,31.0,8.0
+225,2013-12-22,16,Denver Broncos,Houston Texans,retractable roof (closed),,,
+128,2004-11-07,9,Cleveland Browns,Baltimore Ravens,outdoors,61.0,56.0,7.0
+213,2013-12-15,15,New England Patriots,Miami Dolphins,outdoors,84.0,70.0,14.0
+207,2007-12-10,14,New Orleans Saints,Atlanta Falcons,dome,,,
+236,2015-12-27,16,Green Bay Packers,Arizona Cardinals,retractable roof (closed),,,
+210,2003-12-14,15,Houston Texans,Tampa Bay Buccaneers,outdoors,67.0,93.0,7.0
+79,2014-10-12,6,New England Patriots,Buffalo Bills,outdoors,55.0,45.0,6.0
+141,2012-11-11,10,New York Jets,Seattle Seahawks,outdoors,43.0,66.0,2.0
+166,2002-11-24,12,Tennessee Titans,Baltimore Ravens,outdoors,53.0,47.0,12.0
+130,2008-11-06,10,Denver Broncos,Cleveland Browns,outdoors,56.0,52.0,6.0
+249,2016-01-03,17,Philadelphia Eagles,New York Giants,outdoors,45.0,38.0,17.0
+90,2005-10-23,7,San Diego Chargers,Philadelphia Eagles,outdoors,53.0,45.0,17.0
+217,2012-12-16,15,Seattle Seahawks,Buffalo Bills,dome,,,
+214,2009-12-20,15,New England Patriots,Buffalo Bills,outdoors,28.0,52.0,5.0
+190,2011-12-04,13,Detroit Lions,New Orleans Saints,dome,,,
+219,2011-12-18,15,Cleveland Browns,Arizona Cardinals,retractable roof (closed),,,
+132,2016-11-07,9,Buffalo Bills,Seattle Seahawks,outdoors,61.0,,4.0
+89,2009-10-19,6,Denver Broncos,San Diego Chargers,outdoors,68.0,73.0,8.0
+109,2003-10-26,8,Carolina Panthers,New Orleans Saints,dome,,,
+89,2005-10-23,7,Green Bay Packers,Minnesota Vikings,dome,,,
+78,2010-10-17,6,Cleveland Browns,Pittsburgh Steelers,outdoors,61.0,48.0,13.0
+116,2003-11-02,9,Carolina Panthers,Houston Texans,retractable roof (closed),,,
+255,2017-01-01,17,Green Bay Packers,Detroit Lions,dome,,,
+107,2015-11-01,8,San Francisco 49ers,St. Louis Rams,dome,,,
+239,2015-12-28,16,Cincinnati Bengals,Denver Broncos,outdoors,16.0,75.0,6.0
+253,2016-01-03,17,Tampa Bay Buccaneers,Carolina Panthers,outdoors,54.0,31.0,4.0
+155,2005-11-20,11,Indianapolis Colts,Cincinnati Bengals,outdoors,55.0,40.0,10.0
+166,2007-11-25,12,Tennessee Titans,Cincinnati Bengals,outdoors,42.0,67.0,2.0
+246,2017-12-31,17,Washington Redskins,New York Giants,outdoors,16.0,,16.0
+119,2006-11-05,9,New Orleans Saints,Tampa Bay Buccaneers,outdoors,81.0,48.0,16.0
+167,2007-11-25,12,New Orleans Saints,Carolina Panthers,outdoors,46.0,41.0,5.0
+132,2008-11-09,10,Baltimore Ravens,Houston Texans,retractable roof (open),,,
+132,2005-11-13,10,Minnesota Vikings,New York Giants,outdoors,62.0,44.0,14.0
+204,2011-12-11,14,Oakland Raiders,Green Bay Packers,outdoors,43.0,55.0,15.0
+114,2002-10-27,8,Indianapolis Colts,Washington Redskins,outdoors,55.0,64.0,7.0
+247,2013-12-29,17,Carolina Panthers,Atlanta Falcons,dome,,,
+169,2006-11-26,12,Arizona Cardinals,Minnesota Vikings,dome,,,
+149,2008-11-16,11,Oakland Raiders,Miami Dolphins,outdoors,67.0,39.0,11.0
+210,2012-12-16,15,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+237,2005-12-25,16,Chicago Bears,Green Bay Packers,outdoors,34.0,86.0,6.0
+215,2007-12-16,15,Baltimore Ravens,Miami Dolphins,outdoors,79.0,84.0,20.0
+120,2015-11-08,9,Washington Redskins,New England Patriots,outdoors,54.0,34.0,12.0
+206,2011-12-11,14,New York Giants,Dallas Cowboys,retractable roof (closed),,,
+241,2016-01-03,17,Detroit Lions,Chicago Bears,outdoors,31.0,67.0,15.0
+176,2011-12-01,13,Philadelphia Eagles,Seattle Seahawks,outdoors,38.0,0.0,2.0
+78,2014-10-12,6,Pittsburgh Steelers,Cleveland Browns,outdoors,58.0,48.0,13.0
+222,2008-12-14,15,New York Giants,Dallas Cowboys,outdoors,71.0,57.0,
+238,2009-12-27,16,Dallas Cowboys,Washington Redskins,outdoors,37.0,53.0,8.0
+89,2012-10-14,6,Green Bay Packers,Houston Texans,retractable roof (closed),,,
+199,2002-12-08,14,Cleveland Browns,Jacksonville Jaguars,outdoors,63.0,67.0,6.0
+77,2009-10-18,6,Cleveland Browns,Pittsburgh Steelers,outdoors,41.0,77.0,9.0
+166,2003-11-23,12,New England Patriots,Houston Texans,retractable roof (closed),,,
+139,2015-11-15,10,Dallas Cowboys,Tampa Bay Buccaneers,outdoors,79.0,56.0,13.0
+217,2004-12-19,15,San Diego Chargers,Cleveland Browns,outdoors,18.0,68.0,30.0
+156,2002-11-17,11,Baltimore Ravens,Miami Dolphins,outdoors,68.0,65.0,12.0
+163,2016-11-24,12,Pittsburgh Steelers,Indianapolis Colts,retractable roof (closed),,,
+149,2004-11-21,11,St. Louis Rams,Buffalo Bills,outdoors,50.0,74.0,10.0
+209,2008-12-14,15,Seattle Seahawks,St. Louis Rams,dome,,,
+224,2014-12-18,16,Tennessee Titans,Jacksonville Jaguars,outdoors,58.0,0.0,2.0
+125,2017-11-05,9,Atlanta Falcons,Carolina Panthers,outdoors,61.0,,4.0
+194,2007-12-09,14,San Diego Chargers,Tennessee Titans,outdoors,69.0,85.0,7.0
+182,2008-11-30,13,Baltimore Ravens,Cincinnati Bengals,outdoors,42.0,93.0,3.0
+120,2006-11-05,9,Houston Texans,New York Giants,outdoors,46.0,36.0,1.0
+177,2008-11-27,13,Seattle Seahawks,Dallas Cowboys,outdoors,69.0,31.0,
+184,2005-12-04,13,Tampa Bay Buccaneers,New Orleans Saints,outdoors,74.0,65.0,9.0
+216,2010-12-19,15,Detroit Lions,Tampa Bay Buccaneers,outdoors,54.0,96.0,10.0
+208,2012-12-13,15,Cincinnati Bengals,Philadelphia Eagles,outdoors,36.0,55.0,1.0
+149,2017-11-19,11,Baltimore Ravens,Green Bay Packers,outdoors,28.0,,14.0
+166,2004-11-28,12,Philadelphia Eagles,New York Giants,outdoors,61.0,82.0,3.0
+132,2017-11-09,10,Seattle Seahawks,Arizona Cardinals,retractable roof (open),,,
+167,2006-11-26,12,Carolina Panthers,Washington Redskins,outdoors,60.0,61.0,3.0
+161,2006-11-23,12,Tampa Bay Buccaneers,Dallas Cowboys,outdoors,76.0,37.0,
+201,2007-12-09,14,Minnesota Vikings,San Francisco 49ers,outdoors,53.0,42.0,6.0
+128,2017-11-05,9,Arizona Cardinals,San Francisco 49ers,outdoors,61.0,,8.0
+181,2016-12-04,13,Miami Dolphins,Baltimore Ravens,outdoors,47.0,,3.0
+107,2008-10-26,8,Arizona Cardinals,Carolina Panthers,outdoors,70.0,80.0,
+157,2008-11-16,11,San Diego Chargers,Pittsburgh Steelers,outdoors,35.0,80.0,14.0
+163,2003-11-23,12,Carolina Panthers,Dallas Cowboys,outdoors,44.0,53.0,10.0
+214,2003-12-14,15,San Francisco 49ers,Cincinnati Bengals,outdoors,30.0,92.0,5.0
+202,2007-12-09,14,Arizona Cardinals,Seattle Seahawks,outdoors,35.0,83.0,
+226,2003-12-20,16,New England Patriots,New York Jets,outdoors,30.0,47.0,12.0
+201,2013-12-08,14,Kansas City Chiefs,Washington Redskins,outdoors,30.0,79.0,10.0
+178,2002-12-01,13,Atlanta Falcons,Minnesota Vikings,dome,,,
+168,2006-11-26,12,Cincinnati Bengals,Cleveland Browns,outdoors,61.0,0.0,5.0
+142,2002-11-10,10,Miami Dolphins,New York Jets,outdoors,65.0,90.0,10.0
+150,2005-11-20,11,New Orleans Saints,New England Patriots,outdoors,51.0,38.0,12.0
+248,2010-01-03,17,New York Giants,Minnesota Vikings,dome,,,
+206,2013-12-08,14,Carolina Panthers,New Orleans Saints,dome,,,
+249,2013-12-29,17,San Francisco 49ers,Arizona Cardinals,retractable roof (closed),,,
+232,2009-12-27,16,Tampa Bay Buccaneers,New Orleans Saints,dome,,,
+202,2015-12-13,14,Atlanta Falcons,Carolina Panthers,outdoors,63.0,93.0,6.0
+132,2010-11-14,10,Detroit Lions,Buffalo Bills,outdoors,58.0,36.0,12.0
+147,2013-11-14,11,Indianapolis Colts,Tennessee Titans,outdoors,44.0,36.0,3.0
+76,2004-10-17,6,San Diego Chargers,Atlanta Falcons,dome,,,
+198,2006-12-10,14,Minnesota Vikings,Detroit Lions,dome,,,
+220,2007-12-16,15,Detroit Lions,San Diego Chargers,outdoors,67.0,63.0,8.0
+174,2006-11-26,12,Philadelphia Eagles,Indianapolis Colts,dome,,,
+212,2008-12-14,15,Buffalo Bills,New York Jets,outdoors,40.0,47.0,20.0
+226,2010-12-26,16,San Francisco 49ers,St. Louis Rams,dome,,,
+109,2012-10-28,8,Jacksonville Jaguars,Green Bay Packers,outdoors,44.0,47.0,10.0
+170,2005-11-27,12,Miami Dolphins,Oakland Raiders,outdoors,52.0,57.0,
+216,2002-12-15,15,Minnesota Vikings,New Orleans Saints,dome,,,
+200,2011-12-11,14,New Orleans Saints,Tennessee Titans,outdoors,41.0,44.0,7.0
+217,2015-12-20,15,Green Bay Packers,Oakland Raiders,outdoors,54.0,70.0,18.0
+81,2016-10-16,6,Baltimore Ravens,New York Giants,outdoors,66.0,65.0,6.0
+118,2014-10-26,8,Indianapolis Colts,Pittsburgh Steelers,outdoors,62.0,28.0,12.0
+179,2017-12-03,13,Minnesota Vikings,Atlanta Falcons,dome,,,
+140,2010-11-14,10,Seattle Seahawks,Arizona Cardinals,retractable roof (closed),,,
+192,2011-12-08,14,Cleveland Browns,Pittsburgh Steelers,outdoors,31.0,74.0,6.0
+229,2011-12-24,16,Miami Dolphins,New England Patriots,outdoors,30.0,0.0,7.0
+105,2013-10-20,7,Denver Broncos,Indianapolis Colts,retractable roof (open),,,
+182,2011-12-04,13,Oakland Raiders,Miami Dolphins,outdoors,80.0,49.0,22.0
+175,2014-11-24,12,Baltimore Ravens,New Orleans Saints,dome,,,
+105,2015-10-29,8,Miami Dolphins,New England Patriots,outdoors,58.0,39.0,10.0
+152,2004-11-21,11,Denver Broncos,New Orleans Saints,dome,,,
+184,2015-12-06,13,Baltimore Ravens,Miami Dolphins,outdoors,80.0,70.0,21.0
+237,2006-12-24,16,San Diego Chargers,Seattle Seahawks,outdoors,47.0,55.0,18.0
+140,2013-11-10,10,Oakland Raiders,New York Giants,outdoors,49.0,71.0,14.0
+214,2014-12-14,15,Washington Redskins,New York Giants,outdoors,43.0,63.0,9.0
+135,2009-11-15,10,Atlanta Falcons,Carolina Panthers,outdoors,73.0,80.0,3.0
+224,2002-12-21,16,Miami Dolphins,Minnesota Vikings,dome,,,
+163,2017-11-26,12,Tennessee Titans,Indianapolis Colts,retractable roof (open),,,
+166,2011-11-27,12,Tampa Bay Buccaneers,Tennessee Titans,outdoors,47.0,96.0,20.0
+196,2003-12-07,14,Cincinnati Bengals,Baltimore Ravens,outdoors,34.0,53.0,20.0
+252,2007-12-30,17,Kansas City Chiefs,New York Jets,outdoors,41.0,52.0,7.0
+126,2016-11-06,9,Dallas Cowboys,Cleveland Browns,outdoors,58.0,,4.0
+141,2008-11-09,10,Kansas City Chiefs,San Diego Chargers,outdoors,62.0,61.0,24.0
+134,2017-11-12,10,Green Bay Packers,Chicago Bears,outdoors,40.0,,6.0
+253,2017-12-31,17,Arizona Cardinals,Seattle Seahawks,outdoors,40.0,,7.0
+94,2006-10-22,7,Pittsburgh Steelers,Atlanta Falcons,dome,,,
+177,2013-11-28,13,Oakland Raiders,Dallas Cowboys,retractable roof (closed),,,
+85,2011-10-16,6,Houston Texans,Baltimore Ravens,outdoors,72.0,29.0,10.0
+241,2014-12-28,17,Chicago Bears,Minnesota Vikings,outdoors,15.0,77.0,
+92,2008-10-19,7,San Diego Chargers,Buffalo Bills,outdoors,51.0,46.0,4.0
+189,2005-12-04,13,New York Jets,New England Patriots,outdoors,26.0,100.0,4.0
+232,2006-12-24,16,Carolina Panthers,Atlanta Falcons,dome,,,
+213,2007-12-16,15,Seattle Seahawks,Carolina Panthers,outdoors,45.0,78.0,18.0
+108,2012-10-28,8,Carolina Panthers,Chicago Bears,outdoors,49.0,51.0,18.0
+199,2013-12-08,14,Oakland Raiders,New York Jets,outdoors,33.0,51.0,6.0
+104,2017-10-22,7,Atlanta Falcons,New England Patriots,outdoors,56.0,,2.0
+202,2005-12-11,14,San Francisco 49ers,Seattle Seahawks,outdoors,36.0,97.0,1.0
+99,2007-10-21,7,Minnesota Vikings,Dallas Cowboys,outdoors,88.0,33.0,
+185,2009-12-06,13,Tampa Bay Buccaneers,Carolina Panthers,outdoors,43.0,50.0,7.0
+80,2016-10-16,6,Cleveland Browns,Tennessee Titans,outdoors,75.0,70.0,10.0
+194,2014-12-07,14,New York Jets,Minnesota Vikings,outdoors,32.0,0.0,17.0
+230,2003-12-21,16,Cincinnati Bengals,St. Louis Rams,dome,,,
+204,2008-12-07,14,St. Louis Rams,Arizona Cardinals,retractable roof (open),,,
+131,2003-11-09,10,Indianapolis Colts,Jacksonville Jaguars,outdoors,62.0,77.0,15.0
+199,2009-12-13,14,Seattle Seahawks,Houston Texans,retractable roof (closed),,,
+204,2007-12-09,14,Cleveland Browns,New York Jets,outdoors,38.0,51.0,4.0
+107,2003-10-26,8,Denver Broncos,Baltimore Ravens,outdoors,67.0,0.0,12.0
+230,2004-12-26,16,New York Giants,Cincinnati Bengals,outdoors,24.0,81.0,3.0
+158,2003-11-16,11,Dallas Cowboys,New England Patriots,outdoors,33.0,64.0,
+186,2003-11-30,13,New Orleans Saints,Washington Redskins,outdoors,49.0,51.0,9.0
+254,2016-01-03,17,Oakland Raiders,Kansas City Chiefs,outdoors,37.0,56.0,9.0
+210,2017-12-16,15,Los Angeles Chargers,Kansas City Chiefs,outdoors,53.0,,9.0
+200,2005-12-11,14,Washington Redskins,Arizona Cardinals,outdoors,66.0,13.0,
+117,2016-10-30,8,Green Bay Packers,Atlanta Falcons,dome,,,
+150,2015-11-22,11,Indianapolis Colts,Atlanta Falcons,dome,,,
+233,2002-12-22,16,Detroit Lions,Atlanta Falcons,dome,,,
+96,2014-10-19,7,Atlanta Falcons,Baltimore Ravens,outdoors,54.0,0.0,14.0
+205,2016-12-11,14,Atlanta Falcons,Los Angeles Rams,outdoors,65.0,,1.0
+95,2012-10-21,7,Baltimore Ravens,Houston Texans,retractable roof (closed),,,
+255,2003-12-28,17,Pittsburgh Steelers,Baltimore Ravens,outdoors,42.0,64.0,5.0
+178,2016-12-04,13,Houston Texans,Green Bay Packers,outdoors,32.0,,8.0
+120,2002-11-03,9,Pittsburgh Steelers,Cleveland Browns,outdoors,40.0,0.0,6.0
+220,2016-12-18,15,Oakland Raiders,San Diego Chargers,outdoors,62.0,,5.0
+109,2014-10-26,8,Buffalo Bills,New York Jets,outdoors,59.0,44.0,16.0
+102,2006-10-29,8,Houston Texans,Tennessee Titans,outdoors,72.0,33.0,8.0
+123,2007-11-04,9,Washington Redskins,New York Jets,outdoors,55.0,44.0,8.0
+113,2007-10-28,8,New Orleans Saints,San Francisco 49ers,outdoors,63.0,70.0,6.0
+183,2006-12-03,13,Atlanta Falcons,Washington Redskins,outdoors,44.0,56.0,5.0
+110,2007-10-28,8,Jacksonville Jaguars,Tampa Bay Buccaneers,outdoors,84.0,57.0,11.0
+246,2014-12-28,17,San Diego Chargers,Kansas City Chiefs,outdoors,31.0,63.0,7.0
+242,2003-12-27,17,Philadelphia Eagles,Washington Redskins,outdoors,46.0,39.0,12.0
+178,2009-12-06,13,Oakland Raiders,Pittsburgh Steelers,outdoors,28.0,54.0,6.0
+203,2006-12-10,14,Green Bay Packers,San Francisco 49ers,outdoors,58.0,70.0,15.0
+166,2006-11-26,12,Houston Texans,New York Jets,outdoors,56.0,59.0,10.0
+232,2015-12-27,16,Chicago Bears,Tampa Bay Buccaneers,outdoors,83.0,59.0,13.0
+252,2006-01-01,17,Tennessee Titans,Jacksonville Jaguars,outdoors,69.0,78.0,7.0
+92,2017-10-22,7,Tampa Bay Buccaneers,Buffalo Bills,outdoors,74.0,,9.0
+121,2003-11-02,9,San Diego Chargers,Chicago Bears,outdoors,57.0,96.0,
+104,2006-10-29,8,San Francisco 49ers,Chicago Bears,outdoors,46.0,39.0,9.0
+131,2013-11-03,9,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+250,2010-01-03,17,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+136,2012-11-11,10,Oakland Raiders,Baltimore Ravens,outdoors,61.0,56.0,6.0
+220,2006-12-17,15,Philadelphia Eagles,New York Giants,outdoors,56.0,43.0,7.0
+228,2013-12-22,16,Cleveland Browns,New York Jets,outdoors,70.0,65.0,12.0
+138,2008-11-09,10,Green Bay Packers,Minnesota Vikings,dome,,,
+210,2015-12-20,15,Kansas City Chiefs,Baltimore Ravens,outdoors,41.0,35.0,5.0
+100,2004-10-24,7,Seattle Seahawks,Arizona Cardinals,outdoors,77.0,30.0,
+135,2005-11-13,10,New England Patriots,Miami Dolphins,outdoors,82.0,60.0,18.0
+171,2003-11-23,12,Oakland Raiders,Kansas City Chiefs,outdoors,30.0,76.0,14.0
+129,2005-11-07,9,Indianapolis Colts,New England Patriots,outdoors,51.0,39.0,8.0
+125,2007-11-04,9,Seattle Seahawks,Cleveland Browns,outdoors,48.0,50.0,6.0
+90,2004-10-24,7,Atlanta Falcons,Kansas City Chiefs,outdoors,69.0,41.0,9.0
+204,2003-12-07,14,Kansas City Chiefs,Denver Broncos,outdoors,63.0,23.0,8.0
+207,2014-12-08,14,Atlanta Falcons,Green Bay Packers,outdoors,33.0,96.0,
+170,2012-11-25,12,Seattle Seahawks,Miami Dolphins,outdoors,72.0,51.0,6.0
+246,2011-01-02,17,Carolina Panthers,Atlanta Falcons,dome,,,
+216,2005-12-18,15,Seattle Seahawks,Tennessee Titans,outdoors,45.0,44.0,4.0
+214,2015-12-20,15,Tennessee Titans,New England Patriots,outdoors,40.0,41.0,12.0
+114,2017-10-29,8,Chicago Bears,New Orleans Saints,dome,,,
+77,2017-10-12,6,Philadelphia Eagles,Carolina Panthers,outdoors,72.0,,6.0
+206,2015-12-13,14,New England Patriots,Houston Texans,retractable roof (closed),,,
+184,2003-11-30,13,Atlanta Falcons,Houston Texans,retractable roof (closed),,,
+205,2014-12-07,14,Seattle Seahawks,Philadelphia Eagles,outdoors,45.0,32.0,15.0
+129,2009-11-12,10,Chicago Bears,San Francisco 49ers,outdoors,60.0,51.0,18.0
+160,2007-11-22,12,Green Bay Packers,Detroit Lions,dome,,,
+100,2002-10-20,7,Washington Redskins,Green Bay Packers,outdoors,44.0,47.0,15.0
+162,2015-11-26,12,Chicago Bears,Green Bay Packers,outdoors,39.0,92.0,19.0
+110,2008-10-26,8,San Diego Chargers,New Orleans Saints,outdoors,54.0,94.0,9.0
+93,2014-10-19,7,Miami Dolphins,Chicago Bears,outdoors,50.0,64.0,10.0
+217,2009-12-20,15,Cincinnati Bengals,San Diego Chargers,outdoors,72.0,54.0,8.0
+145,2011-11-14,10,Minnesota Vikings,Green Bay Packers,outdoors,47.0,68.0,13.0
+142,2016-11-13,10,Miami Dolphins,San Diego Chargers,outdoors,85.0,,11.0
+208,2004-12-18,15,Pittsburgh Steelers,New York Giants,outdoors,42.0,65.0,5.0
+253,2003-12-28,17,Denver Broncos,Green Bay Packers,outdoors,45.0,89.0,15.0
+174,2014-11-24,12,New York Jets,Buffalo Bills,dome,,,
+242,2006-12-31,17,Oakland Raiders,New York Jets,outdoors,40.0,46.0,
+92,2016-10-20,7,Chicago Bears,Green Bay Packers,outdoors,47.0,63.0,10.0
+242,2017-01-01,17,Houston Texans,Tennessee Titans,outdoors,52.0,,7.0
+203,2013-12-08,14,New York Giants,San Diego Chargers,outdoors,53.0,53.0,8.0
+128,2002-11-03,9,Jacksonville Jaguars,New York Giants,outdoors,43.0,47.0,
+119,2003-11-02,9,Oakland Raiders,Detroit Lions,dome,,,
+189,2002-12-01,13,Seattle Seahawks,San Francisco 49ers,outdoors,58.0,14.0,
+196,2016-12-11,14,Chicago Bears,Detroit Lions,dome,,,
+119,2009-11-08,9,Green Bay Packers,Tampa Bay Buccaneers,outdoors,82.0,48.0,13.0
+254,2003-12-28,17,Oakland Raiders,San Diego Chargers,outdoors,61.0,48.0,8.0
+90,2003-10-19,7,Tennessee Titans,Carolina Panthers,outdoors,67.0,54.0,3.0
+90,2016-10-16,6,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+146,2015-11-19,11,Tennessee Titans,Jacksonville Jaguars,outdoors,75.0,90.0,5.0
+242,2011-01-02,17,Pittsburgh Steelers,Cleveland Browns,outdoors,25.0,51.0,14.0
+98,2014-10-19,7,New Orleans Saints,Detroit Lions,dome,,,
+200,2007-12-09,14,Carolina Panthers,Jacksonville Jaguars,outdoors,77.0,64.0,9.0
+223,2002-12-16,15,New England Patriots,Tennessee Titans,outdoors,57.0,81.0,3.0
+98,2009-10-25,7,Atlanta Falcons,Dallas Cowboys,retractable roof (closed),,,
+249,2012-01-01,17,San Diego Chargers,Oakland Raiders,outdoors,56.0,63.0,8.0
+220,2015-12-20,15,Miami Dolphins,San Diego Chargers,outdoors,61.0,49.0,11.0
+208,2009-12-17,15,Indianapolis Colts,Jacksonville Jaguars,outdoors,56.0,85.0,10.0
+139,2014-11-09,10,San Francisco 49ers,New Orleans Saints,dome,,,
+160,2004-11-25,12,Indianapolis Colts,Detroit Lions,dome,,,
+227,2016-12-24,16,New York Jets,New England Patriots,outdoors,40.0,,6.0
+245,2008-12-28,17,New England Patriots,Buffalo Bills,outdoors,39.0,74.0,30.0
+141,2003-11-09,10,Buffalo Bills,Dallas Cowboys,outdoors,55.0,77.0,5.0
+231,2002-12-22,16,New Orleans Saints,Cincinnati Bengals,outdoors,44.0,71.0,23.0
+227,2009-12-27,16,Houston Texans,Miami Dolphins,outdoors,75.0,65.0,6.0
+77,2002-10-13,6,New Orleans Saints,Washington Redskins,outdoors,65.0,96.0,4.0
+138,2017-11-12,10,Cincinnati Bengals,Tennessee Titans,outdoors,53.0,,4.0
+192,2002-12-08,14,St. Louis Rams,Kansas City Chiefs,outdoors,38.0,67.0,12.0
+129,2017-11-05,9,Kansas City Chiefs,Dallas Cowboys,retractable roof (closed),,,
+94,2012-10-21,7,Tennessee Titans,Buffalo Bills,outdoors,55.0,75.0,15.0
+81,2014-10-12,6,Green Bay Packers,Miami Dolphins,outdoors,86.0,63.0,13.0
+116,2016-10-30,8,San Diego Chargers,Denver Broncos,outdoors,76.0,19.0,6.0
+209,2012-12-16,15,Minnesota Vikings,St. Louis Rams,dome,,,
+171,2010-11-28,12,Tampa Bay Buccaneers,Baltimore Ravens,outdoors,48.0,37.0,3.0
+131,2012-11-05,9,Philadelphia Eagles,New Orleans Saints,dome,,,
+110,2005-10-30,8,Miami Dolphins,New Orleans Saints,outdoors,76.0,30.0,3.0
+106,2008-10-26,8,Washington Redskins,Detroit Lions,dome,,,
+206,2017-12-10,14,Baltimore Ravens,Pittsburgh Steelers,outdoors,33.0,,12.0
+122,2003-11-02,9,New Orleans Saints,Tampa Bay Buccaneers,outdoors,82.0,62.0,9.0
+89,2003-10-19,7,Baltimore Ravens,Cincinnati Bengals,outdoors,63.0,64.0,3.0
+197,2005-12-11,14,Tampa Bay Buccaneers,Carolina Panthers,outdoors,52.0,35.0,10.0
+141,2016-11-13,10,Atlanta Falcons,Philadelphia Eagles,outdoors,58.0,,10.0
+147,2017-11-19,11,Detroit Lions,Chicago Bears,outdoors,33.0,,16.0
+229,2008-12-21,16,San Diego Chargers,Tampa Bay Buccaneers,outdoors,72.0,82.0,10.0
+251,2005-01-02,17,Atlanta Falcons,Seattle Seahawks,outdoors,40.0,58.0,5.0
+187,2007-12-02,13,Cleveland Browns,Arizona Cardinals,retractable roof (open),,,
+191,2011-12-05,13,San Diego Chargers,Jacksonville Jaguars,outdoors,67.0,81.0,6.0
+123,2012-11-04,9,Baltimore Ravens,Cleveland Browns,outdoors,39.0,69.0,8.0
+108,2010-10-31,8,Miami Dolphins,Cincinnati Bengals,outdoors,54.0,57.0,11.0
+252,2011-01-02,17,Arizona Cardinals,San Francisco 49ers,outdoors,49.0,85.0,3.0
+239,2005-12-26,16,New England Patriots,New York Jets,outdoors,41.0,59.0,18.0
+236,2013-12-22,16,New England Patriots,Baltimore Ravens,outdoors,65.0,75.0,8.0
+147,2005-11-20,11,Arizona Cardinals,St. Louis Rams,dome,,,
+157,2016-11-20,11,New England Patriots,San Francisco 49ers,outdoors,64.0,,6.0
+243,2008-12-28,17,Detroit Lions,Green Bay Packers,outdoors,22.0,71.0,13.0
+125,2002-11-03,9,Washington Redskins,Seattle Seahawks,outdoors,49.0,43.0,3.0
+210,2008-12-14,15,San Diego Chargers,Kansas City Chiefs,outdoors,36.0,65.0,25.0
+207,2006-12-11,14,Chicago Bears,St. Louis Rams,dome,,,
+174,2003-11-23,12,Washington Redskins,Miami Dolphins,outdoors,74.0,66.0,10.0
+169,2008-11-23,12,Minnesota Vikings,Jacksonville Jaguars,outdoors,66.0,41.0,5.0
+178,2007-12-02,13,Atlanta Falcons,St. Louis Rams,dome,,,
+189,2017-12-03,13,Los Angeles Rams,Arizona Cardinals,retractable roof (closed),,,
+208,2011-12-15,15,Jacksonville Jaguars,Atlanta Falcons,dome,,,
+93,2003-10-19,7,Philadelphia Eagles,New York Giants,outdoors,51.0,89.0,9.0
+115,2005-10-31,8,Baltimore Ravens,Pittsburgh Steelers,outdoors,54.0,57.0,2.0
+230,2015-12-27,16,Pittsburgh Steelers,Baltimore Ravens,outdoors,64.0,87.0,9.0
+131,2011-11-13,10,Arizona Cardinals,Philadelphia Eagles,outdoors,60.0,40.0,15.0
+163,2002-11-24,12,Minnesota Vikings,New England Patriots,outdoors,49.0,0.0,20.0
+143,2014-11-09,10,St. Louis Rams,Arizona Cardinals,retractable roof (closed),,,
+114,2003-10-26,8,Buffalo Bills,Kansas City Chiefs,outdoors,45.0,50.0,5.0
+81,2006-10-15,6,New York Giants,Atlanta Falcons,dome,,,
+173,2014-11-23,12,Dallas Cowboys,New York Giants,outdoors,51.0,58.0,2.0
+104,2008-10-26,8,St. Louis Rams,New England Patriots,outdoors,61.0,54.0,7.0
+196,2004-12-12,14,Indianapolis Colts,Houston Texans,retractable roof (open),,,
+129,2002-11-04,9,Miami Dolphins,Green Bay Packers,outdoors,30.0,0.0,6.0
+173,2005-11-27,12,Green Bay Packers,Philadelphia Eagles,outdoors,50.0,59.0,4.0
+146,2017-11-16,11,Tennessee Titans,Pittsburgh Steelers,outdoors,40.0,,17.0
+126,2006-11-05,9,Indianapolis Colts,New England Patriots,outdoors,31.0,72.0,
+117,2014-10-26,8,Oakland Raiders,Cleveland Browns,outdoors,55.0,53.0,20.0
+122,2002-11-03,9,Philadelphia Eagles,Chicago Bears,outdoors,38.0,93.0,7.0
+229,2012-12-23,16,Cincinnati Bengals,Pittsburgh Steelers,outdoors,35.0,56.0,10.0
+109,2009-11-01,8,San Francisco 49ers,Indianapolis Colts,retractable roof (open),,,
+153,2003-11-16,11,New York Jets,Indianapolis Colts,dome,,,
+139,2011-11-13,10,St. Louis Rams,Cleveland Browns,outdoors,60.0,0.0,40.0
+170,2015-11-29,12,Buffalo Bills,Kansas City Chiefs,outdoors,35.0,99.0,7.0
+79,2005-10-16,6,Carolina Panthers,Detroit Lions,dome,,,
+149,2014-11-16,11,Cincinnati Bengals,New Orleans Saints,dome,,,
+254,2017-12-31,17,New Orleans Saints,Tampa Bay Buccaneers,outdoors,71.0,,3.0
+171,2015-11-29,12,San Diego Chargers,Jacksonville Jaguars,outdoors,75.0,60.0,8.0
+236,2007-12-23,16,Miami Dolphins,New England Patriots,outdoors,43.0,95.0,7.0
+198,2009-12-13,14,Denver Broncos,Indianapolis Colts,retractable roof (closed),,,
+255,2016-01-03,17,Minnesota Vikings,Green Bay Packers,outdoors,24.0,70.0,11.0
+157,2004-11-21,11,Washington Redskins,Philadelphia Eagles,outdoors,55.0,82.0,2.0
+85,2013-10-13,6,Carolina Panthers,Minnesota Vikings,dome,,,
+86,2014-10-12,6,Washington Redskins,Arizona Cardinals,retractable roof (closed),,,
+252,2012-01-01,17,Baltimore Ravens,Cincinnati Bengals,outdoors,42.0,68.0,19.0
+116,2011-11-06,9,Atlanta Falcons,Indianapolis Colts,retractable roof (open),,,
+243,2013-12-29,17,Houston Texans,Tennessee Titans,outdoors,53.0,61.0,4.0
+218,2006-12-17,15,New York Jets,Minnesota Vikings,dome,,,
+121,2014-10-30,9,New Orleans Saints,Carolina Panthers,outdoors,58.0,42.0,3.0
+156,2003-11-16,11,Minnesota Vikings,Oakland Raiders,outdoors,55.0,72.0,6.0
+202,2011-12-11,14,Chicago Bears,Denver Broncos,outdoors,50.0,22.0,7.0
+198,2007-12-09,14,Miami Dolphins,Buffalo Bills,outdoors,30.0,67.0,6.0
+93,2008-10-19,7,Minnesota Vikings,Chicago Bears,outdoors,58.0,50.0,17.0
+94,2003-10-19,7,New England Patriots,Miami Dolphins,outdoors,84.0,60.0,9.0
+184,2002-12-01,13,Carolina Panthers,Cleveland Browns,outdoors,25.0,0.0,12.0
+212,2003-12-14,15,Jacksonville Jaguars,New England Patriots,outdoors,25.0,50.0,8.0
+174,2007-11-25,12,Philadelphia Eagles,New England Patriots,outdoors,39.0,49.0,8.0
+208,2007-12-13,15,Denver Broncos,Houston Texans,retractable roof (open),,,
+157,2009-11-22,11,New York Jets,New England Patriots,outdoors,45.0,68.0,10.0
+222,2010-12-19,15,Green Bay Packers,New England Patriots,outdoors,32.0,0.0,8.0
+135,2010-11-14,10,Carolina Panthers,Tampa Bay Buccaneers,outdoors,73.0,57.0,7.0
+200,2003-12-07,14,Tampa Bay Buccaneers,New Orleans Saints,dome,,,
+127,2007-11-04,9,New England Patriots,Indianapolis Colts,dome,,,
+207,2010-12-13,14,Baltimore Ravens,Houston Texans,retractable roof (closed),,,
+136,2016-11-13,10,Minnesota Vikings,Washington Redskins,outdoors,58.0,,7.0
+100,2014-10-19,7,Tennessee Titans,Washington Redskins,outdoors,55.0,43.0,13.0
+183,2002-12-01,13,Tennessee Titans,New York Giants,outdoors,35.0,50.0,18.0
+160,2006-11-23,12,Miami Dolphins,Detroit Lions,dome,,,
+131,2002-11-10,10,Atlanta Falcons,Pittsburgh Steelers,outdoors,64.0,78.0,15.0
+190,2012-12-02,13,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+247,2006-12-31,17,Pittsburgh Steelers,Cincinnati Bengals,outdoors,54.0,91.0,8.0
+157,2003-11-16,11,Detroit Lions,Seattle Seahawks,outdoors,46.0,93.0,9.0
+219,2016-12-18,15,San Francisco 49ers,Atlanta Falcons,dome,,,
+181,2013-12-01,13,Tennessee Titans,Indianapolis Colts,retractable roof (closed),,,
+193,2008-12-07,14,Jacksonville Jaguars,Chicago Bears,outdoors,19.0,43.0,8.0
+159,2002-11-18,11,Chicago Bears,St. Louis Rams,dome,,,
+242,2013-12-29,17,Cleveland Browns,Pittsburgh Steelers,outdoors,40.0,93.0,5.0
+108,2008-10-26,8,Buffalo Bills,Miami Dolphins,outdoors,78.0,83.0,8.0
+161,2002-11-24,12,Cincinnati Bengals,Pittsburgh Steelers,outdoors,45.0,63.0,14.0
+78,2009-10-18,6,Detroit Lions,Green Bay Packers,outdoors,46.0,65.0,13.0
+203,2004-12-12,14,St. Louis Rams,Carolina Panthers,outdoors,53.0,48.0,6.0
+198,2013-12-08,14,Buffalo Bills,Tampa Bay Buccaneers,outdoors,82.0,62.0,13.0
+127,2008-11-02,9,Philadelphia Eagles,Seattle Seahawks,outdoors,58.0,71.0,13.0
+144,2015-11-15,10,Arizona Cardinals,Seattle Seahawks,outdoors,49.0,63.0,
+138,2004-11-14,10,Cincinnati Bengals,Washington Redskins,outdoors,53.0,37.0,
+133,2004-11-14,10,Kansas City Chiefs,New Orleans Saints,dome,,,
+251,2012-12-30,17,Green Bay Packers,Minnesota Vikings,dome,,,
+127,2009-11-08,9,Dallas Cowboys,Philadelphia Eagles,outdoors,61.0,61.0,1.0
+85,2017-10-15,6,Tampa Bay Buccaneers,Arizona Cardinals,retractable roof (closed),,,
+189,2009-12-06,13,San Francisco 49ers,Seattle Seahawks,outdoors,35.0,57.0,6.0
+225,2007-12-22,16,Dallas Cowboys,Carolina Panthers,outdoors,51.0,70.0,10.0
+87,2007-10-14,6,New Orleans Saints,Seattle Seahawks,outdoors,68.0,47.0,4.0
+233,2012-12-23,16,Washington Redskins,Philadelphia Eagles,outdoors,40.0,52.0,11.0
+84,2007-10-14,6,Carolina Panthers,Arizona Cardinals,retractable roof (closed),,,
+117,2012-10-29,8,San Francisco 49ers,Arizona Cardinals,retractable roof (closed),,,
+150,2009-11-22,11,Atlanta Falcons,New York Giants,outdoors,53.0,54.0,10.0
+130,2014-11-02,9,Denver Broncos,New England Patriots,outdoors,35.0,63.0,19.0
+192,2017-12-07,14,New Orleans Saints,Atlanta Falcons,dome,,,
+204,2015-12-13,14,Oakland Raiders,Denver Broncos,outdoors,45.0,33.0,2.0
+104,2011-10-30,8,Arizona Cardinals,Baltimore Ravens,outdoors,48.0,49.0,9.0
+230,2012-12-23,16,Minnesota Vikings,Houston Texans,retractable roof (closed),,,
+243,2014-12-28,17,Indianapolis Colts,Tennessee Titans,outdoors,40.0,99.0,6.0
+243,2012-12-30,17,Jacksonville Jaguars,Tennessee Titans,outdoors,39.0,50.0,4.0
+255,2006-12-31,17,Green Bay Packers,Chicago Bears,outdoors,50.0,81.0,10.0
+197,2012-12-09,14,New York Jets,Jacksonville Jaguars,outdoors,67.0,0.0,10.0
+173,2017-11-26,12,Denver Broncos,Oakland Raiders,outdoors,61.0,,13.0
+240,2005-01-02,17,Pittsburgh Steelers,Buffalo Bills,outdoors,52.0,77.0,17.0
+80,2003-10-12,6,Philadelphia Eagles,Dallas Cowboys,outdoors,70.0,68.0,5.0
+182,2009-12-06,13,New Orleans Saints,Washington Redskins,outdoors,36.0,52.0,9.0
+228,2017-12-24,16,Los Angeles Chargers,New York Jets,outdoors,40.0,,6.0
+165,2017-11-26,12,Chicago Bears,Philadelphia Eagles,outdoors,49.0,,17.0
+172,2016-11-27,12,Seattle Seahawks,Tampa Bay Buccaneers,outdoors,81.0,,6.0
+118,2013-10-27,8,Green Bay Packers,Minnesota Vikings,dome,,,
+96,2012-10-21,7,Cleveland Browns,Indianapolis Colts,retractable roof (open),,,
+232,2005-12-24,16,Buffalo Bills,Cincinnati Bengals,outdoors,51.0,57.0,10.0
+110,2003-10-26,8,Detroit Lions,Chicago Bears,outdoors,46.0,70.0,10.0
+95,2007-10-21,7,Atlanta Falcons,New Orleans Saints,dome,,,
+228,2012-12-23,16,New Orleans Saints,Dallas Cowboys,retractable roof (closed),,,
+132,2009-11-15,10,Cincinnati Bengals,Pittsburgh Steelers,outdoors,64.0,55.0,4.0
+164,2006-11-26,12,Jacksonville Jaguars,Buffalo Bills,outdoors,60.0,49.0,12.0
+134,2009-11-15,10,Buffalo Bills,Tennessee Titans,outdoors,68.0,50.0,5.0
+222,2015-12-20,15,Arizona Cardinals,Philadelphia Eagles,outdoors,37.0,54.0,4.0
+152,2015-11-22,11,Oakland Raiders,Detroit Lions,dome,,,
+119,2008-11-02,9,Detroit Lions,Chicago Bears,outdoors,60.0,65.0,9.0
+254,2013-12-29,17,Kansas City Chiefs,San Diego Chargers,outdoors,73.0,14.0,1.0
+148,2006-11-19,11,Atlanta Falcons,Baltimore Ravens,outdoors,49.0,54.0,8.0
+132,2007-11-11,10,Cleveland Browns,Pittsburgh Steelers,outdoors,40.0,85.0,3.0
+168,2013-11-24,12,San Diego Chargers,Kansas City Chiefs,outdoors,24.0,50.0,3.0
+148,2007-11-18,11,Cleveland Browns,Baltimore Ravens,outdoors,53.0,57.0,11.0
+131,2006-11-12,10,Baltimore Ravens,Tennessee Titans,outdoors,47.0,58.0,11.0
+250,2012-01-01,17,Seattle Seahawks,Arizona Cardinals,retractable roof (closed),,,
+246,2005-01-02,17,Green Bay Packers,Chicago Bears,outdoors,44.0,86.0,12.0
+191,2005-12-05,13,Seattle Seahawks,Philadelphia Eagles,outdoors,31.0,80.0,6.0
+193,2015-12-13,14,Buffalo Bills,Philadelphia Eagles,outdoors,66.0,68.0,3.0
+236,2017-12-24,16,Seattle Seahawks,Dallas Cowboys,retractable roof (closed),,,
+249,2006-12-31,17,St. Louis Rams,Minnesota Vikings,dome,,,
+153,2012-11-18,11,Tampa Bay Buccaneers,Carolina Panthers,outdoors,53.0,15.0,9.0
+121,2013-11-03,9,Tennessee Titans,St. Louis Rams,dome,,,
+236,2009-12-27,16,New York Jets,Indianapolis Colts,retractable roof (closed),,,
+196,2008-12-07,14,Houston Texans,Green Bay Packers,outdoors,3.0,79.0,3.0
+145,2007-11-18,11,Kansas City Chiefs,Indianapolis Colts,dome,,,
+151,2002-11-17,11,Washington Redskins,New York Giants,outdoors,42.0,92.0,8.0
+133,2017-11-12,10,New Orleans Saints,Buffalo Bills,outdoors,42.0,,2.0
+228,2004-12-26,16,Baltimore Ravens,Pittsburgh Steelers,outdoors,26.0,53.0,3.0
+248,2002-12-29,17,Minnesota Vikings,Detroit Lions,dome,,,
+240,2017-12-31,17,Chicago Bears,Minnesota Vikings,dome,,,
+98,2013-10-20,7,St. Louis Rams,Carolina Panthers,outdoors,68.0,42.0,4.0
+99,2005-10-23,7,Denver Broncos,New York Giants,outdoors,54.0,55.0,17.0
+85,2016-10-16,6,Philadelphia Eagles,Washington Redskins,outdoors,69.0,62.0,13.0
+81,2012-10-14,6,Indianapolis Colts,New York Jets,outdoors,65.0,55.0,14.0
+162,2005-11-27,12,New England Patriots,Kansas City Chiefs,outdoors,58.0,88.0,8.0
+241,2010-01-03,17,Pittsburgh Steelers,Miami Dolphins,outdoors,60.0,44.0,11.0
+86,2011-10-16,6,Dallas Cowboys,New England Patriots,outdoors,63.0,0.0,8.0
+120,2012-11-04,9,Buffalo Bills,Houston Texans,retractable roof (closed),,,
+122,2004-11-07,9,Washington Redskins,Detroit Lions,dome,,,
+135,2014-11-09,10,Kansas City Chiefs,Buffalo Bills,outdoors,42.0,72.0,10.0
+190,2009-12-06,13,Minnesota Vikings,Arizona Cardinals,retractable roof (closed),,,
+208,2014-12-11,15,Arizona Cardinals,St. Louis Rams,dome,,,
+210,2014-12-14,15,Jacksonville Jaguars,Baltimore Ravens,outdoors,47.0,64.0,3.0
+229,2017-12-24,16,Buffalo Bills,New England Patriots,outdoors,35.0,,7.0
+171,2009-11-29,12,Kansas City Chiefs,San Diego Chargers,outdoors,63.0,60.0,8.0
+192,2008-12-04,14,Oakland Raiders,San Diego Chargers,outdoors,62.0,70.0,8.0
+235,2011-12-24,16,San Diego Chargers,Detroit Lions,dome,,,
+87,2009-10-18,6,Buffalo Bills,New York Jets,outdoors,44.0,37.0,18.0
+234,2002-12-22,16,Tennessee Titans,Jacksonville Jaguars,outdoors,64.0,41.0,10.0
+140,2015-11-15,10,New Orleans Saints,Washington Redskins,outdoors,61.0,29.0,5.0
+225,2010-12-25,16,Dallas Cowboys,Arizona Cardinals,retractable roof (closed),,,
+100,2013-10-20,7,Chicago Bears,Washington Redskins,outdoors,61.0,39.0,13.0
+94,2005-10-23,7,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+102,2014-10-19,7,Arizona Cardinals,Oakland Raiders,outdoors,69.0,71.0,6.0
+106,2002-10-27,8,Detroit Lions,Buffalo Bills,outdoors,47.0,56.0,18.0
+164,2007-11-25,12,Oakland Raiders,Kansas City Chiefs,outdoors,43.0,60.0,6.0
+194,2006-12-10,14,Atlanta Falcons,Tampa Bay Buccaneers,outdoors,72.0,60.0,14.0
+254,2017-01-01,17,Seattle Seahawks,San Francisco 49ers,outdoors,54.0,,5.0
+118,2005-11-06,9,Carolina Panthers,Tampa Bay Buccaneers,outdoors,84.0,47.0,8.0
+184,2016-12-04,13,Philadelphia Eagles,Cincinnati Bengals,outdoors,42.0,,10.0
+142,2009-11-15,10,New England Patriots,Indianapolis Colts,retractable roof (closed),,,
+203,2011-12-11,14,San Francisco 49ers,Arizona Cardinals,retractable roof (closed),,,
+214,2011-12-18,15,Tennessee Titans,Indianapolis Colts,retractable roof (closed),,,
+228,2010-12-26,16,Baltimore Ravens,Cleveland Browns,outdoors,26.0,73.0,18.0
+166,2008-11-23,12,Tampa Bay Buccaneers,Detroit Lions,dome,,,
+108,2002-10-27,8,Cleveland Browns,New York Jets,outdoors,57.0,55.0,12.0
+198,2005-12-11,14,Houston Texans,Tennessee Titans,outdoors,43.0,53.0,12.0
+207,2012-12-10,14,Houston Texans,New England Patriots,outdoors,59.0,91.0,7.0
+109,2015-11-01,8,Cincinnati Bengals,Pittsburgh Steelers,outdoors,62.0,71.0,11.0
+131,2015-11-09,9,Chicago Bears,San Diego Chargers,outdoors,63.0,67.0,9.0
+181,2002-12-01,13,Chicago Bears,Green Bay Packers,outdoors,23.0,60.0,10.0
+120,2004-11-07,9,Philadelphia Eagles,Pittsburgh Steelers,outdoors,63.0,50.0,24.0
+251,2008-12-28,17,Washington Redskins,San Francisco 49ers,outdoors,50.0,83.0,5.0
+148,2016-11-20,11,Baltimore Ravens,Dallas Cowboys,retractable roof (closed),,,
+143,2006-11-13,10,Tampa Bay Buccaneers,Carolina Panthers,outdoors,58.0,42.0,3.0
+83,2009-10-18,6,Baltimore Ravens,Minnesota Vikings,dome,,,
+112,2009-11-01,8,Oakland Raiders,San Diego Chargers,outdoors,78.0,26.0,8.0
+171,2017-11-26,12,New Orleans Saints,Los Angeles Rams,outdoors,72.0,,1.0
+113,2016-10-30,8,Oakland Raiders,Tampa Bay Buccaneers,outdoors,86.0,54.0,15.0
+78,2004-10-17,6,Houston Texans,Tennessee Titans,outdoors,60.0,47.0,
+123,2004-11-07,9,Seattle Seahawks,San Francisco 49ers,outdoors,57.0,77.0,7.0
+179,2015-12-06,13,San Francisco 49ers,Chicago Bears,outdoors,50.0,55.0,5.0
+222,2004-12-19,15,Baltimore Ravens,Indianapolis Colts,dome,,,
+115,2010-10-31,8,Pittsburgh Steelers,New Orleans Saints,dome,,,
+210,2007-12-16,15,Tennessee Titans,Kansas City Chiefs,outdoors,22.0,71.0,6.0
+78,2011-10-16,6,Buffalo Bills,New York Giants,outdoors,65.0,40.0,15.0
+175,2016-11-27,12,Kansas City Chiefs,Denver Broncos,outdoors,44.0,,21.0
+227,2008-12-21,16,Miami Dolphins,Kansas City Chiefs,outdoors,10.0,45.0,20.0
+120,2003-11-02,9,Indianapolis Colts,Miami Dolphins,outdoors,82.0,64.0,14.0
+221,2012-12-16,15,Pittsburgh Steelers,Dallas Cowboys,retractable roof (closed),,,
+189,2007-12-02,13,Tampa Bay Buccaneers,New Orleans Saints,dome,,,
+187,2008-11-30,13,Kansas City Chiefs,Oakland Raiders,outdoors,59.0,72.0,6.0
+114,2013-10-27,8,Pittsburgh Steelers,Oakland Raiders,outdoors,56.0,81.0,17.0
+130,2017-11-05,9,Oakland Raiders,Miami Dolphins,outdoors,77.0,,2.0
+142,2005-11-13,10,Cleveland Browns,Pittsburgh Steelers,outdoors,58.0,84.0,11.0
+169,2011-11-27,12,Houston Texans,Jacksonville Jaguars,outdoors,75.0,61.0,10.0
+242,2002-12-29,17,Baltimore Ravens,Pittsburgh Steelers,outdoors,32.0,87.0,6.0
+139,2008-11-09,10,Carolina Panthers,Oakland Raiders,outdoors,62.0,59.0,12.0
+177,2002-11-28,13,Washington Redskins,Dallas Cowboys,outdoors,58.0,37.0,5.0
+213,2012-12-16,15,Jacksonville Jaguars,Miami Dolphins,outdoors,80.0,60.0,13.0
+215,2015-12-20,15,Atlanta Falcons,Jacksonville Jaguars,outdoors,65.0,60.0,8.0
+126,2005-11-06,9,New York Giants,San Francisco 49ers,outdoors,61.0,80.0,5.0
+126,2010-11-07,9,Kansas City Chiefs,Oakland Raiders,outdoors,62.0,82.0,9.0
+74,2008-10-12,6,Miami Dolphins,Houston Texans,retractable roof (open),,,
+88,2007-10-15,6,New York Giants,Atlanta Falcons,dome,,,
+116,2012-10-28,8,New Orleans Saints,Denver Broncos,outdoors,59.0,30.0,5.0
+238,2014-12-21,16,Seattle Seahawks,Arizona Cardinals,retractable roof (closed),,,
+235,2010-12-26,16,Houston Texans,Denver Broncos,outdoors,50.0,18.0,7.0
+254,2002-12-29,17,Tampa Bay Buccaneers,Chicago Bears,outdoors,38.0,0.0,7.0
+158,2016-11-20,11,Philadelphia Eagles,Seattle Seahawks,outdoors,54.0,,5.0
+212,2006-12-17,15,Houston Texans,New England Patriots,outdoors,52.0,45.0,10.0
+154,2012-11-18,11,Cleveland Browns,Dallas Cowboys,retractable roof (closed),,,
+180,2016-12-04,13,Detroit Lions,New Orleans Saints,dome,,,
+80,2011-10-16,6,Carolina Panthers,Atlanta Falcons,dome,,,
+140,2004-11-14,10,Carolina Panthers,San Francisco 49ers,outdoors,59.0,83.0,3.0
+150,2003-11-16,11,Baltimore Ravens,Miami Dolphins,outdoors,79.0,60.0,16.0
+123,2017-11-05,9,Baltimore Ravens,Tennessee Titans,outdoors,75.0,,10.0
+162,2007-11-22,12,Indianapolis Colts,Atlanta Falcons,dome,,,
+144,2014-11-09,10,New York Giants,Seattle Seahawks,outdoors,50.0,88.0,
+140,2005-11-13,10,Washington Redskins,Tampa Bay Buccaneers,outdoors,81.0,48.0,9.0
+204,2016-12-11,14,Seattle Seahawks,Green Bay Packers,outdoors,26.0,,5.0
+146,2003-11-16,11,Jacksonville Jaguars,Tennessee Titans,outdoors,60.0,96.0,6.0
+104,2004-10-31,8,Jacksonville Jaguars,Houston Texans,retractable roof (open),,,
+165,2007-11-25,12,Washington Redskins,Tampa Bay Buccaneers,outdoors,81.0,61.0,8.0
+246,2017-01-01,17,Carolina Panthers,Tampa Bay Buccaneers,outdoors,81.0,,6.0
+255,2007-12-30,17,Tennessee Titans,Indianapolis Colts,dome,,,
+244,2006-12-31,17,Detroit Lions,Dallas Cowboys,outdoors,45.0,58.0,
+106,2013-10-21,7,Minnesota Vikings,New York Giants,outdoors,57.0,63.0,4.0
+129,2011-11-07,9,Chicago Bears,Philadelphia Eagles,outdoors,51.0,74.0,2.0
+179,2011-12-04,13,Carolina Panthers,Tampa Bay Buccaneers,outdoors,79.0,46.0,13.0
+121,2015-11-08,9,Jacksonville Jaguars,New York Jets,outdoors,56.0,36.0,10.0
+111,2014-10-26,8,Chicago Bears,New England Patriots,outdoors,54.0,53.0,14.0
+99,2016-10-23,7,Indianapolis Colts,Tennessee Titans,outdoors,68.0,50.0,5.0
+244,2012-12-30,17,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+242,2008-12-28,17,Kansas City Chiefs,Cincinnati Bengals,outdoors,43.0,56.0,17.0
+79,2002-10-13,6,Pittsburgh Steelers,Cincinnati Bengals,outdoors,54.0,67.0,15.0
+177,2016-12-01,13,Dallas Cowboys,Minnesota Vikings,dome,,,
+193,2011-12-11,14,Indianapolis Colts,Baltimore Ravens,outdoors,43.0,34.0,2.0
+212,2007-12-16,15,New York Jets,New England Patriots,outdoors,36.0,88.0,17.0
+121,2010-11-07,9,Miami Dolphins,Baltimore Ravens,outdoors,50.0,38.0,11.0
+188,2004-12-05,13,Green Bay Packers,Philadelphia Eagles,outdoors,55.0,38.0,14.0
+210,2013-12-15,15,Buffalo Bills,Jacksonville Jaguars,outdoors,60.0,0.0,20.0
+161,2013-11-18,11,New England Patriots,Carolina Panthers,outdoors,59.0,35.0,8.0
+196,2010-12-12,14,Green Bay Packers,Detroit Lions,dome,,,
+75,2003-10-12,6,Miami Dolphins,Jacksonville Jaguars,outdoors,75.0,87.0,13.0
+137,2010-11-14,10,Houston Texans,Jacksonville Jaguars,outdoors,70.0,50.0,5.0
+245,2013-12-29,17,Washington Redskins,New York Giants,outdoors,40.0,100.0,2.0
+225,2008-12-20,16,Baltimore Ravens,Dallas Cowboys,outdoors,45.0,45.0,
+166,2009-11-29,12,Carolina Panthers,New York Jets,outdoors,53.0,44.0,9.0
+241,2006-12-31,17,Jacksonville Jaguars,Kansas City Chiefs,outdoors,40.0,89.0,10.0
+233,2008-12-21,16,Houston Texans,Oakland Raiders,outdoors,48.0,80.0,6.0
+168,2003-11-23,12,Jacksonville Jaguars,New York Jets,outdoors,53.0,73.0,
+114,2015-11-01,8,New York Giants,New Orleans Saints,dome,,,
+178,2010-12-05,13,San Francisco 49ers,Green Bay Packers,outdoors,26.0,60.0,16.0
+101,2015-10-25,7,Oakland Raiders,San Diego Chargers,outdoors,77.0,48.0,4.0
+74,2004-10-17,6,Miami Dolphins,Buffalo Bills,outdoors,45.0,0.0,25.0
+129,2006-11-12,10,Buffalo Bills,Indianapolis Colts,dome,,,
+176,2017-11-30,13,Washington Redskins,Dallas Cowboys,retractable roof (closed),,,
+134,2008-11-09,10,Tennessee Titans,Chicago Bears,outdoors,37.0,63.0,16.0
+209,2007-12-15,15,Cincinnati Bengals,San Francisco 49ers,outdoors,52.0,74.0,
+169,2016-11-27,12,Los Angeles Rams,New Orleans Saints,dome,,,
+76,2007-10-14,6,Cincinnati Bengals,Kansas City Chiefs,outdoors,68.0,56.0,12.0
+247,2012-12-30,17,Chicago Bears,Detroit Lions,dome,,,
+148,2005-11-20,11,Oakland Raiders,Washington Redskins,outdoors,55.0,55.0,4.0
+118,2009-11-08,9,Houston Texans,Indianapolis Colts,retractable roof (open),,,
+239,2003-12-22,16,Green Bay Packers,Oakland Raiders,outdoors,54.0,83.0,6.0
+90,2010-10-24,7,Pittsburgh Steelers,Miami Dolphins,outdoors,80.0,84.0,13.0
+77,2003-10-12,6,New York Giants,New England Patriots,outdoors,55.0,94.0,10.0
+124,2015-11-08,9,Oakland Raiders,Pittsburgh Steelers,outdoors,54.0,38.0,5.0
+237,2003-12-21,16,San Francisco 49ers,Philadelphia Eagles,outdoors,35.0,58.0,16.0
+102,2013-10-20,7,Baltimore Ravens,Pittsburgh Steelers,outdoors,57.0,49.0,14.0
+215,2011-12-18,15,Seattle Seahawks,Chicago Bears,outdoors,39.0,65.0,5.0
+213,2008-12-14,15,San Francisco 49ers,Miami Dolphins,outdoors,77.0,54.0,17.0
+98,2010-10-24,7,Cincinnati Bengals,Atlanta Falcons,dome,,,
+228,2009-12-27,16,Baltimore Ravens,Pittsburgh Steelers,outdoors,39.0,49.0,9.0
+94,2008-10-19,7,New Orleans Saints,Carolina Panthers,outdoors,65.0,71.0,12.0
+187,2011-12-04,13,Dallas Cowboys,Arizona Cardinals,retractable roof (closed),,,
+139,2016-11-13,10,Denver Broncos,New Orleans Saints,dome,,,
+152,2009-11-22,11,Buffalo Bills,Jacksonville Jaguars,outdoors,74.0,85.0,10.0
+182,2017-12-03,13,Houston Texans,Tennessee Titans,outdoors,60.0,,4.0
+212,2004-12-19,15,Seattle Seahawks,New York Jets,outdoors,45.0,82.0,5.0
+198,2012-12-09,14,Philadelphia Eagles,Tampa Bay Buccaneers,outdoors,69.0,92.0,1.0
+141,2010-11-14,10,St. Louis Rams,San Francisco 49ers,outdoors,74.0,50.0,5.0
+77,2016-10-13,6,Denver Broncos,San Diego Chargers,outdoors,70.0,63.0,9.0
+218,2012-12-16,15,Detroit Lions,Arizona Cardinals,retractable roof (closed),,,
+206,2004-12-12,14,Philadelphia Eagles,Washington Redskins,outdoors,47.0,51.0,13.0
+92,2012-10-21,7,Green Bay Packers,St. Louis Rams,dome,,,
+195,2014-12-07,14,Pittsburgh Steelers,Cincinnati Bengals,outdoors,39.0,70.0,8.0
+217,2016-12-18,15,Pittsburgh Steelers,Cincinnati Bengals,outdoors,24.0,,8.0
+93,2015-10-25,7,Cleveland Browns,St. Louis Rams,dome,,,
+194,2017-12-10,14,Oakland Raiders,Kansas City Chiefs,outdoors,46.0,,13.0
+188,2015-12-06,13,Carolina Panthers,New Orleans Saints,dome,,,
+184,2010-12-05,13,Buffalo Bills,Minnesota Vikings,dome,,,
+162,2006-11-23,12,Denver Broncos,Kansas City Chiefs,outdoors,65.0,39.0,10.0
+232,2010-12-26,16,Detroit Lions,Miami Dolphins,outdoors,69.0,47.0,22.0
+231,2017-12-24,16,Detroit Lions,Cincinnati Bengals,outdoors,35.0,,2.0
+254,2007-12-30,17,Pittsburgh Steelers,Baltimore Ravens,outdoors,42.0,100.0,5.0
+178,2017-12-03,13,Denver Broncos,Miami Dolphins,outdoors,80.0,,11.0
+207,2017-12-11,14,New England Patriots,Miami Dolphins,outdoors,55.0,,7.0
+130,2010-11-11,10,Baltimore Ravens,Atlanta Falcons,dome,,,
+108,2009-11-01,8,St. Louis Rams,Detroit Lions,dome,,,
+175,2011-11-28,12,New York Giants,New Orleans Saints,dome,,,
+205,2009-12-13,14,San Diego Chargers,Dallas Cowboys,retractable roof (open),,,
+175,2009-11-30,12,New England Patriots,New Orleans Saints,dome,,,
+195,2015-12-13,14,Tennessee Titans,New York Jets,outdoors,,,
+223,2003-12-15,15,Philadelphia Eagles,Miami Dolphins,outdoors,70.0,73.0,8.0
+87,2017-10-15,6,Pittsburgh Steelers,Kansas City Chiefs,outdoors,60.0,,14.0
+190,2008-11-30,13,Chicago Bears,Minnesota Vikings,dome,,,
+194,2005-12-11,14,Chicago Bears,Pittsburgh Steelers,outdoors,32.0,81.0,12.0
+218,2015-12-20,15,Cleveland Browns,Seattle Seahawks,outdoors,47.0,56.0,10.0
+188,2006-12-03,13,Dallas Cowboys,New York Giants,outdoors,45.0,47.0,9.0
+146,2013-11-11,10,Miami Dolphins,Tampa Bay Buccaneers,outdoors,73.0,74.0,5.0
+245,2006-01-01,17,Detroit Lions,Pittsburgh Steelers,outdoors,39.0,63.0,6.0
+168,2016-11-27,12,Tennessee Titans,Chicago Bears,outdoors,40.0,,11.0
+166,2010-11-28,12,Minnesota Vikings,Washington Redskins,outdoors,47.0,44.0,5.0
+128,2016-11-06,9,Carolina Panthers,Los Angeles Rams,outdoors,75.0,,2.0
+118,2007-11-04,9,Denver Broncos,Detroit Lions,dome,,,
+246,2013-12-29,17,Detroit Lions,Minnesota Vikings,dome,,,
+210,2006-12-17,15,Pittsburgh Steelers,Carolina Panthers,outdoors,68.0,60.0,5.0
+79,2010-10-17,6,Seattle Seahawks,Chicago Bears,outdoors,61.0,49.0,9.0
+195,2007-12-09,14,St. Louis Rams,Cincinnati Bengals,outdoors,38.0,93.0,7.0
+249,2002-12-29,17,Tennessee Titans,Houston Texans,retractable roof (open),,,
+242,2012-12-30,17,New York Jets,Buffalo Bills,outdoors,28.0,53.0,18.0
+182,2016-12-04,13,Denver Broncos,Jacksonville Jaguars,outdoors,70.0,,10.0
+116,2014-10-26,8,Philadelphia Eagles,Arizona Cardinals,retractable roof (closed),,,
+123,2015-11-08,9,Miami Dolphins,Buffalo Bills,outdoors,49.0,55.0,7.0
+104,2016-10-23,7,New England Patriots,Pittsburgh Steelers,outdoors,63.0,54.0,13.0
+91,2004-10-24,7,Buffalo Bills,Baltimore Ravens,outdoors,52.0,69.0,3.0
+188,2010-12-05,13,Atlanta Falcons,Tampa Bay Buccaneers,outdoors,72.0,53.0,9.0
+103,2010-10-25,7,New York Giants,Dallas Cowboys,retractable roof (open),,,
+87,2011-10-16,6,New Orleans Saints,Tampa Bay Buccaneers,outdoors,84.0,0.0,11.0
+145,2003-11-16,11,New York Giants,Philadelphia Eagles,outdoors,52.0,59.0,6.0
+185,2014-11-30,13,Washington Redskins,Indianapolis Colts,retractable roof (closed),,,
+211,2016-12-18,15,Jacksonville Jaguars,Houston Texans,retractable roof (closed),,,
+102,2005-10-30,8,Minnesota Vikings,Carolina Panthers,outdoors,70.0,24.0,5.0
+123,2011-11-06,9,Cincinnati Bengals,Tennessee Titans,outdoors,68.0,39.0,13.0
+195,2010-12-12,14,Cincinnati Bengals,Pittsburgh Steelers,outdoors,37.0,89.0,8.0
+121,2006-11-05,9,Tennessee Titans,Jacksonville Jaguars,outdoors,69.0,63.0,20.0
+157,2012-11-18,11,San Diego Chargers,Denver Broncos,outdoors,62.0,22.0,3.0
+86,2004-10-17,6,Minnesota Vikings,New Orleans Saints,dome,,,
+159,2003-11-17,11,Pittsburgh Steelers,San Francisco 49ers,outdoors,57.0,80.0,14.0
+249,2006-01-01,17,New Orleans Saints,Tampa Bay Buccaneers,outdoors,74.0,84.0,7.0
+100,2017-10-22,7,Dallas Cowboys,San Francisco 49ers,outdoors,68.0,,10.0
+228,2007-12-23,16,Oakland Raiders,Jacksonville Jaguars,outdoors,69.0,78.0,6.0
+90,2014-10-13,6,San Francisco 49ers,St. Louis Rams,dome,,,
+82,2002-10-13,6,Carolina Panthers,Dallas Cowboys,outdoors,56.0,55.0,13.0
+188,2008-11-30,13,Pittsburgh Steelers,New England Patriots,outdoors,34.0,100.0,3.0
+124,2013-11-03,9,San Diego Chargers,Washington Redskins,outdoors,57.0,41.0,20.0
+141,2011-11-13,10,Baltimore Ravens,Seattle Seahawks,outdoors,50.0,0.0,10.0
+183,2017-12-03,13,New England Patriots,Buffalo Bills,outdoors,48.0,,13.0
+209,2004-12-18,15,Washington Redskins,San Francisco 49ers,outdoors,55.0,80.0,
+159,2015-11-23,11,Buffalo Bills,New England Patriots,outdoors,29.0,40.0,8.0
+128,2012-11-04,9,Minnesota Vikings,Seattle Seahawks,outdoors,60.0,89.0,5.0
+225,2016-12-24,16,Washington Redskins,Chicago Bears,outdoors,37.0,,1.0
+114,2004-10-31,8,San Francisco 49ers,Chicago Bears,outdoors,50.0,76.0,7.0
+207,2004-12-13,14,Kansas City Chiefs,Tennessee Titans,outdoors,37.0,50.0,10.0
+212,2009-12-20,15,Arizona Cardinals,Detroit Lions,dome,,,
+108,2015-11-01,8,Minnesota Vikings,Chicago Bears,outdoors,62.0,42.0,11.0
+225,2011-12-24,16,Denver Broncos,Buffalo Bills,outdoors,30.0,42.0,2.0
+151,2012-11-18,11,Jacksonville Jaguars,Houston Texans,retractable roof (closed),,,
+249,2014-12-28,17,Dallas Cowboys,Washington Redskins,outdoors,58.0,54.0,
+196,2015-12-13,14,Seattle Seahawks,Baltimore Ravens,outdoors,65.0,70.0,2.0
+236,2011-12-24,16,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+142,2004-11-14,10,Buffalo Bills,New England Patriots,outdoors,40.0,57.0,2.0
+98,2015-10-25,7,Pittsburgh Steelers,Kansas City Chiefs,outdoors,58.0,57.0,7.0
+113,2012-10-28,8,San Diego Chargers,Cleveland Browns,outdoors,44.0,89.0,19.0
+167,2009-11-29,12,Cleveland Browns,Cincinnati Bengals,outdoors,59.0,41.0,15.0
+151,2009-11-22,11,Washington Redskins,Dallas Cowboys,retractable roof (closed),,,
+224,2010-12-23,16,Carolina Panthers,Pittsburgh Steelers,outdoors,27.0,70.0,11.0
+100,2006-10-29,8,Seattle Seahawks,Kansas City Chiefs,outdoors,67.0,48.0,5.0
+134,2002-11-10,10,New Orleans Saints,Carolina Panthers,outdoors,69.0,84.0,12.0
+134,2007-11-11,10,St. Louis Rams,New Orleans Saints,dome,,,
+76,2014-10-09,6,Indianapolis Colts,Houston Texans,retractable roof (closed),,,
+91,2008-10-19,7,Baltimore Ravens,Miami Dolphins,outdoors,80.0,72.0,13.0
+99,2013-10-20,7,New England Patriots,New York Jets,outdoors,63.0,36.0,11.0
+202,2010-12-12,14,Denver Broncos,Arizona Cardinals,retractable roof (closed),,,
+122,2016-11-06,9,Jacksonville Jaguars,Kansas City Chiefs,outdoors,62.0,,7.0
+117,2013-10-27,8,Washington Redskins,Denver Broncos,outdoors,69.0,14.0,8.0
+107,2014-10-26,8,Detroit Lions,Atlanta Falcons,outdoors,59.0,0.0,13.0
+114,2009-11-01,8,Carolina Panthers,Arizona Cardinals,retractable roof (closed),,,
+211,2002-12-15,15,Baltimore Ravens,Houston Texans,retractable roof (open),,,
+236,2014-12-21,16,Buffalo Bills,Oakland Raiders,outdoors,64.0,84.0,10.0
+177,2014-11-27,13,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+81,2005-10-16,6,Cincinnati Bengals,Tennessee Titans,outdoors,66.0,36.0,
+163,2012-11-25,12,Minnesota Vikings,Chicago Bears,outdoors,41.0,26.0,5.0
+80,2005-10-16,6,Minnesota Vikings,Chicago Bears,outdoors,57.0,47.0,9.0
+207,2009-12-14,14,Arizona Cardinals,San Francisco 49ers,outdoors,53.0,83.0,
+106,2014-10-23,8,San Diego Chargers,Denver Broncos,outdoors,68.0,24.0,3.0
+250,2011-01-02,17,San Diego Chargers,Denver Broncos,outdoors,42.0,22.0,4.0
+120,2005-11-06,9,Cincinnati Bengals,Baltimore Ravens,outdoors,70.0,55.0,14.0
+83,2016-10-16,6,Los Angeles Rams,Detroit Lions,dome,,,
+97,2008-10-19,7,New York Jets,Oakland Raiders,outdoors,59.0,66.0,8.0
+104,2003-10-26,8,Tennessee Titans,Jacksonville Jaguars,outdoors,80.0,0.0,10.0
+90,2008-10-19,7,San Francisco 49ers,New York Giants,outdoors,51.0,45.0,14.0
+160,2016-11-21,11,Houston Texans,Oakland Raiders,outdoors,63.0,,6.0
+232,2013-12-22,16,New Orleans Saints,Carolina Panthers,outdoors,72.0,84.0,18.0
+150,2002-11-17,11,Pittsburgh Steelers,Tennessee Titans,outdoors,42.0,47.0,12.0
+152,2011-11-20,11,Dallas Cowboys,Washington Redskins,outdoors,62.0,55.0,4.0
+249,2007-12-30,17,Dallas Cowboys,Washington Redskins,outdoors,39.0,60.0,6.0
+128,2009-11-09,9,Pittsburgh Steelers,Denver Broncos,outdoors,55.0,37.0,7.0
+158,2011-11-20,11,Philadelphia Eagles,New York Giants,outdoors,58.0,66.0,10.0
+77,2013-10-10,6,New York Giants,Chicago Bears,outdoors,63.0,74.0,10.0
+189,2016-12-04,13,Washington Redskins,Arizona Cardinals,retractable roof (closed),,,
+180,2008-11-30,13,San Francisco 49ers,Buffalo Bills,outdoors,38.0,69.0,15.0
+105,2002-10-27,8,Tennessee Titans,Cincinnati Bengals,outdoors,54.0,66.0,6.0
+152,2017-11-19,11,Washington Redskins,New Orleans Saints,dome,,,
+227,2010-12-26,16,New England Patriots,Buffalo Bills,outdoors,22.0,69.0,16.0
+169,2017-11-26,12,Miami Dolphins,New England Patriots,outdoors,47.0,,17.0
+181,2006-12-03,13,Minnesota Vikings,Chicago Bears,outdoors,20.0,57.0,15.0
+162,2010-11-25,12,Cincinnati Bengals,New York Jets,outdoors,39.0,87.0,6.0
+234,2006-12-24,16,New Orleans Saints,New York Giants,outdoors,52.0,40.0,20.0
+198,2014-12-07,14,St. Louis Rams,Washington Redskins,outdoors,45.0,37.0,8.0
+175,2005-11-28,12,Pittsburgh Steelers,Indianapolis Colts,dome,,,
+109,2005-10-30,8,Washington Redskins,New York Giants,outdoors,64.0,45.0,13.0
+240,2012-01-01,17,San Francisco 49ers,St. Louis Rams,dome,,,
+115,2016-10-30,8,Detroit Lions,Houston Texans,retractable roof (closed),,,
+76,2010-10-17,6,San Diego Chargers,St. Louis Rams,dome,,,
+136,2013-11-10,10,Buffalo Bills,Pittsburgh Steelers,outdoors,46.0,56.0,21.0
+154,2008-11-16,11,St. Louis Rams,San Francisco 49ers,outdoors,75.0,50.0,5.0
+103,2015-10-25,7,Philadelphia Eagles,Carolina Panthers,outdoors,71.0,80.0,
+198,2011-12-11,14,Tampa Bay Buccaneers,Jacksonville Jaguars,outdoors,58.0,80.0,12.0
+145,2009-11-22,11,Pittsburgh Steelers,Kansas City Chiefs,outdoors,55.0,62.0,5.0
+91,2003-10-19,7,Green Bay Packers,St. Louis Rams,dome,,,
+170,2013-11-24,12,Pittsburgh Steelers,Cleveland Browns,outdoors,20.0,84.0,31.0
+103,2006-10-29,8,Arizona Cardinals,Green Bay Packers,outdoors,45.0,45.0,10.0
+245,2014-12-28,17,Cleveland Browns,Baltimore Ravens,outdoors,54.0,0.0,5.0
+156,2011-11-20,11,Tennessee Titans,Atlanta Falcons,dome,,,
+171,2013-11-24,12,Tennessee Titans,Oakland Raiders,outdoors,58.0,56.0,5.0
+98,2002-10-20,7,Dallas Cowboys,Arizona Cardinals,outdoors,81.0,24.0,5.0
+100,2011-10-23,7,Kansas City Chiefs,Oakland Raiders,outdoors,79.0,46.0,6.0
+101,2010-10-24,7,Oakland Raiders,Denver Broncos,outdoors,63.0,23.0,9.0
+131,2016-11-06,9,Denver Broncos,Oakland Raiders,outdoors,65.0,,6.0
+156,2009-11-22,11,San Diego Chargers,Denver Broncos,outdoors,51.0,25.0,3.0
+215,2005-12-18,15,Carolina Panthers,New Orleans Saints,outdoors,55.0,45.0,8.0
+254,2006-12-31,17,San Francisco 49ers,Denver Broncos,outdoors,32.0,33.0,4.0
+182,2007-12-02,13,Jacksonville Jaguars,Indianapolis Colts,dome,,,
+190,2004-12-05,13,Pittsburgh Steelers,Jacksonville Jaguars,outdoors,56.0,89.0,
+216,2011-12-18,15,Carolina Panthers,Houston Texans,retractable roof (closed),,,
+111,2017-10-29,8,Carolina Panthers,Tampa Bay Buccaneers,outdoors,63.0,,13.0
+241,2003-12-27,17,Seattle Seahawks,San Francisco 49ers,outdoors,49.0,80.0,5.0
+114,2008-10-26,8,New York Giants,Pittsburgh Steelers,outdoors,62.0,50.0,10.0
+210,2016-12-18,15,Philadelphia Eagles,Baltimore Ravens,outdoors,62.0,,9.0
+163,2007-11-25,12,Seattle Seahawks,St. Louis Rams,dome,,,
+235,2003-12-21,16,San Diego Chargers,Pittsburgh Steelers,outdoors,36.0,43.0,15.0
+122,2007-11-04,9,San Francisco 49ers,Atlanta Falcons,dome,,,
+100,2012-10-21,7,Jacksonville Jaguars,Oakland Raiders,outdoors,62.0,49.0,11.0
+218,2013-12-15,15,Kansas City Chiefs,Oakland Raiders,outdoors,64.0,39.0,6.0
+220,2017-12-17,15,Tennessee Titans,San Francisco 49ers,outdoors,65.0,,17.0
+176,2003-11-27,13,Green Bay Packers,Detroit Lions,dome,,,
+184,2009-12-06,13,Houston Texans,Jacksonville Jaguars,outdoors,54.0,71.0,6.0
+130,2015-11-08,9,Philadelphia Eagles,Dallas Cowboys,retractable roof (closed),,,
+153,2007-11-18,11,Oakland Raiders,Minnesota Vikings,dome,,,
+116,2013-10-27,8,Atlanta Falcons,Arizona Cardinals,retractable roof (closed),,,
+199,2003-12-07,14,Indianapolis Colts,Tennessee Titans,outdoors,42.0,70.0,
+215,2002-12-15,15,Seattle Seahawks,Atlanta Falcons,dome,,,
+179,2005-12-04,13,Cincinnati Bengals,Pittsburgh Steelers,outdoors,30.0,81.0,10.0
+149,2011-11-20,11,Buffalo Bills,Miami Dolphins,outdoors,80.0,79.0,15.0
+116,2015-11-01,8,Seattle Seahawks,Dallas Cowboys,retractable roof (closed),,,
+233,2004-12-26,16,New England Patriots,New York Jets,outdoors,30.0,90.0,10.0
+117,2015-11-01,8,Green Bay Packers,Denver Broncos,outdoors,61.0,23.0,9.0
+241,2017-01-01,17,Chicago Bears,Minnesota Vikings,dome,,,
+245,2016-01-03,17,Baltimore Ravens,Cincinnati Bengals,outdoors,35.0,67.0,7.0
+163,2004-11-28,12,Jacksonville Jaguars,Minnesota Vikings,dome,,,
+234,2012-12-23,16,San Diego Chargers,New York Jets,outdoors,39.0,54.0,13.0
+114,2014-10-26,8,St. Louis Rams,Kansas City Chiefs,outdoors,70.0,73.0,8.0
+191,2010-12-06,13,New York Jets,New England Patriots,outdoors,27.0,0.0,16.0
+121,2016-11-06,9,New York Jets,Miami Dolphins,outdoors,80.0,,14.0
+77,2010-10-17,6,Baltimore Ravens,New England Patriots,outdoors,57.0,0.0,14.0
+128,2003-11-02,9,Green Bay Packers,Minnesota Vikings,dome,,,
+211,2013-12-15,15,Houston Texans,Indianapolis Colts,retractable roof (closed),,,
+253,2012-01-01,17,Pittsburgh Steelers,Cleveland Browns,outdoors,49.0,66.0,24.0
+194,2016-12-11,14,Arizona Cardinals,Miami Dolphins,outdoors,77.0,,18.0
+176,2014-11-27,13,Chicago Bears,Detroit Lions,dome,,,
+244,2002-12-29,17,Carolina Panthers,New Orleans Saints,dome,,,
+84,2014-10-12,6,Carolina Panthers,Cincinnati Bengals,outdoors,60.0,61.0,5.0
+235,2005-12-24,16,Oakland Raiders,Denver Broncos,outdoors,52.0,20.0,7.0
+149,2016-11-20,11,Buffalo Bills,Cincinnati Bengals,outdoors,36.0,,8.0
+224,2005-12-24,16,San Diego Chargers,Kansas City Chiefs,outdoors,42.0,89.0,10.0
+127,2015-11-08,9,New York Giants,Tampa Bay Buccaneers,outdoors,80.0,90.0,3.0
+213,2017-12-17,15,Miami Dolphins,Buffalo Bills,outdoors,22.0,,8.0
+153,2010-11-21,11,Green Bay Packers,Minnesota Vikings,dome,,,
+107,2004-10-31,8,Detroit Lions,Dallas Cowboys,outdoors,78.0,71.0,
+148,2014-11-16,11,Denver Broncos,St. Louis Rams,dome,,,
+143,2010-11-15,10,Philadelphia Eagles,Washington Redskins,outdoors,52.0,67.0,3.0
+89,2013-10-13,6,Arizona Cardinals,San Francisco 49ers,outdoors,65.0,55.0,5.0
+188,2016-12-04,13,New York Giants,Pittsburgh Steelers,outdoors,43.0,,71.0
+223,2016-12-19,15,Carolina Panthers,Washington Redskins,outdoors,32.0,,8.0
+122,2010-11-07,9,New York Jets,Detroit Lions,dome,,,
+146,2009-11-22,11,New Orleans Saints,Tampa Bay Buccaneers,outdoors,79.0,78.0,8.0
+191,2014-12-01,13,Miami Dolphins,New York Jets,outdoors,42.0,75.0,6.0
+231,2015-12-27,16,Dallas Cowboys,Buffalo Bills,outdoors,39.0,83.0,11.0
+163,2006-11-26,12,San Francisco 49ers,St. Louis Rams,dome,,,
+202,2017-12-10,14,Washington Redskins,Los Angeles Chargers,outdoors,81.0,,4.0
+101,2007-10-21,7,Pittsburgh Steelers,Denver Broncos,outdoors,37.0,59.0,10.0
+254,2008-12-28,17,Miami Dolphins,New York Jets,outdoors,65.0,85.0,15.0
+119,2012-11-04,9,Denver Broncos,Cincinnati Bengals,outdoors,48.0,59.0,1.0
+132,2015-11-12,10,Buffalo Bills,New York Jets,outdoors,60.0,75.0,16.0
+182,2006-12-03,13,Kansas City Chiefs,Cleveland Browns,outdoors,31.0,0.0,12.0
+184,2013-12-01,13,Tampa Bay Buccaneers,Carolina Panthers,outdoors,56.0,55.0,2.0
+231,2011-12-24,16,Cleveland Browns,Baltimore Ravens,outdoors,44.0,32.0,10.0
+231,2016-12-24,16,Tennessee Titans,Jacksonville Jaguars,outdoors,67.0,,5.0
+195,2017-12-10,14,Detroit Lions,Tampa Bay Buccaneers,outdoors,55.0,,9.0
+190,2003-11-30,13,Tampa Bay Buccaneers,Jacksonville Jaguars,outdoors,46.0,0.0,
+130,2011-11-10,10,Oakland Raiders,San Diego Chargers,outdoors,69.0,27.0,5.0
+242,2007-12-30,17,Buffalo Bills,Philadelphia Eagles,outdoors,42.0,62.0,5.0
+249,2017-01-01,17,Arizona Cardinals,Los Angeles Rams,outdoors,59.0,,
+98,2011-10-23,7,St. Louis Rams,Dallas Cowboys,retractable roof (closed),,,
+155,2004-11-21,11,Miami Dolphins,Seattle Seahawks,outdoors,46.0,73.0,3.0
+154,2007-11-18,11,Pittsburgh Steelers,New York Jets,outdoors,42.0,58.0,10.0
+91,2014-10-16,7,New York Jets,New England Patriots,outdoors,64.0,93.0,9.0
+143,2012-11-11,10,Dallas Cowboys,Philadelphia Eagles,outdoors,63.0,45.0,7.0
+193,2013-12-08,14,Detroit Lions,Philadelphia Eagles,outdoors,27.0,56.0,6.0
+157,2011-11-20,11,San Diego Chargers,Chicago Bears,outdoors,42.0,78.0,13.0
+143,2008-11-10,10,San Francisco 49ers,Arizona Cardinals,retractable roof (open),,,
+91,2007-10-21,7,Arizona Cardinals,Washington Redskins,outdoors,75.0,38.0,9.0
+197,2017-12-10,14,Chicago Bears,Cincinnati Bengals,outdoors,31.0,,11.0
+164,2002-11-24,12,Buffalo Bills,New York Jets,outdoors,50.0,66.0,14.0
+86,2003-10-12,6,San Francisco 49ers,Seattle Seahawks,outdoors,59.0,72.0,16.0
+133,2006-11-12,10,San Francisco 49ers,Detroit Lions,dome,,,
+186,2014-11-30,13,Cleveland Browns,Buffalo Bills,outdoors,57.0,61.0,17.0
+88,2013-10-13,6,New Orleans Saints,New England Patriots,outdoors,59.0,57.0,7.0
+196,2012-12-09,14,St. Louis Rams,Buffalo Bills,outdoors,37.0,74.0,14.0
+205,2005-12-11,14,Baltimore Ravens,Denver Broncos,outdoors,41.0,46.0,5.0
+167,2016-11-27,12,San Diego Chargers,Houston Texans,retractable roof (closed),,,
+185,2012-12-02,13,Arizona Cardinals,New York Jets,outdoors,46.0,89.0,6.0
+201,2003-12-07,14,Dallas Cowboys,Philadelphia Eagles,outdoors,30.0,51.0,23.0
+208,2006-12-14,15,San Francisco 49ers,Seattle Seahawks,outdoors,52.0,95.0,20.0
+197,2003-12-07,14,Washington Redskins,New York Giants,outdoors,27.0,57.0,15.0
+108,2003-10-26,8,Cleveland Browns,New England Patriots,outdoors,62.0,80.0,15.0
+186,2015-12-06,13,Denver Broncos,San Diego Chargers,outdoors,78.0,13.0,4.0
+250,2005-01-02,17,Tampa Bay Buccaneers,Arizona Cardinals,outdoors,63.0,47.0,7.0
+219,2004-12-19,15,St. Louis Rams,Arizona Cardinals,outdoors,75.0,13.0,10.0

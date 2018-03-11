@@ -11,6 +11,7 @@ import seaborn as sns
 import numpy as np
 import pandas as pd
 import re
+from sklearn.model_selection import train_test_split
 
 """
 Extracts temperature, humidity, and wind speed from weather string
@@ -102,27 +103,40 @@ Parameters
 ----------
 df: DataFrame representing stats of home and away teams in a game
 team: Dictionary consisting of DataFrames of team stats by game
+trainPercentage: percentage data that will be training
 
 Returns
 ----------
-Dataframe consisting of games by team, game stats, stats of team in the last 4 games
-stats of opponents in the last 4 games. DataFrame only consists of games past week 4 of NFL season
+Dataframe consisting of games by team, game stats, stats of team in the last 4 games and
+stats of opponents in the last 4 games. DataFrame only consists of games past week 5 of NFL season
 """
-def getGameStats(df, team):
+def getGameStats(df, team, testPercent):
+    
     games = df[['date','week','home_team','away_team','roof','temp','humidity','wind']]
     games.rename(columns={'home_team':'team','away_team':'opp_team'}, inplace=True)
     
-    awaygames = games
-    awaygames['team'] = awaygames['opp_team']
-    awaygames['opp_team'] = games['team']
+    train, test = train_test_split(games, test_size=testPercent)
     
-    games = games.append(awaygames)
-    games = games[games['week'].apply(int)>5]
-    games.index=range(0,len(games.index))
+    awaytrain = train.copy()
+    awaytrain['team'] = awaytrain['opp_team']
+    awaytrain['opp_team'] = train['team']
+    
+    
+    
+    awaytest = test.copy()
+    awaytest['team'] = awaytest['opp_team']
+    awaytest['opp_team'] = test['team']
+    
+    train = train.append(awaytrain)
+    test = test.append(awaytest)
+    
+    train.index=range(0,len(train.index))
+    test.index=range(0,len(test.index))
     #Fill out the historical stats for games such as rolling 4 historical game averages
 #    games[['actual_score','score','TO','1stDowns','sacks','fumble','penalty','possession','rushYds','passYds','DownConversion','rushEff','passEff','oppScore','oppTO','opp1stDowns','oppSacks','oppFumble','oppPenalty','oppPossession','oppRushYds','oppPassYds','oppDownConversion','oppRushEff','oppPassEff']] = games[['date','week','team','opp_team']].apply(select,axis=1,args=(team,))
-    games = pd.concat([games,games[['date','week','team','opp_team']].apply(select,axis=1,args=(team,))],axis=1)
-    return games
+    train = pd.concat([train,train[['date','week','team','opp_team']].apply(select,axis=1,args=(team,))],axis=1)
+    test = pd.concat([test,test[['date','week','team','opp_team']].apply(select,axis=1,args=(team,))],axis=1)
+    return (train,test)
 
 """
 Returns average temperature and humidity in NFL game by month
@@ -153,7 +167,7 @@ fulldf: DataFrame containing NFL games
 ----------
 cleaned up data in DataFrame form
 """
-def clean(fulldf):
+def clean(fulldf, testPercent):
     fulldf = pd.DataFrame()
     for i in range(2002,2018):
         temp = pd.read_csv('GameData/NFLgames'+str(i)+'.csv')
@@ -185,28 +199,36 @@ def clean(fulldf):
     
     fulldf[['temp','humidity','wind']] = fulldf['weather'].apply(func=extractWeather)
     
-    finalData = getGameStats(fulldf,teams)
+    #Look only at games with at least 5 weeks of dat (4 weeks + bye)
+    fulldf = fulldf[fulldf['week'].apply(int)>5]
     
-    print (finalData.head(10))
-    print (finalData.info())
+    train, test = getGameStats(fulldf,teams,testPercent)
     
-    finalData['outdoors'] = finalData['roof'].apply(lambda x: 1 if (x=='outdoors' or x=='retractable roof (open)') else 0)
+    train['outdoors'] = train['roof'].apply(lambda x: 1 if (x=='outdoors' or x=='retractable roof (open)') else 0)
+    test['outdoors'] = test['roof'].apply(lambda x: 1 if (x=='outdoors' or x=='retractable roof (open)') else 0)
+    
     #fillna for wind with no wind and fill nan for temperature with average temperature (53)
-    print(finalData['wind'].fillna(0,inplace=True))
-    finalData['windy'] = finalData['wind'].apply(lambda x: 1 if x>9.5 else 0)
+
+    train['windy'] = train['wind'].apply(lambda x: 1 if x>9.5 else 0)
+    test['windy'] = test['wind'].apply(lambda x: 1 if x>9.5 else 0)
     
-    finalData['month'] = finalData['date'].dt.month
+    train['month'] = train['date'].dt.month
+    test['month'] = test['date'].dt.month
     
     #Fill out temperature and humidity using average per month
-    finalData[['temp','humidity']] = finalData[['month','temp','humidity']].apply(fillTempHumidity,axis=1,args=(finalData[['month','temp','humidity']],))
+    train[['temp','humidity']] = train[['month','temp','humidity']].apply(fillTempHumidity,axis=1,args=(train[['month','temp','humidity']],))
+    test[['temp','humidity']] = test[['month','temp','humidity']].apply(fillTempHumidity,axis=1,args=(test[['month','temp','humidity']],))
     
     #Clean up rest of the dataset
     
     #is game being played late in season when NFL playoffs are generally already decided?
-    finalData['lateinSeason'] = finalData['week'].apply(lambda x: 1 if x>14 else 0)
+    train['lateinSeason'] = train['week'].apply(lambda x: 1 if x>14 else 0)
+    test['lateinSeason'] = test['week'].apply(lambda x: 1 if x>14 else 0)
     
     #interaction effect between wind, outside, and pass yards
-    finalData['windxpassYds'] = finalData['windy']*finalData['passYds']*finalData['outdoors']
+    train['windxpassYds'] = train['windy']*train['passYds']*train['outdoors']
+    test['windxpassYds'] = test['windy']*test['passYds']*test['outdoors']
     
-    finalData.drop(columns = ['week','opp_team','roof','wind','month'],  inplace=True)
-    return (finalData)
+    train.drop(columns = ['week','opp_team','roof','wind','month'],  inplace=True)
+    test.drop(columns = ['week','opp_team','roof','wind','month'],  inplace=True)
+    return (train, test)
