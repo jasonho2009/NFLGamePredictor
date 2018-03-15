@@ -1,0 +1,867 @@
+,date,home_team,away_team,Over/Under,home_score,away_score,VegasLine,VegasHomeOrAway,Spread,pred_homeScore,pred_awayScore,pred_over/under,win,pred_spread
+75,2002-10-13,Minnesota Vikings,Detroit Lions,49,31,24,Minnesota Vikings -4.5,home,4.5,22.739696285860326,22.762581949262035,False,False,False
+80,2002-10-13,Houston Texans,Buffalo Bills,44,31,31,Buffalo Bills -7.0,away,7.0,18.6079946294375,27.582601273950264,True,False,False
+83,2002-10-13,Tennessee Titans,Jacksonville Jaguars,44,23,14,Jacksonville Jaguars -1.5,away,1.5,21.811971160216473,26.24978990272951,False,False,False
+86,2002-10-13,Denver Broncos,Miami Dolphins,41,24,24,Denver Broncos -3.5,home,3.5,25.32087531086613,24.21339311363394,True,True,True
+87,2002-10-14,Seattle Seahawks,San Francisco 49ers,43,28,28,San Francisco 49ers -3.0,away,3.0,23.38743440754113,25.49284644610227,True,False,True
+89,2002-10-20,New York Jets,Minnesota Vikings,49,20,7,New York Jets -3.0,home,3.0,22.18205214796309,23.598949856554412,True,False,False
+90,2002-10-20,Baltimore Ravens,Jacksonville Jaguars,38,17,10,Jacksonville Jaguars -1.5,away,1.5,21.048008504899645,26.170128541855732,False,False,False
+91,2002-10-20,St. Louis Rams,Seattle Seahawks,44,37,20,St. Louis Rams -6.5,home,6.5,25.073584838004646,25.620254944594407,True,False,False
+92,2002-10-20,Detroit Lions,Chicago Bears,44,23,20,Chicago Bears -3.0,away,3.0,23.22927888657123,24.42734636517084,False,False,True
+93,2002-10-20,New Orleans Saints,San Francisco 49ers,48,35,27,New Orleans Saints -1.5,home,1.5,23.97990951174016,26.856917846427855,True,False,False
+94,2002-10-20,Miami Dolphins,Buffalo Bills,45,23,23,Miami Dolphins -6.0,home,6.0,25.64024898241749,26.321681404656054,True,True,True
+104,2002-10-27,Baltimore Ravens,Pittsburgh Steelers,37,31,31,Pittsburgh Steelers -3.0,away,3.0,21.170434343910745,24.778688209294046,True,False,False
+108,2002-10-27,New York Jets,Cleveland Browns,44,24,24,New York Jets -3.0,home,3.0,24.67379889287205,23.621905153531202,True,True,True
+112,2002-10-27,Jacksonville Jaguars,Houston Texans,38,21,21,Jacksonville Jaguars -11.0,home,11.0,24.99050844898576,20.630352356488153,True,False,True
+113,2002-10-27,New England Patriots,Denver Broncos,46,24,24,New England Patriots -3.0,home,3.0,22.624395221793044,25.33859688475762,True,False,True
+117,2002-11-03,Houston Texans,Cincinnati Bengals,36,38,38,Houston Texans -2.5,home,2.5,24.00537666565078,22.039995171500713,True,False,True
+119,2002-11-03,Buffalo Bills,New England Patriots,47,38,38,Buffalo Bills -3.0,home,3.0,24.744914533323144,24.22742703660802,True,True,True
+120,2002-11-03,Cleveland Browns,Pittsburgh Steelers,44,23,23,Pittsburgh Steelers -3.5,away,3.5,23.6838055086051,26.12335100620551,True,False,True
+132,2002-11-10,Baltimore Ravens,Cincinnati Bengals,37,38,27,Baltimore Ravens -4.0,home,4.0,21.877166684570955,23.394288529148703,True,False,False
+134,2002-11-10,Carolina Panthers,New Orleans Saints,39,34,34,New Orleans Saints -4.0,away,4.0,21.537564815910127,23.81921955565975,True,False,True
+139,2002-11-10,Arizona Cardinals,Seattle Seahawks,37,27,27,Arizona Cardinals -3.0,home,3.0,23.752944819646046,25.182507337073353,True,True,True
+141,2002-11-10,Chicago Bears,New England Patriots,39,33,33,New England Patriots -5.0,away,5.0,20.31564635704187,23.339300012094764,True,False,True
+144,2002-11-17,Minnesota Vikings,Green Bay Packers,50,31,21,Green Bay Packers -6.5,away,6.5,24.762464565606447,25.491363834444314,True,False,True
+145,2002-11-17,Kansas City Chiefs,Buffalo Bills,52,17,16,Kansas City Chiefs -3.5,home,3.5,24.328776027873317,24.249573859820117,True,True,True
+152,2002-11-17,Atlanta Falcons,New Orleans Saints,51,24,17,Atlanta Falcons -1.5,home,1.5,26.72296705139547,27.033349433383545,False,False,False
+157,2002-11-17,Detroit Lions,New York Jets,43,31,31,New York Jets -3.0,away,3.0,22.64431297167394,25.77551944503197,True,False,False
+164,2002-11-24,New York Jets,Buffalo Bills,45,31,13,New York Jets -3.0,home,3.0,23.993258909848784,23.123722937887695,False,True,False
+175,2002-11-25,San Francisco 49ers,Philadelphia Eagles,37,38,38,San Francisco 49ers -7.0,home,7.0,27.215622664204133,24.94926448652633,True,False,True
+180,2002-12-01,Cincinnati Bengals,Baltimore Ravens,37,27,27,Baltimore Ravens -2.5,away,2.5,25.044232638229353,20.423210409343223,True,False,True
+187,2002-12-01,San Diego Chargers,Denver Broncos,40,30,27,Denver Broncos -3.0,away,3.0,20.97916413548757,27.21517430296202,True,False,False
+188,2002-12-01,Philadelphia Eagles,St. Louis Rams,38,10,3,St. Louis Rams -2.0,away,2.0,23.773383228160924,25.862103338598985,False,False,False
+190,2002-12-01,New Orleans Saints,Tampa Bay Buccaneers,40,23,20,Tampa Bay Buccaneers -1.5,away,1.5,23.98085228025894,25.60921127848848,True,False,False
+193,2002-12-08,Pittsburgh Steelers,Houston Texans,37,24,24,Pittsburgh Steelers -14.0,home,14.0,25.262136306737546,18.6567714225496,True,False,True
+195,2002-12-08,Carolina Panthers,Cincinnati Bengals,37,52,31,Carolina Panthers -3.0,home,3.0,19.574934920101565,24.99984716170983,True,False,False
+196,2002-12-08,New England Patriots,Buffalo Bills,45,27,17,New England Patriots -3.5,home,3.5,24.460472004859298,25.141724420732473,False,False,False
+205,2002-12-08,New York Jets,Denver Broncos,43,19,13,Denver Broncos -1.5,away,1.5,23.698085101431804,23.01567872245242,False,True,True
+206,2002-12-08,Green Bay Packers,Minnesota Vikings,43,26,22,Green Bay Packers -9.5,home,9.5,24.184941200765557,21.63949766517255,True,True,True
+207,2002-12-09,Miami Dolphins,Chicago Bears,37,27,9,Miami Dolphins -10.5,home,10.5,22.840859828665437,20.751230593785223,False,True,False
+208,2002-12-15,Pittsburgh Steelers,Carolina Panthers,39,30,14,Pittsburgh Steelers -9.0,home,9.0,22.93968547145332,18.442617327964854,True,True,False
+209,2002-12-15,Miami Dolphins,Oakland Raiders,43,23,17,Miami Dolphins -1.5,home,1.5,22.803487969974743,26.932664695215312,False,False,False
+212,2002-12-15,Philadelphia Eagles,Washington Redskins,38,34,21,Philadelphia Eagles -7.5,home,7.5,22.94483456459362,22.026081732154484,True,True,False
+213,2002-12-15,Cleveland Browns,Indianapolis Colts,41,28,28,Indianapolis Colts -2.0,away,2.0,22.720741529737786,23.30104391453672,True,True,True
+215,2002-12-15,Atlanta Falcons,Seattle Seahawks,46,30,30,Atlanta Falcons -9.5,home,9.5,25.35934839199045,28.188417701024928,True,False,True
+218,2002-12-15,Chicago Bears,New York Jets,38,20,13,New York Jets -6.5,away,6.5,20.553717717934404,26.545556168459875,False,False,True
+223,2002-12-16,Tennessee Titans,New England Patriots,43,24,7,Tennessee Titans -2.5,home,2.5,26.848823243999547,24.09856718658387,False,True,True
+224,2002-12-21,Minnesota Vikings,Miami Dolphins,45,20,17,Miami Dolphins -3.0,away,3.0,23.970561388311282,24.427839520934832,False,False,True
+225,2002-12-21,Arizona Cardinals,San Francisco 49ers,41,17,17,San Francisco 49ers -3.5,away,3.5,21.12317804250918,25.87843421118528,False,False,False
+231,2002-12-22,Cincinnati Bengals,New Orleans Saints,49,20,13,New Orleans Saints -7.0,away,7.0,25.52119172813699,23.772704751149234,False,True,True
+234,2002-12-22,Jacksonville Jaguars,Tennessee Titans,41,28,28,Tennessee Titans -3.0,away,3.0,21.827110435102497,26.12767150853319,True,False,False
+239,2002-12-23,Tampa Bay Buccaneers,Pittsburgh Steelers,38,17,17,Tampa Bay Buccaneers -4.5,home,4.5,22.77387380215881,22.582073616675807,False,True,True
+243,2002-12-29,Cleveland Browns,Atlanta Falcons,41,24,16,Atlanta Falcons -2.5,away,2.5,25.08237951964468,23.13276475661523,False,True,True
+244,2002-12-29,New Orleans Saints,Carolina Panthers,43,10,10,New Orleans Saints -6.0,home,6.0,22.71390338526664,22.482629563820172,False,True,True
+249,2002-12-29,Houston Texans,Tennessee Titans,35,13,13,Tennessee Titans -9.5,away,9.5,16.83642530815738,25.497819486916747,False,False,True
+253,2002-12-29,Denver Broncos,Arizona Cardinals,42,37,7,Denver Broncos -13.5,home,13.5,25.314930167985924,22.101967929468543,True,True,False
+78,2003-10-12,Tennessee Titans,Houston Texans,39,38,17,Tennessee Titans -8.5,home,8.5,25.851338485200955,22.53453512360364,True,True,False
+80,2003-10-12,Dallas Cowboys,Philadelphia Eagles,37,23,21,Dallas Cowboys -1.0,home,1.0,23.491199205929732,19.546704172109926,True,True,True
+85,2003-10-12,Arizona Cardinals,Baltimore Ravens,37,26,26,Baltimore Ravens -6.5,away,6.5,20.895200277007852,20.742184286939075,True,True,True
+91,2003-10-19,St. Louis Rams,Green Bay Packers,48,34,24,St. Louis Rams -4.0,home,4.0,25.814575324532264,26.438760844993404,True,False,False
+96,2003-10-19,Atlanta Falcons,New Orleans Saints,42,45,45,New Orleans Saints -3.0,away,3.0,21.479080030444983,26.1214672622201,True,False,False
+105,2003-10-26,Pittsburgh Steelers,St. Louis Rams,45,33,33,Pittsburgh Steelers -1.0,home,1.0,21.588263515825737,24.79169972580447,True,False,True
+107,2003-10-26,Baltimore Ravens,Denver Broncos,36,26,6,Baltimore Ravens -2.5,home,2.5,21.99408685450191,23.2563097862178,False,False,False
+112,2003-10-26,Philadelphia Eagles,New York Jets,36,24,17,Philadelphia Eagles -3.0,home,3.0,20.71687939432007,22.58175234933318,True,False,False
+113,2003-10-26,Indianapolis Colts,Houston Texans,44,30,21,Indianapolis Colts -13.0,home,13.0,28.76810157838215,25.55419696500484,True,True,True
+114,2003-10-26,Kansas City Chiefs,Buffalo Bills,43,38,5,Kansas City Chiefs -5.5,home,5.5,23.501955289530006,23.043830883281966,True,True,False
+118,2003-11-02,New York Jets,New York Giants,40,31,31,New York Giants -3.5,away,3.5,24.446628403481185,24.607001179145506,True,True,True
+121,2003-11-02,Chicago Bears,San Diego Chargers,39,20,7,Chicago Bears -1.0,home,1.0,22.6565095030499,20.880453494940888,False,True,True
+123,2003-11-02,Arizona Cardinals,Cincinnati Bengals,39,17,14,Cincinnati Bengals -3.0,away,3.0,22.078202598053103,24.726126408466435,False,False,True
+138,2003-11-09,New York Giants,Atlanta Falcons,41,27,27,New York Giants -11.5,home,11.5,28.60422753897513,21.26200465880603,True,False,True
+139,2003-11-09,San Diego Chargers,Minnesota Vikings,45,42,28,Minnesota Vikings -5.5,away,5.5,22.823851397257613,24.749875986801094,True,False,True
+140,2003-11-09,Oakland Raiders,New York Jets,38,27,27,New York Jets -3.0,away,3.0,21.45542064188217,23.654999031749675,True,False,True
+142,2003-11-09,St. Louis Rams,Baltimore Ravens,43,33,22,St. Louis Rams -6.5,home,6.5,26.52042189276724,23.549783095498725,True,True,False
+144,2003-11-16,Buffalo Bills,Houston Texans,37,12,12,Buffalo Bills -7.0,home,7.0,20.03717736862011,22.09030334383533,False,False,True
+150,2003-11-16,Miami Dolphins,Baltimore Ravens,33,9,6,Miami Dolphins -5.0,home,5.0,19.754076675256943,19.11073903988183,False,True,True
+154,2003-11-16,Denver Broncos,San Diego Chargers,44,37,8,Denver Broncos -8.5,home,8.5,21.635116893657152,23.758536539934788,True,False,False
+156,2003-11-16,Oakland Raiders,Minnesota Vikings,46,28,18,Minnesota Vikings -4.5,away,4.5,24.581488689837094,26.002373980414703,True,False,True
+167,2003-11-23,Baltimore Ravens,Seattle Seahawks,36,44,41,Baltimore Ravens -3.0,home,3.0,19.228385229727998,23.277730020614435,True,False,False
+172,2003-11-23,Atlanta Falcons,Tennessee Titans,44,38,38,Tennessee Titans -6.5,away,6.5,20.346024573548036,26.09546145100144,True,False,True
+174,2003-11-23,Miami Dolphins,Washington Redskins,35,24,23,Miami Dolphins -7.0,home,7.0,21.919591577360926,20.549873098107874,True,True,True
+176,2003-11-27,Detroit Lions,Green Bay Packers,44,22,14,Green Bay Packers -6.5,away,6.5,22.27188723217879,22.511416719297245,False,False,True
+177,2003-11-27,Dallas Cowboys,Miami Dolphins,34,40,40,Dallas Cowboys -3.0,home,3.0,21.525514467396825,18.322848785314847,True,False,False
+184,2003-11-30,Houston Texans,Atlanta Falcons,42,17,13,Houston Texans -3.0,home,3.0,23.956957890692102,22.781322993962,False,True,False
+186,2003-11-30,Washington Redskins,New Orleans Saints,42,24,24,New Orleans Saints -1.0,away,1.0,23.18146735074864,23.561593036116452,True,True,True
+187,2003-11-30,Seattle Seahawks,Cleveland Browns,42,34,7,Seattle Seahawks -6.5,home,6.5,23.289751384530316,24.11955668271476,False,False,False
+196,2003-12-07,Baltimore Ravens,Cincinnati Bengals,38,31,13,Baltimore Ravens -5.0,home,5.0,18.309162036594174,25.38299896828346,True,False,False
+202,2003-12-07,Detroit Lions,San Diego Chargers,43,14,14,Detroit Lions -3.0,home,3.0,24.72526674847134,24.012939822914056,False,True,True
+203,2003-12-07,San Francisco 49ers,Arizona Cardinals,40,50,14,San Francisco 49ers -10.5,home,10.5,23.66308622229961,21.805234325911282,True,True,False
+205,2003-12-07,New England Patriots,Miami Dolphins,33,12,0,New England Patriots -3.0,home,3.0,22.126705945826806,19.61496119321378,False,True,False
+206,2003-12-07,Buffalo Bills,New York Jets,37,17,6,Buffalo Bills -3.0,home,3.0,22.033780377609155,23.962026698874254,False,False,False
+208,2003-12-14,Kansas City Chiefs,Detroit Lions,45,45,17,Kansas City Chiefs -14.5,home,14.5,27.15142462285123,24.078364414579063,True,True,False
+211,2003-12-14,St. Louis Rams,Seattle Seahawks,52,27,22,St. Louis Rams -7.0,home,7.0,26.159376933953347,27.219480697925544,False,False,True
+222,2003-12-14,New Orleans Saints,New York Giants,40,45,7,New Orleans Saints -7.5,home,7.5,24.187582258869696,22.988493611523076,True,True,False
+232,2003-12-21,Cleveland Browns,Baltimore Ravens,35,35,35,Baltimore Ravens -3.0,away,3.0,20.874022102177083,21.120403766071533,True,True,True
+241,2003-12-27,San Francisco 49ers,Seattle Seahawks,46,24,24,San Francisco 49ers -2.5,home,2.5,25.75527047810563,25.39047733770198,True,True,True
+242,2003-12-27,Washington Redskins,Philadelphia Eagles,42,31,31,Philadelphia Eagles -9.0,away,9.0,22.38692712850854,24.23158152291895,True,False,True
+244,2003-12-28,Cincinnati Bengals,Cleveland Browns,42,22,22,Cincinnati Bengals -8.5,home,8.5,25.06587706872784,21.591609897264988,True,False,True
+245,2003-12-28,New Orleans Saints,Dallas Cowboys,38,13,7,Dallas Cowboys -1.0,away,1.0,25.923357360697437,21.922012651697578,False,True,True
+247,2003-12-28,Houston Texans,Indianapolis Colts,46,20,20,Indianapolis Colts -9.0,away,9.0,21.1537201655784,25.111144250463163,False,False,True
+249,2003-12-28,Miami Dolphins,New York Jets,37,23,21,Miami Dolphins -3.5,home,3.5,18.614939520895355,22.778077041150862,True,False,True
+75,2004-10-17,New England Patriots,Seattle Seahawks,42,30,20,New England Patriots -3.5,home,3.5,23.678782192846555,23.69024237740516,True,False,False
+76,2004-10-17,Atlanta Falcons,San Diego Chargers,43,21,20,Atlanta Falcons -5.5,home,5.5,22.08239513824612,26.06821982419048,False,False,True
+79,2004-10-17,New York Jets,San Francisco 49ers,43,22,14,New York Jets -9.5,home,9.5,25.367723408020566,23.671440310670533,False,True,True
+83,2004-10-17,Philadelphia Eagles,Carolina Panthers,42,30,8,Philadelphia Eagles -10.0,home,10.0,26.176565786039887,22.816596092166172,False,True,False
+87,2004-10-18,St. Louis Rams,Tampa Bay Buccaneers,42,28,21,St. Louis Rams -6.5,home,6.5,25.79856994161289,24.67314116058814,True,True,False
+89,2004-10-24,Minnesota Vikings,Tennessee Titans,53,20,3,Minnesota Vikings -6.0,home,6.0,29.99066396688115,25.035512373969745,False,True,False
+92,2004-10-24,Carolina Panthers,San Diego Chargers,42,17,17,Carolina Panthers -3.0,home,3.0,22.19035356722791,25.300919274229962,False,False,True
+93,2004-10-24,Tampa Bay Buccaneers,Chicago Bears,32,19,7,Tampa Bay Buccaneers -7.0,home,7.0,25.306482251781883,22.72996971995787,False,True,False
+95,2004-10-24,New York Giants,Detroit Lions,40,28,28,New York Giants -7.0,home,7.0,25.400099055610276,21.007009331741095,True,False,True
+97,2004-10-24,New England Patriots,New York Jets,43,13,7,New England Patriots -6.0,home,6.0,23.759090821264927,24.50750601960508,False,False,False
+98,2004-10-24,Green Bay Packers,Dallas Cowboys,44,41,20,Green Bay Packers -4.0,home,4.0,25.357182874591132,25.34423763901394,True,True,False
+99,2004-10-24,Oakland Raiders,New Orleans Saints,45,31,31,Oakland Raiders -3.0,home,3.0,23.845823550218313,25.124515610071875,True,True,True
+105,2004-10-31,Buffalo Bills,Arizona Cardinals,33,38,14,Buffalo Bills -4.5,home,4.5,21.401925993323665,20.539610640188982,True,True,False
+107,2004-10-31,Dallas Cowboys,Detroit Lions,40,31,21,Dallas Cowboys -3.0,home,3.0,25.37367711348449,22.90080662545547,True,True,False
+108,2004-10-31,Philadelphia Eagles,Baltimore Ravens,37,15,10,Philadelphia Eagles -7.5,home,7.5,23.406820945058314,19.698075170884124,False,True,True
+110,2004-10-31,Denver Broncos,Atlanta Falcons,39,41,41,Denver Broncos -7.0,home,7.0,25.123195000637907,21.619296719475113,True,False,True
+113,2004-10-31,San Diego Chargers,Oakland Raiders,46,42,14,San Diego Chargers -6.0,home,6.0,26.497655725843202,20.82980961366071,True,True,False
+118,2004-11-07,Cincinnati Bengals,Dallas Cowboys,44,26,3,Pick,home,0.0,23.33643271244062,25.594219094832432,False,False,False
+125,2004-11-07,New York Giants,Chicago Bears,34,28,28,New York Giants -9.0,home,9.0,21.225566307803614,19.229867150565372,True,False,True
+126,2004-11-07,St. Louis Rams,New England Patriots,49,40,40,St. Louis Rams -2.5,home,2.5,26.571142454410197,24.73348814004691,True,False,True
+129,2004-11-08,Indianapolis Colts,Minnesota Vikings,58,31,28,Indianapolis Colts -7.0,home,7.0,29.83888163803656,28.604424907003057,True,True,True
+133,2004-11-14,New Orleans Saints,Kansas City Chiefs,56,27,20,Kansas City Chiefs -3.5,away,3.5,26.37391651676974,30.94209893059019,False,False,False
+134,2004-11-14,Tennessee Titans,Chicago Bears,34,19,19,Tennessee Titans -5.5,home,5.5,22.029513985710583,18.423293960901532,True,False,True
+138,2004-11-14,Washington Redskins,Cincinnati Bengals,36,17,17,Washington Redskins -4.0,home,4.0,21.36863636867823,22.282439197303866,False,True,True
+139,2004-11-14,Arizona Cardinals,New York Giants,39,17,14,Arizona Cardinals -1.0,home,1.0,22.11427928616344,20.311583524529553,False,True,True
+140,2004-11-14,San Francisco 49ers,Carolina Panthers,41,37,37,San Francisco 49ers -1.5,home,1.5,23.526240565553998,25.95317020393619,True,False,True
+142,2004-11-14,New England Patriots,Buffalo Bills,38,29,6,New England Patriots -7.0,home,7.0,23.987891291496275,23.184547545048616,False,True,False
+144,2004-11-21,Minnesota Vikings,Detroit Lions,48,22,19,Minnesota Vikings -8.0,home,8.0,25.96617695781633,25.529930005006847,False,True,True
+145,2004-11-21,Tampa Bay Buccaneers,San Francisco 49ers,42,35,3,Tampa Bay Buccaneers -8.0,home,8.0,25.26016121184666,23.83967514448538,False,True,False
+148,2004-11-21,Cleveland Browns,New York Jets,38,10,10,New York Jets -1.5,away,1.5,21.42215359778952,24.5583020612636,False,False,False
+149,2004-11-21,Buffalo Bills,St. Louis Rams,40,37,17,Buffalo Bills -2.0,home,2.0,20.195224362947137,23.20289251903462,True,False,False
+155,2004-11-21,Seattle Seahawks,Miami Dolphins,37,24,17,Seattle Seahawks -9.5,home,9.5,25.87124167064374,23.720628660924515,True,True,True
+159,2004-11-22,Kansas City Chiefs,New England Patriots,52,27,27,New England Patriots -3.0,away,3.0,27.42786923787439,26.106783780324623,True,True,True
+163,2004-11-28,Minnesota Vikings,Jacksonville Jaguars,45,27,16,Minnesota Vikings -6.0,home,6.0,26.2675759163912,25.307240215373724,False,True,False
+165,2004-11-28,Cincinnati Bengals,Cleveland Browns,37,58,48,Cincinnati Bengals -6.0,home,6.0,22.493408041395128,19.82176970702716,True,True,False
+167,2004-11-28,Carolina Panthers,Tampa Bay Buccaneers,39,21,14,Tampa Bay Buccaneers -3.0,away,3.0,25.61852123318762,25.010900585493722,False,True,True
+169,2004-11-28,Atlanta Falcons,New Orleans Saints,47,24,21,Atlanta Falcons -9.0,home,9.0,25.637886252721664,26.51848459247956,False,False,True
+170,2004-11-28,San Francisco 49ers,Miami Dolphins,37,24,24,Pick,home,0.0,20.945630946475177,24.188466931040615,True,False,False
+171,2004-11-28,Arizona Cardinals,New York Jets,36,13,13,New York Jets -3.0,away,3.0,19.881431151403117,23.95429520938471,False,False,False
+173,2004-11-28,Seattle Seahawks,Buffalo Bills,38,38,38,Seattle Seahawks -4.0,home,4.0,24.811124976540825,20.961586118258353,True,False,True
+182,2004-12-05,Chicago Bears,Minnesota Vikings,40,24,14,Minnesota Vikings -7.0,away,7.0,16.573458830336634,25.704771328005855,False,False,False
+183,2004-12-05,Detroit Lions,Arizona Cardinals,37,26,12,Detroit Lions -6.0,home,6.0,23.139729239542056,22.958217410015365,True,True,False
+190,2004-12-05,Jacksonville Jaguars,Pittsburgh Steelers,35,17,17,Pittsburgh Steelers -3.0,away,3.0,21.502195566326805,22.11349275057596,False,True,True
+196,2004-12-12,Houston Texans,Indianapolis Colts,57,23,23,Indianapolis Colts -10.0,away,10.0,24.105276457378114,29.336700336922686,True,False,True
+199,2004-12-12,Dallas Cowboys,New Orleans Saints,49,27,27,Dallas Cowboys -7.0,home,7.0,23.429253561149714,25.26227853074348,False,False,True
+202,2004-12-12,Green Bay Packers,Detroit Lions,41,16,13,Green Bay Packers -9.0,home,9.0,25.428960939068368,21.409629836497672,False,True,True
+212,2004-12-19,New York Jets,Seattle Seahawks,41,37,14,New York Jets -6.5,home,6.5,24.37123144638627,22.93525801489217,True,True,False
+214,2004-12-19,Chicago Bears,Houston Texans,34,24,24,Chicago Bears -1.0,home,1.0,19.003793252887515,23.14892706128328,True,False,True
+217,2004-12-19,Cleveland Browns,San Diego Chargers,35,21,21,San Diego Chargers -8.0,away,8.0,20.05828201922001,25.54856064599562,True,False,True
+222,2004-12-19,Indianapolis Colts,Baltimore Ravens,48,20,10,Indianapolis Colts -7.5,home,7.5,28.560308258949913,23.89291016308123,False,True,False
+230,2004-12-26,Cincinnati Bengals,New York Giants,46,23,22,Cincinnati Bengals -6.5,home,6.5,27.11991749899423,21.15244754254079,False,True,True
+231,2004-12-26,New Orleans Saints,Atlanta Falcons,44,26,13,New Orleans Saints -6.5,home,6.5,23.350676524651814,23.385753947053935,False,False,False
+232,2004-12-26,Jacksonville Jaguars,Houston Texans,36,21,21,Jacksonville Jaguars -6.5,home,6.5,23.324101592008013,25.120264541134972,True,False,True
+233,2004-12-26,New York Jets,New England Patriots,41,23,23,Pick,home,0.0,25.624166740589324,22.188455283401648,True,False,False
+239,2004-12-27,St. Louis Rams,Philadelphia Eagles,42,20,7,St. Louis Rams -4.0,home,4.0,23.66228321537242,27.059645014625875,False,False,False
+246,2005-01-02,Chicago Bears,Green Bay Packers,34,31,31,Chicago Bears -3.0,home,3.0,21.66489530116789,24.623641576328296,True,False,True
+248,2005-01-02,Washington Redskins,Minnesota Vikings,41,21,18,Minnesota Vikings -4.0,away,4.0,25.270090393814584,26.380524261298003,False,False,True
+251,2005-01-02,Seattle Seahawks,Atlanta Falcons,41,28,26,Seattle Seahawks -5.5,home,5.5,26.766308628327266,22.33176189353327,True,True,True
+252,2005-01-02,San Diego Chargers,Kansas City Chiefs,51,24,17,Kansas City Chiefs -6.5,away,6.5,25.934461884211338,28.85925768354638,False,False,True
+253,2005-01-02,Denver Broncos,Indianapolis Colts,44,33,14,Denver Broncos -10.0,home,10.0,26.49718980396977,27.60256894387131,True,False,False
+254,2005-01-02,Oakland Raiders,Jacksonville Jaguars,43,13,13,Jacksonville Jaguars -2.5,away,2.5,27.4656551384831,23.757941017935515,False,False,True
+76,2005-10-16,Baltimore Ravens,Cleveland Browns,33,16,3,Baltimore Ravens -4.0,home,4.0,21.82393900870804,22.829617769168017,False,False,False
+77,2005-10-16,Pittsburgh Steelers,Jacksonville Jaguars,36,23,23,Pittsburgh Steelers -5.0,home,5.0,24.97653693622412,21.446607205467565,True,False,True
+79,2005-10-16,Detroit Lions,Carolina Panthers,42,21,21,Pick,home,0.0,23.180704540668142,25.336601189603364,True,False,False
+80,2005-10-16,Chicago Bears,Minnesota Vikings,37,28,3,Chicago Bears -2.0,home,2.0,22.859432896635628,21.09853602801921,False,True,False
+81,2005-10-16,Tennessee Titans,Cincinnati Bengals,44,31,31,Cincinnati Bengals -3.0,away,3.0,23.267643896377322,25.379434210383828,True,False,True
+86,2005-10-16,Seattle Seahawks,Houston Texans,45,42,10,Seattle Seahawks -8.5,home,8.5,26.85027293837848,18.473259098007386,True,True,False
+90,2005-10-23,Philadelphia Eagles,San Diego Chargers,47,20,17,Philadelphia Eagles -4.0,home,4.0,25.89519684732883,25.70368275190689,False,True,True
+91,2005-10-23,Cincinnati Bengals,Pittsburgh Steelers,43,27,27,Cincinnati Bengals -3.0,home,3.0,24.929652709449222,23.310146047383178,True,False,True
+92,2005-10-23,St. Louis Rams,New Orleans Saints,50,28,17,St. Louis Rams -5.0,home,5.0,26.060366024921436,24.795312191364005,False,True,False
+93,2005-10-23,Washington Redskins,San Francisco 49ers,38,52,17,Washington Redskins -11.5,home,11.5,28.62199277809799,18.065951031640196,True,True,False
+95,2005-10-23,Cleveland Browns,Detroit Lions,36,13,13,Cleveland Browns -3.0,home,3.0,25.787206039725675,20.07921672673772,False,False,False
+98,2005-10-23,Chicago Bears,Baltimore Ravens,32,10,6,Chicago Bears -1.0,home,1.0,17.914914072964386,21.08773134617483,False,False,False
+109,2005-10-30,New York Giants,Washington Redskins,41,36,0,New York Giants -3.0,home,3.0,23.966955357465906,27.655595428736255,False,False,False
+112,2005-10-30,San Francisco 49ers,Tampa Bay Buccaneers,37,15,10,Tampa Bay Buccaneers -11.5,away,11.5,17.974235882439977,25.246505018039464,False,False,True
+116,2005-11-06,Kansas City Chiefs,Oakland Raiders,51,27,23,Kansas City Chiefs -4.5,home,4.5,24.847785496724768,24.994215521332016,True,False,True
+119,2005-11-06,New York Jets,San Diego Chargers,41,31,31,San Diego Chargers -5.5,away,5.5,20.15742710213829,22.645213829888796,True,False,True
+121,2005-11-06,Cleveland Browns,Tennessee Titans,39,20,14,Cleveland Browns -3.0,home,3.0,19.923351714384648,21.794794803854685,False,False,False
+128,2005-11-06,Washington Redskins,Philadelphia Eagles,41,17,10,Pick,home,0.0,25.053911077926237,21.93564045898612,False,True,False
+129,2005-11-07,New England Patriots,Indianapolis Colts,46,40,40,Indianapolis Colts -3.0,away,3.0,26.327005708571114,30.299364420913335,True,False,False
+130,2005-11-13,Jacksonville Jaguars,Baltimore Ravens,34,30,3,Jacksonville Jaguars -8.0,home,8.0,22.55929301311341,23.425807408829115,False,False,False
+135,2005-11-13,Miami Dolphins,New England Patriots,40,23,23,New England Patriots -2.5,away,2.5,23.538108125299537,26.08900056596276,True,False,False
+142,2005-11-13,Pittsburgh Steelers,Cleveland Browns,34,34,21,Pittsburgh Steelers -7.5,home,7.5,19.089353518325673,19.620581020611034,True,False,False
+154,2005-11-20,San Francisco 49ers,Seattle Seahawks,42,27,27,Seattle Seahawks -12.0,away,12.0,18.035356066152126,27.381453211541576,True,False,True
+156,2005-11-20,Denver Broncos,New York Jets,41,27,0,Denver Broncos -13.0,home,13.0,27.193488364174062,21.73912525784434,False,True,False
+158,2005-11-20,Houston Texans,Kansas City Chiefs,44,45,45,Kansas City Chiefs -6.5,away,6.5,20.21689010436521,25.16114747797379,True,False,True
+159,2005-11-21,Green Bay Packers,Minnesota Vikings,45,20,20,Green Bay Packers -3.5,home,3.5,25.102305340805145,22.20041554284048,False,False,True
+161,2005-11-24,Dallas Cowboys,Denver Broncos,41,24,24,Dallas Cowboys -1.5,home,1.5,22.98438099392133,25.826449339196504,True,False,True
+163,2005-11-27,Washington Redskins,San Diego Chargers,44,23,23,San Diego Chargers -3.0,away,3.0,20.10172516397423,26.87161231309591,True,False,False
+166,2005-11-27,Buffalo Bills,Carolina Panthers,36,13,13,Carolina Panthers -4.0,away,4.0,21.056910680917483,25.43356437250488,False,False,False
+168,2005-11-27,Tennessee Titans,San Francisco 49ers,42,33,22,Tennessee Titans -7.0,home,7.0,21.505512131067427,19.15900768134624,False,True,False
+169,2005-11-27,Cincinnati Bengals,Baltimore Ravens,36,42,29,Cincinnati Bengals -9.0,home,9.0,25.825041329818898,21.163624961320913,True,True,False
+170,2005-11-27,Oakland Raiders,Miami Dolphins,42,33,33,Oakland Raiders -7.0,home,7.0,24.108481996398748,22.974292081873273,True,True,True
+171,2005-11-27,Arizona Cardinals,Jacksonville Jaguars,41,24,24,Jacksonville Jaguars -3.5,away,3.5,24.421691775594173,25.570417382735343,True,True,True
+177,2005-12-04,Detroit Lions,Minnesota Vikings,38,21,21,Minnesota Vikings -3.0,away,3.0,23.11346788004453,21.92202584565482,True,True,True
+178,2005-12-04,Baltimore Ravens,Houston Texans,37,16,15,Baltimore Ravens -7.0,home,7.0,21.800729104952346,21.788436211089774,False,True,True
+182,2005-12-04,New York Giants,Dallas Cowboys,41,17,10,New York Giants -3.0,home,3.0,24.2907531921584,22.805820355375012,False,True,False
+184,2005-12-04,New Orleans Saints,Tampa Bay Buccaneers,39,10,10,Tampa Bay Buccaneers -3.5,away,3.5,23.797693822675118,23.737211058192326,False,True,True
+185,2005-12-04,Chicago Bears,Green Bay Packers,32,19,7,Chicago Bears -7.0,home,7.0,18.792428950387876,20.418790490824843,False,False,False
+187,2005-12-04,San Francisco 49ers,Arizona Cardinals,43,17,17,Arizona Cardinals -3.0,away,3.0,20.33870375099842,26.650485031782043,False,False,False
+188,2005-12-04,Kansas City Chiefs,Denver Broncos,47,31,27,Pick,home,0.0,24.696647690458477,23.949536868172714,True,True,True
+193,2005-12-11,New York Jets,Oakland Raiders,37,26,10,Oakland Raiders -3.0,away,3.0,21.200270364766524,22.09142241430186,False,False,True
+195,2005-12-11,Buffalo Bills,New England Patriots,38,35,35,New England Patriots -3.5,away,3.5,20.11269464395432,24.58108065588175,True,False,False
+196,2005-12-11,Cincinnati Bengals,Cleveland Browns,41,23,20,Cincinnati Bengals -12.5,home,12.5,24.635118167569246,23.401558508676573,True,True,True
+204,2005-12-11,San Diego Chargers,Miami Dolphins,45,23,23,San Diego Chargers -13.5,home,13.5,27.232086755357187,23.836481878329636,True,False,True
+210,2005-12-17,Buffalo Bills,Denver Broncos,35,28,28,Denver Broncos -8.0,away,8.0,20.757377871260733,25.80607223033543,True,False,True
+213,2005-12-18,Houston Texans,Arizona Cardinals,43,30,19,Arizona Cardinals -1.0,away,1.0,21.587540527029287,26.145086584737143,True,False,False
+217,2005-12-18,Miami Dolphins,New York Jets,35,24,20,Miami Dolphins -7.5,home,7.5,24.40933307890726,23.834451190137734,True,True,True
+219,2005-12-18,Detroit Lions,Cincinnati Bengals,44,41,41,Cincinnati Bengals -7.5,away,7.5,23.789471440292928,27.291905591976246,True,False,True
+220,2005-12-18,Oakland Raiders,Cleveland Browns,40,9,9,Oakland Raiders -3.0,home,3.0,20.37954710503412,22.018475557743912,False,False,True
+236,2005-12-24,Seattle Seahawks,Indianapolis Colts,47,28,13,Seattle Seahawks -7.0,home,7.0,25.129992725133246,25.247163147669987,False,False,False
+238,2005-12-25,Baltimore Ravens,Minnesota Vikings,34,30,23,Baltimore Ravens -2.5,home,2.5,23.5600745390641,23.437103380143284,True,True,False
+239,2005-12-26,New York Jets,New England Patriots,37,31,31,New England Patriots -4.0,away,4.0,22.16832464197268,25.896662662938816,True,False,True
+240,2005-12-31,San Diego Chargers,Denver Broncos,44,23,23,San Diego Chargers -7.0,home,7.0,23.147350389536285,26.455560873171436,True,False,True
+244,2006-01-01,New England Patriots,Miami Dolphins,37,28,28,New England Patriots -3.0,home,3.0,26.05485540054665,22.736871079235726,True,False,False
+249,2006-01-01,Tampa Bay Buccaneers,New Orleans Saints,37,27,13,Tampa Bay Buccaneers -13.0,home,13.0,24.154295084868927,22.290269597466015,True,True,False
+74,2006-10-15,Tampa Bay Buccaneers,Cincinnati Bengals,44,14,13,Cincinnati Bengals -5.0,away,5.0,23.05235070391315,22.684561693979845,False,True,True
+83,2006-10-15,Pittsburgh Steelers,Kansas City Chiefs,36,45,7,Pittsburgh Steelers -6.5,home,6.5,21.00691999741041,23.237682243473486,True,False,False
+84,2006-10-15,New York Jets,Miami Dolphins,36,20,17,New York Jets -2.5,home,2.5,20.56127977792514,23.685049040321797,True,False,False
+86,2006-10-16,Arizona Cardinals,Chicago Bears,40,24,24,Chicago Bears -13.0,away,13.0,21.807099206806285,26.352239971639186,True,False,True
+90,2006-10-22,Tampa Bay Buccaneers,Philadelphia Eagles,43,23,21,Philadelphia Eagles -6.0,away,6.0,24.139379576681005,25.71336994828674,True,False,True
+93,2006-10-22,New York Jets,Detroit Lions,43,31,24,New York Jets -3.5,home,3.5,21.72759602204161,24.99167782930767,True,False,False
+95,2006-10-22,Cleveland Browns,Denver Broncos,31,17,17,Denver Broncos -4.5,away,4.5,19.925349486511767,23.542474292263925,True,False,True
+98,2006-10-22,Seattle Seahawks,Minnesota Vikings,40,31,31,Seattle Seahawks -7.0,home,7.0,23.530053728458626,23.112680995919085,True,True,True
+99,2006-10-23,Dallas Cowboys,New York Giants,43,36,36,Dallas Cowboys -3.0,home,3.0,24.02298497367154,24.88568533862226,True,True,True
+102,2006-10-29,Tennessee Titans,Houston Texans,42,28,22,Tennessee Titans -3.0,home,3.0,23.09729344857476,23.893974718193462,True,False,False
+105,2006-10-29,New Orleans Saints,Baltimore Ravens,37,35,35,New Orleans Saints -2.0,home,2.0,26.325829075910036,23.36154546182221,True,False,False
+106,2006-10-29,New York Giants,Tampa Bay Buccaneers,36,17,3,New York Giants -9.5,home,9.5,24.98153946923773,22.55511773852122,False,True,False
+111,2006-10-29,Cleveland Browns,New York Jets,37,20,13,Cleveland Browns -1.5,home,1.5,20.89281238969234,20.77996517185932,False,True,False
+117,2006-11-05,St. Louis Rams,Kansas City Chiefs,48,31,31,St. Louis Rams -3.0,home,3.0,27.86313578629118,25.997533066364547,True,False,True
+120,2006-11-05,New York Giants,Houston Texans,43,14,10,New York Giants -13.0,home,13.0,23.625738992801338,21.973916314170207,False,True,True
+125,2006-11-05,Pittsburgh Steelers,Denver Broncos,36,31,31,Pittsburgh Steelers -2.5,home,2.5,24.38712501268037,23.03620462034685,True,True,True
+128,2006-11-12,Philadelphia Eagles,Washington Redskins,41,27,3,Philadelphia Eagles -8.0,home,8.0,24.962607328503793,22.57887171285767,False,True,False
+130,2006-11-12,New England Patriots,New York Jets,38,17,17,New England Patriots -10.5,home,10.5,24.528441773774375,21.339577377762897,False,False,True
+134,2006-11-12,Cincinnati Bengals,San Diego Chargers,48,49,49,San Diego Chargers -1.5,away,1.5,25.309461234885475,25.875005763118136,True,True,True
+144,2006-11-19,Kansas City Chiefs,Oakland Raiders,36,17,13,Kansas City Chiefs -9.0,home,9.0,25.184969358678778,19.540379488988048,False,True,True
+145,2006-11-19,Philadelphia Eagles,Tennessee Titans,43,31,31,Philadelphia Eagles -13.0,home,13.0,26.42747962811902,20.8057099803202,True,False,True
+146,2006-11-19,Carolina Panthers,St. Louis Rams,44,15,0,Carolina Panthers -6.5,home,6.5,25.484556744680162,25.054237790358826,False,True,False
+147,2006-11-19,Green Bay Packers,New England Patriots,46,35,35,New England Patriots -6.0,away,6.0,24.450486034956956,24.172542912650773,True,True,True
+149,2006-11-19,New Orleans Saints,Cincinnati Bengals,52,31,31,New Orleans Saints -3.0,home,3.0,27.958073618058094,27.826948762511,True,True,True
+151,2006-11-19,Cleveland Browns,Pittsburgh Steelers,36,24,24,Pittsburgh Steelers -4.0,away,4.0,20.605054160356524,25.253524264202785,True,False,False
+157,2006-11-19,Dallas Cowboys,Indianapolis Colts,49,21,14,Indianapolis Colts -1.0,away,1.0,26.63805388577617,27.251657831615564,False,False,True
+159,2006-11-20,Jacksonville Jaguars,New York Giants,38,26,10,Jacksonville Jaguars -3.5,home,3.5,22.03483047212732,20.61669111063263,False,True,False
+163,2006-11-26,St. Louis Rams,San Francisco 49ers,45,20,17,St. Louis Rams -4.5,home,4.5,23.80416278945676,23.74230449481501,False,True,True
+164,2006-11-26,Buffalo Bills,Jacksonville Jaguars,35,27,24,Jacksonville Jaguars -3.0,away,3.0,19.825721990920602,22.852003060242943,True,False,False
+168,2006-11-26,Cleveland Browns,Cincinnati Bengals,44,30,30,Cincinnati Bengals -3.0,away,3.0,23.327603822403923,26.767562542236405,True,False,False
+169,2006-11-26,Minnesota Vikings,Arizona Cardinals,39,31,26,Minnesota Vikings -6.0,home,6.0,23.252516644103626,23.333677845564655,True,False,True
+178,2006-12-03,St. Louis Rams,Arizona Cardinals,47,34,34,St. Louis Rams -6.5,home,6.5,24.407884658123777,26.341910831268724,True,False,True
+180,2006-12-03,New England Patriots,Detroit Lions,41,28,21,New England Patriots -13.5,home,13.5,24.722119540369615,22.02478455791455,True,True,True
+183,2006-12-03,Washington Redskins,Atlanta Falcons,38,24,24,Washington Redskins -1.5,home,1.5,24.963248602298336,22.508003793218098,True,False,False
+184,2006-12-03,Tennessee Titans,Indianapolis Colts,46,20,17,Indianapolis Colts -7.5,away,7.5,21.752576873518247,25.41800076649158,False,False,True
+185,2006-12-03,New Orleans Saints,San Francisco 49ers,45,34,10,New Orleans Saints -7.0,home,7.0,28.884145802582665,24.55671335087574,False,True,False
+187,2006-12-03,Oakland Raiders,Houston Texans,35,23,23,Oakland Raiders -3.5,home,3.5,22.24647943890905,24.110669894699726,True,False,True
+190,2006-12-03,Denver Broncos,Seattle Seahawks,40,23,23,Denver Broncos -4.0,home,4.0,22.69608129983638,22.18823595599156,True,True,True
+191,2006-12-04,Philadelphia Eagles,Carolina Panthers,37,27,24,Carolina Panthers -3.0,away,3.0,22.55252288840275,21.665331884755453,True,True,True
+195,2006-12-10,Miami Dolphins,New England Patriots,37,21,0,New England Patriots -3.0,away,3.0,22.179036294301284,23.43902559064973,False,False,True
+196,2006-12-10,Carolina Panthers,New York Giants,39,27,27,New York Giants -2.5,away,2.5,24.104020312528135,21.664045576776992,True,False,True
+200,2006-12-10,Washington Redskins,Philadelphia Eagles,40,21,21,Philadelphia Eagles -2.0,away,2.0,23.99532937847826,25.38794637337545,True,True,True
+203,2006-12-10,San Francisco 49ers,Green Bay Packers,43,30,30,San Francisco 49ers -4.0,home,4.0,22.38650245305722,21.097186372828567,True,True,True
+208,2006-12-14,Seattle Seahawks,San Francisco 49ers,38,24,24,Seattle Seahawks -10.0,home,10.0,21.55816580390932,22.856338049398744,True,True,True
+209,2006-12-16,Atlanta Falcons,Dallas Cowboys,44,38,38,Dallas Cowboys -3.5,away,3.5,24.63586848026013,27.481752333439427,True,False,True
+221,2006-12-17,Oakland Raiders,St. Louis Rams,39,20,20,Oakland Raiders -2.0,home,2.0,23.73046452571952,24.056208865066914,True,True,True
+224,2006-12-21,Green Bay Packers,Minnesota Vikings,38,9,7,Green Bay Packers -4.0,home,4.0,22.36462534224777,22.122928330674796,False,True,True
+225,2006-12-23,Oakland Raiders,Kansas City Chiefs,35,20,20,Kansas City Chiefs -7.0,away,7.0,21.49896497985662,24.026135722135624,True,False,True
+227,2006-12-24,St. Louis Rams,Washington Redskins,43,37,31,St. Louis Rams -2.0,home,2.0,25.029853487149445,25.860170327000972,True,False,False
+230,2006-12-24,Houston Texans,Indianapolis Colts,47,27,24,Indianapolis Colts -9.5,away,9.5,21.946434229522907,28.762611634164223,True,False,True
+234,2006-12-24,New York Giants,New Orleans Saints,47,30,30,New York Giants -3.0,home,3.0,23.789269252896833,27.898490727685157,True,False,True
+236,2006-12-24,Denver Broncos,Cincinnati Bengals,44,24,23,Denver Broncos -3.0,home,3.0,21.237720102591002,25.945522309329764,True,False,True
+237,2006-12-24,Seattle Seahawks,San Diego Chargers,45,20,20,San Diego Chargers -4.5,away,4.5,20.571532100890394,23.84265272083441,True,False,True
+238,2006-12-25,Dallas Cowboys,Philadelphia Eagles,48,23,23,Dallas Cowboys -7.0,home,7.0,28.305182137056065,27.21643888065917,False,True,True
+241,2006-12-31,Kansas City Chiefs,Jacksonville Jaguars,37,35,30,Kansas City Chiefs -2.5,home,2.5,21.210787172959197,24.5314044009452,True,False,False
+242,2006-12-31,New York Jets,Oakland Raiders,34,23,3,New York Jets -10.5,home,10.5,24.343394819651074,20.43591637057224,False,True,False
+243,2006-12-31,Houston Texans,Cleveland Browns,37,14,6,Houston Texans -6.0,home,6.0,23.641877695959224,23.236648563918266,False,True,False
+247,2006-12-31,Cincinnati Bengals,Pittsburgh Steelers,44,23,23,Cincinnati Bengals -6.0,home,6.0,24.582532766760984,23.348137581185703,True,True,True
+248,2006-12-31,New Orleans Saints,Carolina Panthers,38,31,31,Carolina Panthers -2.0,away,2.0,26.288572942783883,23.310734072715398,True,False,True
+249,2006-12-31,Minnesota Vikings,St. Louis Rams,44,41,41,St. Louis Rams -2.5,away,2.5,21.628669975558093,25.51956563728509,True,False,False
+251,2006-12-31,San Diego Chargers,Arizona Cardinals,44,27,20,San Diego Chargers -14.0,home,14.0,23.94214973494359,24.20204203032413,True,False,True
+78,2007-10-14,Baltimore Ravens,St. Louis Rams,36,22,3,Baltimore Ravens -9.0,home,9.0,26.62140118968204,22.918744303248786,False,True,False
+80,2007-10-14,New York Jets,Philadelphia Eagles,43,16,16,Philadelphia Eagles -4.5,away,4.5,24.396455184270884,22.47661002165442,False,False,True
+85,2007-10-14,San Diego Chargers,Oakland Raiders,44,28,14,San Diego Chargers -9.5,home,9.5,26.029495301850453,23.122412500676806,False,True,False
+87,2007-10-14,Seattle Seahawks,New Orleans Saints,43,28,28,Seattle Seahawks -6.5,home,6.5,25.81808005429858,24.47486999919741,True,True,True
+89,2007-10-21,Buffalo Bills,Baltimore Ravens,33,19,14,Baltimore Ravens -3.0,away,3.0,22.11867508970973,24.80968563655093,True,False,True
+91,2007-10-21,Washington Redskins,Arizona Cardinals,36,21,19,Washington Redskins -8.0,home,8.0,24.552850446172506,21.738728052498708,True,True,True
+95,2007-10-21,New Orleans Saints,Atlanta Falcons,42,22,16,New Orleans Saints -7.5,home,7.5,25.0960101289686,24.779885322218387,False,True,True
+111,2007-10-28,New York Jets,Buffalo Bills,38,13,13,New York Jets -3.0,home,3.0,24.604567323204368,23.121125398681365,False,True,True
+112,2007-10-28,San Diego Chargers,Houston Texans,45,35,10,San Diego Chargers -10.0,home,10.0,26.218693218376913,25.16616782388498,True,True,False
+115,2007-10-29,Denver Broncos,Green Bay Packers,43,19,19,Denver Broncos -3.0,home,3.0,24.679136709906814,26.872759668621207,False,False,True
+117,2007-11-04,Tampa Bay Buccaneers,Arizona Cardinals,39,17,10,Tampa Bay Buccaneers -3.5,home,3.5,24.99301997721331,21.509592446067124,False,True,False
+123,2007-11-04,New York Jets,Washington Redskins,36,23,23,Washington Redskins -3.5,away,3.5,21.79655928910899,23.22947703030539,True,True,True
+128,2007-11-04,Philadelphia Eagles,Dallas Cowboys,46,38,38,Dallas Cowboys -3.0,away,3.0,23.767129776231492,24.325365094956474,True,True,True
+130,2007-11-11,Kansas City Chiefs,Denver Broncos,37,27,27,Kansas City Chiefs -2.5,home,2.5,24.850829882010576,23.78399390401495,True,True,True
+136,2007-11-11,Washington Redskins,Philadelphia Eagles,37,33,33,Washington Redskins -2.5,home,2.5,21.920658803310147,25.813729947839974,True,False,True
+137,2007-11-11,Tennessee Titans,Jacksonville Jaguars,36,28,28,Tennessee Titans -3.5,home,3.5,21.57132631859661,22.4773349276724,True,True,True
+146,2007-11-18,Cincinnati Bengals,Arizona Cardinals,49,35,35,Cincinnati Bengals -3.5,home,3.5,26.137692960042692,22.069139053206932,False,False,False
+147,2007-11-18,Philadelphia Eagles,Miami Dolphins,40,17,7,Philadelphia Eagles -9.5,home,9.5,25.26369830829719,23.222703038261542,False,True,False
+153,2007-11-18,Minnesota Vikings,Oakland Raiders,35,29,22,Minnesota Vikings -4.5,home,4.5,23.986079502161857,20.62113329882725,True,True,False
+158,2007-11-18,Buffalo Bills,New England Patriots,46,56,56,New England Patriots -16.0,away,16.0,24.316924150905795,25.59524346888367,True,True,True
+166,2007-11-25,Cincinnati Bengals,Tennessee Titans,47,35,6,Tennessee Titans -1.0,away,1.0,24.183846162889367,22.361111628218257,True,True,True
+173,2007-11-25,Chicago Bears,Denver Broncos,41,37,34,Chicago Bears -1.0,home,1.0,23.82293294330404,22.414289095444943,True,True,True
+174,2007-11-25,New England Patriots,Philadelphia Eagles,51,31,28,New England Patriots -24.5,home,24.5,29.011264765093667,25.14731287692281,True,True,True
+181,2007-12-02,Tennessee Titans,Houston Texans,40,28,20,Tennessee Titans -3.5,home,3.5,21.120345368488515,23.495889418287707,True,False,False
+185,2007-12-02,Minnesota Vikings,Detroit Lions,44,42,10,Minnesota Vikings -4.5,home,4.5,24.41311970438943,23.6702172946015,True,True,False
+199,2007-12-09,Detroit Lions,Dallas Cowboys,50,28,28,Dallas Cowboys -10.5,away,10.5,22.605672230935504,27.41365979082979,True,False,True
+201,2007-12-09,San Francisco 49ers,Minnesota Vikings,39,27,27,Minnesota Vikings -8.5,away,8.5,20.67514251910816,24.756446588706666,True,False,True
+202,2007-12-09,Seattle Seahawks,Arizona Cardinals,44,42,21,Seattle Seahawks -7.5,home,7.5,24.11015465178015,22.418189337541584,True,True,False
+205,2007-12-09,New England Patriots,Pittsburgh Steelers,49,34,13,New England Patriots -10.5,home,10.5,25.38235181364862,22.795559554487113,True,True,False
+209,2007-12-15,San Francisco 49ers,Cincinnati Bengals,43,20,13,Cincinnati Bengals -8.5,away,8.5,19.5921102967113,25.546842290113347,False,False,True
+211,2007-12-16,St. Louis Rams,Green Bay Packers,47,33,33,Green Bay Packers -7.0,away,7.0,23.147259406723474,27.345271874288674,True,False,True
+217,2007-12-16,Cleveland Browns,Buffalo Bills,37,8,0,Cleveland Browns -5.0,home,5.0,23.25975174923694,22.304705796831854,False,True,False
+219,2007-12-16,Oakland Raiders,Indianapolis Colts,45,21,21,Indianapolis Colts -10.0,away,10.0,23.56026216592173,28.99683449057094,False,False,True
+220,2007-12-16,San Diego Chargers,Detroit Lions,46,51,14,San Diego Chargers -9.5,home,9.5,24.995187263641167,23.939608327052593,True,True,False
+230,2007-12-23,Detroit Lions,Kansas City Chiefs,43,25,20,Detroit Lions -5.0,home,5.0,26.89235099360757,22.01432168820604,True,True,False
+234,2007-12-23,Arizona Cardinals,Atlanta Falcons,43,30,27,Arizona Cardinals -10.5,home,10.5,24.65326430574091,22.062292659277613,True,True,True
+241,2007-12-30,Chicago Bears,New Orleans Saints,42,33,25,Chicago Bears -1.0,home,1.0,24.30641448820753,25.89586735330036,True,False,False
+247,2007-12-30,Cleveland Browns,San Francisco 49ers,41,20,7,Cleveland Browns -11.5,home,11.5,24.60458135181385,18.996344432685923,False,True,False
+251,2007-12-30,Arizona Cardinals,St. Louis Rams,49,48,19,Arizona Cardinals -6.0,home,6.0,25.70310174893256,24.26387021555564,True,True,False
+255,2007-12-30,Indianapolis Colts,Tennessee Titans,41,16,16,Tennessee Titans -4.5,away,4.5,29.173320721472628,23.726945826587567,False,False,True
+74,2008-10-12,Houston Texans,Miami Dolphins,44,29,28,Houston Texans -3.0,home,3.0,24.277541118092156,26.210980420225617,True,False,True
+83,2008-10-12,Arizona Cardinals,Dallas Cowboys,53,30,24,Dallas Cowboys -5.0,away,5.0,27.446475336065056,27.262494064619386,True,True,True
+85,2008-10-12,Seattle Seahawks,Green Bay Packers,44,27,27,Seattle Seahawks -1.0,home,1.0,23.39676806027269,24.834331421750633,True,True,True
+86,2008-10-12,San Diego Chargers,New England Patriots,44,30,10,San Diego Chargers -6.0,home,6.0,26.08508735442738,22.92606611361224,False,True,False
+87,2008-10-13,Cleveland Browns,New York Giants,43,35,14,New York Giants -8.0,away,8.0,19.43583877284161,27.410642852382203,True,False,True
+89,2008-10-19,St. Louis Rams,Dallas Cowboys,45,34,14,Dallas Cowboys -8.0,away,8.0,22.042416951550592,28.155246024009642,True,False,True
+98,2008-10-19,Green Bay Packers,Indianapolis Colts,47,34,14,Indianapolis Colts -2.5,away,2.5,22.007537067898994,25.65190463851447,True,False,False
+102,2008-10-26,Philadelphia Eagles,Atlanta Falcons,45,27,14,Philadelphia Eagles -9.5,home,9.5,23.84249852571017,24.89933774812657,False,False,False
+105,2008-10-26,Dallas Cowboys,Tampa Bay Buccaneers,40,13,9,Dallas Cowboys -1.5,home,1.5,23.340666138168174,24.41937614159835,False,False,False
+108,2008-10-26,Miami Dolphins,Buffalo Bills,41,25,16,Miami Dolphins -1.0,home,1.0,27.107881189945545,23.862631079437485,True,True,True
+111,2008-10-26,Houston Texans,Cincinnati Bengals,45,35,6,Houston Texans -9.0,home,9.0,26.990406147646922,20.926684950359196,False,True,False
+114,2008-10-26,Pittsburgh Steelers,New York Giants,41,21,21,Pittsburgh Steelers -3.0,home,3.0,23.210165841803445,24.327249488877143,True,True,True
+117,2008-11-02,Cleveland Browns,Baltimore Ravens,36,37,37,Cleveland Browns -2.5,home,2.5,24.845676098214966,23.74437718709733,True,True,True
+119,2008-11-02,Chicago Bears,Detroit Lions,43,27,23,Chicago Bears -12.5,home,12.5,26.067248106956434,22.562887977400433,True,True,True
+121,2008-11-02,Cincinnati Bengals,Jacksonville Jaguars,40,21,19,Jacksonville Jaguars -7.5,away,7.5,21.23889272970877,26.40394085624733,True,False,True
+123,2008-11-02,Minnesota Vikings,Houston Texans,47,28,21,Minnesota Vikings -5.5,home,5.5,24.286341804507856,27.263905350851516,True,False,False
+140,2008-11-09,Pittsburgh Steelers,Indianapolis Colts,39,24,24,Pittsburgh Steelers -3.5,home,3.5,20.565653404906968,23.734392057381655,True,False,True
+141,2008-11-09,San Diego Chargers,Kansas City Chiefs,47,20,19,San Diego Chargers -14.5,home,14.5,27.329449409253264,21.522316967719043,False,True,True
+142,2008-11-09,Philadelphia Eagles,New York Giants,42,36,36,Philadelphia Eagles -1.5,home,1.5,27.845759326874816,23.54209645067586,True,False,False
+146,2008-11-16,New York Giants,Baltimore Ravens,40,30,10,New York Giants -7.0,home,7.0,22.027914168465863,25.298646795818,True,False,False
+149,2008-11-16,Miami Dolphins,Oakland Raiders,37,17,15,Miami Dolphins -10.0,home,10.0,25.81566639673622,18.93790304237706,False,True,True
+153,2008-11-16,Cincinnati Bengals,Philadelphia Eagles,41,13,13,Philadelphia Eagles -9.0,away,9.0,21.024924650140896,24.92947374933858,False,False,True
+154,2008-11-16,San Francisco 49ers,St. Louis Rams,43,35,16,San Francisco 49ers -7.0,home,7.0,22.804527867736788,22.10513278480291,True,True,False
+156,2008-11-16,Jacksonville Jaguars,Tennessee Titans,40,24,24,Tennessee Titans -3.0,away,3.0,23.631987526507515,24.673360637043576,True,True,True
+157,2008-11-16,Pittsburgh Steelers,San Diego Chargers,40,11,10,Pittsburgh Steelers -4.5,home,4.5,20.22966246202453,24.17878523551142,False,False,True
+158,2008-11-16,Washington Redskins,Dallas Cowboys,43,14,14,Dallas Cowboys -2.0,away,2.0,23.71912328440308,20.00262535395656,False,False,True
+160,2008-11-20,Pittsburgh Steelers,Cincinnati Bengals,34,27,10,Pittsburgh Steelers -11.5,home,11.5,21.78228772362231,18.71545128997572,True,True,False
+161,2008-11-23,Kansas City Chiefs,Buffalo Bills,43,54,54,Buffalo Bills -3.0,away,3.0,24.29568965208781,21.504366668562874,True,False,True
+162,2008-11-23,St. Louis Rams,Chicago Bears,44,27,27,Chicago Bears -7.0,away,7.0,22.93537766003756,25.218967499908807,True,False,True
+172,2008-11-23,Seattle Seahawks,Washington Redskins,40,20,20,Washington Redskins -3.0,away,3.0,21.397671142246622,23.548892533794074,True,False,True
+180,2008-11-30,Buffalo Bills,San Francisco 49ers,43,10,10,Buffalo Bills -6.5,home,6.5,22.463391390609633,22.700605733022194,False,True,True
+187,2008-11-30,Oakland Raiders,Kansas City Chiefs,41,20,20,Oakland Raiders -3.5,home,3.5,20.204228868643487,25.12113720138083,False,False,True
+188,2008-11-30,New England Patriots,Pittsburgh Steelers,40,33,33,New England Patriots -2.5,home,2.5,25.245549053234736,24.102419667799225,True,True,True
+205,2008-12-07,Pittsburgh Steelers,Dallas Cowboys,38,20,13,Pittsburgh Steelers -4.0,home,4.0,23.31946103853524,21.714708391626452,False,True,False
+207,2008-12-08,Carolina Panthers,Tampa Bay Buccaneers,38,38,23,Carolina Panthers -3.0,home,3.0,23.249261748357682,23.060191227341132,True,True,False
+211,2008-12-14,Indianapolis Colts,Detroit Lions,45,31,21,Indianapolis Colts -17.0,home,17.0,29.86128533127937,19.62765777074877,True,True,True
+212,2008-12-14,New York Jets,Buffalo Bills,41,31,27,New York Jets -8.0,home,8.0,22.4557339820335,22.4324169512046,True,True,True
+213,2008-12-14,Miami Dolphins,San Francisco 49ers,41,14,9,Miami Dolphins -5.5,home,5.5,24.752591318220112,22.665984017809706,False,True,True
+215,2008-12-14,Cincinnati Bengals,Washington Redskins,36,20,13,Washington Redskins -6.5,away,6.5,19.199234108191625,22.68344658997674,False,False,True
+216,2008-12-14,Jacksonville Jaguars,Green Bay Packers,46,20,16,Green Bay Packers -2.5,away,2.5,23.18894786875006,25.347296720565815,False,False,True
+218,2008-12-14,Arizona Cardinals,Minnesota Vikings,46,35,35,Arizona Cardinals -3.5,home,3.5,25.22515592086325,21.93492097233444,True,False,True
+222,2008-12-14,Dallas Cowboys,New York Giants,46,20,8,Dallas Cowboys -3.0,home,3.0,24.147584442486206,24.78347238922523,False,False,False
+224,2008-12-18,Jacksonville Jaguars,Indianapolis Colts,44,31,31,Indianapolis Colts -6.0,away,6.0,22.809112521953388,25.586155629773586,True,False,True
+225,2008-12-20,Dallas Cowboys,Baltimore Ravens,39,33,33,Dallas Cowboys -5.5,home,5.5,22.785798729300403,21.88764440261661,True,True,True
+226,2008-12-21,St. Louis Rams,San Francisco 49ers,42,17,17,San Francisco 49ers -3.5,away,3.5,22.455204742959076,25.257418848584074,False,False,True
+230,2008-12-21,New England Patriots,Arizona Cardinals,41,47,7,New England Patriots -8.0,home,8.0,25.074996793028614,23.95077226219751,True,True,False
+232,2008-12-21,Detroit Lions,New Orleans Saints,50,42,42,New Orleans Saints -7.0,away,7.0,19.795313497103113,28.961839674573596,False,False,False
+233,2008-12-21,Oakland Raiders,Houston Texans,43,27,16,Houston Texans -7.0,away,7.0,22.337820906065424,27.011249975044517,True,False,True
+241,2008-12-28,Tampa Bay Buccaneers,Oakland Raiders,39,31,31,Tampa Bay Buccaneers -10.5,home,10.5,25.101215035878624,24.1518847555178,True,True,True
+243,2008-12-28,Green Bay Packers,Detroit Lions,41,31,21,Green Bay Packers -11.0,home,11.0,26.7735143593464,20.615672512890008,True,True,True
+247,2008-12-28,New Orleans Saints,Carolina Panthers,51,33,33,Carolina Panthers -1.5,away,1.5,28.933384756083775,27.569670208941368,True,True,True
+251,2008-12-28,San Francisco 49ers,Washington Redskins,37,27,24,San Francisco 49ers -3.0,home,3.0,22.64943205367495,21.546428361060673,True,True,False
+254,2008-12-28,New York Jets,Miami Dolphins,43,24,24,New York Jets -2.5,home,2.5,21.351081206530647,23.657450735753855,True,False,True
+255,2008-12-28,San Diego Chargers,Denver Broncos,50,52,21,San Diego Chargers -7.0,home,7.0,23.837606341282587,26.453849157357453,True,False,False
+77,2009-10-18,Pittsburgh Steelers,Cleveland Browns,38,27,14,Pittsburgh Steelers -14.0,home,14.0,27.36668027755914,18.942166841471785,True,True,True
+82,2009-10-18,Washington Redskins,Kansas City Chiefs,36,14,14,Washington Redskins -6.5,home,6.5,23.991713633158927,19.427443909377683,False,False,True
+85,2009-10-18,Seattle Seahawks,Arizona Cardinals,46,27,27,Seattle Seahawks -3.0,home,3.0,24.385482096918494,24.28385545762776,True,True,True
+87,2009-10-18,New York Jets,Buffalo Bills,35,16,16,New York Jets -9.5,home,9.5,21.25148146531005,19.717064539574732,False,False,True
+88,2009-10-18,Atlanta Falcons,Chicago Bears,45,21,14,Atlanta Falcons -3.5,home,3.5,26.64493220237079,23.920098692448313,False,True,False
+97,2009-10-25,Carolina Panthers,Buffalo Bills,37,20,20,Carolina Panthers -7.0,home,7.0,24.876161060062213,20.477575330065218,True,False,True
+98,2009-10-25,Dallas Cowboys,Atlanta Falcons,48,37,21,Dallas Cowboys -5.0,home,5.0,26.143168746965614,26.421057681191513,True,False,False
+105,2009-11-01,Baltimore Ravens,Denver Broncos,42,30,7,Baltimore Ravens -3.5,home,3.5,25.366547477183232,25.46648270826136,False,False,False
+111,2009-11-01,Tennessee Titans,Jacksonville Jaguars,44,30,13,Tennessee Titans -3.0,home,3.0,19.94821491483112,25.59372185441346,False,False,False
+118,2009-11-08,Indianapolis Colts,Houston Texans,49,20,17,Indianapolis Colts -8.5,home,8.5,27.631480576000794,25.912815511490788,False,True,True
+128,2009-11-09,Denver Broncos,Pittsburgh Steelers,41,28,28,Pittsburgh Steelers -3.0,away,3.0,24.946546433647097,25.853670265845356,True,True,True
+130,2009-11-15,St. Louis Rams,New Orleans Saints,51,28,28,New Orleans Saints -14.5,away,14.5,25.37023842369043,27.484577166580483,True,False,True
+134,2009-11-15,Tennessee Titans,Buffalo Bills,41,41,17,Tennessee Titans -7.5,home,7.5,23.045492489922978,21.368320537931034,True,True,False
+147,2009-11-22,Detroit Lions,Cleveland Browns,37,38,37,Detroit Lions -3.0,home,3.0,23.78840640383627,19.835044476418826,True,True,False
+148,2009-11-22,Green Bay Packers,San Francisco 49ers,42,30,24,Green Bay Packers -6.0,home,6.0,23.961678744010953,20.22310413465127,True,True,False
+151,2009-11-22,Dallas Cowboys,Washington Redskins,41,7,6,Dallas Cowboys -10.5,home,10.5,25.845727564010872,22.59342627525801,False,True,True
+152,2009-11-22,Jacksonville Jaguars,Buffalo Bills,41,18,15,Jacksonville Jaguars -8.5,home,8.5,27.616187524719948,20.165019857762193,False,True,True
+153,2009-11-22,Minnesota Vikings,Seattle Seahawks,47,35,9,Minnesota Vikings -11.0,home,11.0,26.279066401536554,24.318304922689375,False,True,False
+156,2009-11-22,Denver Broncos,San Diego Chargers,42,32,32,San Diego Chargers -6.0,away,6.0,23.295989097281527,26.947525255532764,True,False,True
+161,2009-11-26,Dallas Cowboys,Oakland Raiders,40,24,7,Dallas Cowboys -13.5,home,13.5,25.605853648404914,19.890634925311407,False,True,False
+166,2009-11-29,New York Jets,Carolina Panthers,41,17,6,New York Jets -3.5,home,3.5,24.240626058407386,24.058686089609417,False,True,False
+168,2009-11-29,Atlanta Falcons,Tampa Bay Buccaneers,46,20,17,Atlanta Falcons -12.5,home,12.5,27.125635933295,22.958035254643505,False,True,True
+169,2009-11-29,Philadelphia Eagles,Washington Redskins,40,27,24,Philadelphia Eagles -10.0,home,10.0,24.737205941154677,23.07005498440153,True,True,True
+172,2009-11-29,Tennessee Titans,Arizona Cardinals,45,20,17,Tennessee Titans -2.0,home,2.0,27.08536098482775,26.39744089963127,False,True,False
+174,2009-11-29,Baltimore Ravens,Pittsburgh Steelers,34,20,17,Baltimore Ravens -8.0,home,8.0,23.564120753896987,22.3945235959782,True,True,True
+176,2009-12-03,Buffalo Bills,New York Jets,37,19,19,New York Jets -3.5,away,3.5,22.607069366100767,24.101294938105006,True,True,True
+181,2009-12-06,Chicago Bears,St. Louis Rams,41,17,9,Chicago Bears -9.0,home,9.0,23.922066676885223,26.064255798541268,False,False,True
+182,2009-12-06,Washington Redskins,New Orleans Saints,47,33,33,New Orleans Saints -8.0,away,8.0,24.664120316881338,27.701663448088077,True,False,True
+183,2009-12-06,Indianapolis Colts,Tennessee Titans,47,27,17,Indianapolis Colts -6.0,home,6.0,27.91722305012484,27.63466888918815,False,True,False
+184,2009-12-06,Jacksonville Jaguars,Houston Texans,47,23,18,Houston Texans -1.5,away,1.5,24.561008793139095,24.815309221413386,False,False,True
+194,2009-12-13,Tampa Bay Buccaneers,New York Jets,36,26,26,New York Jets -3.5,away,3.5,20.944066945720092,21.647870833509728,True,True,True
+196,2009-12-13,Atlanta Falcons,New Orleans Saints,50,26,26,New Orleans Saints -10.0,away,10.0,24.661793434903245,29.76289384500066,True,False,True
+204,2009-12-13,Tennessee Titans,St. Louis Rams,40,47,7,Tennessee Titans -14.0,home,14.0,27.233613841986305,22.638986158051665,True,True,False
+225,2009-12-27,Cleveland Browns,Oakland Raiders,37,23,9,Cleveland Browns -3.0,home,3.0,24.93864395422167,23.890578146351082,False,True,False
+231,2009-12-27,Cincinnati Bengals,Kansas City Chiefs,39,17,10,Cincinnati Bengals -13.0,home,13.0,24.506974337949433,20.542748677455894,False,True,True
+233,2009-12-27,New York Giants,Carolina Panthers,43,41,41,New York Giants -8.5,home,8.5,25.02396527379831,23.64916143557731,True,True,True
+235,2009-12-27,Arizona Cardinals,St. Louis Rams,43,31,10,Arizona Cardinals -16.0,home,16.0,23.878679724365004,21.753976614957033,False,True,False
+237,2009-12-27,Philadelphia Eagles,Denver Broncos,43,30,27,Philadelphia Eagles -7.0,home,7.0,25.85376433340765,25.173259776030307,True,True,True
+240,2010-01-03,St. Louis Rams,San Francisco 49ers,39,28,28,San Francisco 49ers -7.0,away,7.0,20.592511936442047,23.079419080582635,True,False,True
+245,2010-01-03,Detroit Lions,Chicago Bears,44,37,37,Chicago Bears -4.5,away,4.5,20.774037693285713,23.56835434968528,True,False,True
+255,2010-01-03,New York Jets,Cincinnati Bengals,33,37,0,New York Jets -10.0,home,10.0,21.800337025656184,20.26780340117905,True,True,False
+76,2010-10-17,St. Louis Rams,San Diego Chargers,45,20,17,San Diego Chargers -8.5,away,8.5,25.032018051683693,28.229729824245922,False,False,True
+80,2010-10-17,Philadelphia Eagles,Atlanta Falcons,43,31,17,Philadelphia Eagles -1.5,home,1.5,23.757352161950386,25.505871605714653,True,False,False
+84,2010-10-17,New York Giants,Detroit Lions,45,28,20,New York Giants -10.0,home,10.0,24.342289739299318,24.5927632058289,True,False,True
+87,2010-10-17,Minnesota Vikings,Dallas Cowboys,44,24,21,Minnesota Vikings -1.5,home,1.5,22.804180195480313,25.79770574543612,True,False,False
+94,2010-10-24,New Orleans Saints,Cleveland Browns,44,30,30,New Orleans Saints -12.5,home,12.5,28.61073273907819,23.246086791978826,True,False,True
+100,2010-10-24,San Diego Chargers,New England Patriots,49,23,23,San Diego Chargers -1.5,home,1.5,27.223317919163918,25.41052485723847,False,False,False
+101,2010-10-24,Denver Broncos,Oakland Raiders,43,59,59,Denver Broncos -7.0,home,7.0,26.835128395117103,23.064760042647656,True,False,True
+102,2010-10-24,Green Bay Packers,Minnesota Vikings,44,28,24,Green Bay Packers -2.5,home,2.5,23.179364697948706,21.81165499246387,True,True,False
+103,2010-10-25,Dallas Cowboys,New York Giants,45,41,41,Dallas Cowboys -3.5,home,3.5,26.007807368062267,24.58086714199459,True,True,True
+105,2010-10-31,Detroit Lions,Washington Redskins,45,37,25,Detroit Lions -3.0,home,3.0,25.030076421612307,23.36312901043798,True,True,False
+111,2010-10-31,San Diego Chargers,Tennessee Titans,45,33,25,San Diego Chargers -6.0,home,6.0,25.140013694230554,22.16894174329844,True,True,False
+113,2010-10-31,Arizona Cardinals,Tampa Bay Buccaneers,38,38,38,Arizona Cardinals -3.0,home,3.0,20.799849086977947,25.353286429417523,True,False,True
+114,2010-10-31,Oakland Raiders,Seattle Seahawks,40,33,3,Oakland Raiders -2.0,home,2.0,23.339127220752655,24.24363506551652,False,False,False
+116,2010-11-01,Indianapolis Colts,Houston Texans,51,30,17,Indianapolis Colts -5.5,home,5.5,28.18380656894126,25.930591496518062,False,True,False
+121,2010-11-07,Baltimore Ravens,Miami Dolphins,41,26,10,Baltimore Ravens -5.0,home,5.0,24.744943589495332,24.383511499554515,False,True,False
+124,2010-11-07,Minnesota Vikings,Arizona Cardinals,42,27,24,Minnesota Vikings -7.5,home,7.5,26.81924162230596,20.659154743921494,True,True,True
+129,2010-11-08,Cincinnati Bengals,Pittsburgh Steelers,41,27,27,Pittsburgh Steelers -5.5,away,5.5,24.896043644553338,24.501177431927808,True,True,True
+136,2010-11-14,Miami Dolphins,Tennessee Titans,43,29,17,Miami Dolphins -1.0,home,1.0,26.167675518347952,26.312125804433926,True,False,False
+139,2010-11-14,New York Giants,Dallas Cowboys,46,33,33,New York Giants -12.5,home,12.5,26.663893258240464,22.193547806620597,True,False,True
+141,2010-11-14,San Francisco 49ers,St. Louis Rams,39,23,20,San Francisco 49ers -4.5,home,4.5,24.23546562454915,23.881291293661505,True,True,True
+147,2010-11-21,Pittsburgh Steelers,Oakland Raiders,41,35,3,Pittsburgh Steelers -7.0,home,7.0,24.067628368122804,22.572766076346667,False,True,False
+148,2010-11-21,Tennessee Titans,Washington Redskins,44,19,19,Tennessee Titans -7.0,home,7.0,24.61144065663929,20.48414054706824,False,False,True
+153,2010-11-21,Minnesota Vikings,Green Bay Packers,45,31,31,Green Bay Packers -3.0,away,3.0,25.471462809374266,27.119445715918694,True,False,True
+154,2010-11-21,New Orleans Saints,Seattle Seahawks,45,34,19,New Orleans Saints -11.0,home,11.0,28.244066371360177,20.214641248405464,True,True,False
+161,2010-11-25,Dallas Cowboys,New Orleans Saints,49,30,30,New Orleans Saints -4.5,away,4.5,24.872652975256297,27.958129041859948,True,False,True
+163,2010-11-28,Atlanta Falcons,Green Bay Packers,48,20,17,Atlanta Falcons -2.0,home,2.0,28.460710950226023,27.139396566307674,False,True,False
+164,2010-11-28,Houston Texans,Tennessee Titans,46,20,0,Houston Texans -5.0,home,5.0,26.461120235449854,25.104787562696984,False,True,False
+165,2010-11-28,New York Giants,Jacksonville Jaguars,44,24,20,New York Giants -7.5,home,7.5,25.520606974992447,26.26602828398451,True,False,True
+166,2010-11-28,Washington Redskins,Minnesota Vikings,44,17,17,Minnesota Vikings -2.5,away,2.5,23.455954833637232,25.620811229624806,False,False,True
+167,2010-11-28,Buffalo Bills,Pittsburgh Steelers,44,19,19,Pittsburgh Steelers -7.0,away,7.0,22.33103882658304,23.837943545234506,False,False,True
+168,2010-11-28,Cleveland Browns,Carolina Panthers,37,24,23,Cleveland Browns -7.5,home,7.5,24.04049636124562,20.414181044322824,True,True,True
+169,2010-11-28,Oakland Raiders,Miami Dolphins,38,33,33,Oakland Raiders -3.0,home,3.0,21.284911875552638,23.952134613583596,True,False,True
+173,2010-11-28,Denver Broncos,St. Louis Rams,45,36,36,Denver Broncos -3.0,home,3.0,23.24708243438193,25.222234145593383,True,False,True
+182,2010-12-05,Cincinnati Bengals,New Orleans Saints,45,34,34,New Orleans Saints -7.0,away,7.0,20.613235618220607,26.438588884651708,True,False,True
+184,2010-12-05,Minnesota Vikings,Buffalo Bills,44,38,14,Minnesota Vikings -5.0,home,5.0,24.745741024825897,25.898550886190016,True,False,False
+186,2010-12-05,Arizona Cardinals,St. Louis Rams,44,19,19,St. Louis Rams -3.5,away,3.5,23.6112312225553,26.341500865764573,False,False,True
+187,2010-12-05,Indianapolis Colts,Dallas Cowboys,48,38,38,Indianapolis Colts -5.5,home,5.5,26.86088876250875,25.317415459906485,True,False,True
+188,2010-12-05,Tampa Bay Buccaneers,Atlanta Falcons,43,28,28,Atlanta Falcons -3.0,away,3.0,25.07781148251078,26.616061577317055,True,False,True
+195,2010-12-12,Pittsburgh Steelers,Cincinnati Bengals,39,23,7,Pittsburgh Steelers -8.0,home,8.0,26.730683862339685,21.349710851260387,False,True,False
+199,2010-12-12,San Francisco 49ers,Seattle Seahawks,43,40,21,San Francisco 49ers -5.0,home,5.0,24.411027364083026,25.833952940385238,True,False,False
+201,2010-12-12,San Diego Chargers,Kansas City Chiefs,45,31,0,San Diego Chargers -10.0,home,10.0,25.614891438633308,27.314312592964775,False,False,False
+202,2010-12-12,Arizona Cardinals,Denver Broncos,44,43,13,Denver Broncos -4.0,away,4.0,23.743434358476325,26.41108941216592,True,False,True
+213,2010-12-19,Cincinnati Bengals,Cleveland Browns,41,19,17,Pick,home,0.0,22.827970828003757,24.86785757930426,False,False,False
+220,2010-12-19,Pittsburgh Steelers,New York Jets,35,22,22,Pittsburgh Steelers -4.0,home,4.0,23.937966996224052,20.713025640222604,True,False,True
+222,2010-12-19,New England Patriots,Green Bay Packers,43,31,27,New England Patriots -14.5,home,14.5,29.082609941170954,26.52546322655733,True,True,True
+236,2010-12-26,Green Bay Packers,New York Giants,43,45,17,Green Bay Packers -3.0,home,3.0,25.022008416557444,24.743841737867562,True,True,False
+237,2010-12-26,Tampa Bay Buccaneers,Seattle Seahawks,43,38,15,Tampa Bay Buccaneers -6.0,home,6.0,24.660640183193795,21.99239191032065,True,True,False
+247,2011-01-02,Detroit Lions,Minnesota Vikings,43,20,13,Detroit Lions -3.5,home,3.5,25.905868240945736,21.75690274863129,False,True,True
+248,2011-01-02,Green Bay Packers,Chicago Bears,43,10,3,Green Bay Packers -10.5,home,10.5,24.684919185296884,23.336266321415106,False,True,True
+77,2011-10-16,Green Bay Packers,St. Louis Rams,47,24,3,Green Bay Packers -14.0,home,14.0,27.591915301079688,21.293849459050953,False,True,False
+83,2011-10-16,Washington Redskins,Philadelphia Eagles,46,20,20,Philadelphia Eagles -3.0,away,3.0,26.199261081345146,26.001811567311606,False,True,True
+87,2011-10-16,Tampa Bay Buccaneers,New Orleans Saints,49,26,20,New Orleans Saints -6.5,away,6.5,24.45976612957592,28.014197885211537,False,False,True
+88,2011-10-16,Chicago Bears,Minnesota Vikings,42,39,10,Chicago Bears -2.5,home,2.5,22.967534086041493,25.357662500227544,True,False,False
+94,2011-10-23,Detroit Lions,Atlanta Falcons,47,23,23,Detroit Lions -4.5,home,4.5,26.840538850506036,27.259268325446698,False,True,True
+97,2011-10-23,Arizona Cardinals,Pittsburgh Steelers,46,32,32,Pittsburgh Steelers -4.5,away,4.5,22.298123510355865,27.015471253435827,True,False,False
+98,2011-10-23,Dallas Cowboys,St. Louis Rams,43,34,7,Dallas Cowboys -14.0,home,14.0,27.028561745556807,22.691038974392786,False,True,False
+99,2011-10-23,Minnesota Vikings,Green Bay Packers,47,33,33,Green Bay Packers -11.0,away,11.0,24.98184734881664,28.6739069785571,True,False,True
+105,2011-10-30,New York Giants,Miami Dolphins,43,20,17,New York Giants -10.0,home,10.0,25.488765117647326,22.864955406566942,False,True,True
+107,2011-10-30,Houston Texans,Jacksonville Jaguars,41,24,14,Houston Texans -10.0,home,10.0,26.733380732685372,20.498365081665774,False,True,False
+110,2011-10-30,Denver Broncos,Detroit Lions,43,45,45,Detroit Lions -3.5,away,3.5,23.744330684842964,25.370936694108828,True,False,True
+112,2011-10-30,San Francisco 49ers,Cleveland Browns,38,20,10,San Francisco 49ers -9.5,home,9.5,24.046346477234376,23.879240086671793,False,True,False
+128,2011-11-06,Pittsburgh Steelers,Baltimore Ravens,42,23,23,Pittsburgh Steelers -3.5,home,3.5,26.189937854653024,21.10304139359738,True,False,False
+131,2011-11-13,Philadelphia Eagles,Arizona Cardinals,47,21,21,Philadelphia Eagles -13.0,home,13.0,25.941212571898653,22.069654343843553,False,False,True
+132,2011-11-13,Dallas Cowboys,Buffalo Bills,49,44,7,Dallas Cowboys -4.5,home,4.5,27.17842322970357,25.74775840682286,True,True,False
+133,2011-11-13,Cincinnati Bengals,Pittsburgh Steelers,40,24,24,Pittsburgh Steelers -4.0,away,4.0,21.598056261744873,26.71651407807559,True,False,False
+134,2011-11-13,Indianapolis Colts,Jacksonville Jaguars,37,17,17,Jacksonville Jaguars -3.0,away,3.0,22.64491304937531,22.20000934846854,False,True,True
+136,2011-11-13,Miami Dolphins,Washington Redskins,38,20,9,Miami Dolphins -4.0,home,4.0,24.8012247415574,21.514480725544125,False,True,False
+138,2011-11-13,Kansas City Chiefs,Denver Broncos,42,17,17,Kansas City Chiefs -3.5,home,3.5,24.934239296740905,22.010384358141494,False,False,True
+140,2011-11-13,Carolina Panthers,Tennessee Titans,47,30,30,Carolina Panthers -3.5,home,3.5,26.74464948509211,23.233492956898417,True,False,False
+146,2011-11-17,Denver Broncos,New York Jets,38,17,13,New York Jets -6.5,away,6.5,20.588991663346157,24.101656789460336,False,False,True
+149,2011-11-20,Miami Dolphins,Buffalo Bills,44,35,8,Miami Dolphins -3.0,home,3.0,23.957963888374863,22.75638565347286,False,True,False
+151,2011-11-20,Detroit Lions,Carolina Panthers,47,49,35,Detroit Lions -7.0,home,7.0,24.21167032896849,25.58382921106886,True,False,False
+152,2011-11-20,Washington Redskins,Dallas Cowboys,43,27,27,Dallas Cowboys -7.0,away,7.0,22.67877386755233,28.71361493103741,True,False,True
+156,2011-11-20,Atlanta Falcons,Tennessee Titans,44,23,17,Atlanta Falcons -6.5,home,6.5,27.906829697675377,23.47093806045943,False,True,True
+159,2011-11-21,New England Patriots,Kansas City Chiefs,47,34,3,New England Patriots -17.0,home,17.0,27.782840005305154,23.24441869306817,False,True,False
+160,2011-11-24,Detroit Lions,Green Bay Packers,55,27,27,Green Bay Packers -4.5,away,4.5,26.347251930015354,28.060560056074724,True,False,True
+166,2011-11-27,Tennessee Titans,Tampa Bay Buccaneers,44,23,17,Tennessee Titans -3.0,home,3.0,26.397350985897347,21.663141313270263,False,True,True
+179,2011-12-04,Tampa Bay Buccaneers,Carolina Panthers,46,38,38,Carolina Panthers -2.5,away,2.5,23.015674741951905,24.95486442327342,True,False,True
+180,2011-12-04,New England Patriots,Indianapolis Colts,48,31,24,New England Patriots -20.5,home,20.5,26.489751412687013,22.172850441455523,True,True,True
+184,2011-12-04,Washington Redskins,New York Jets,38,34,34,New York Jets -3.0,away,3.0,23.36082864392317,24.416547548916586,True,True,True
+185,2011-12-04,Minnesota Vikings,Denver Broncos,37,35,35,Minnesota Vikings -1.5,home,1.5,23.203528231709868,24.090485486811886,True,True,True
+186,2011-12-04,Cleveland Browns,Baltimore Ravens,38,24,24,Baltimore Ravens -7.0,away,7.0,24.048822037840967,24.77673116355409,True,True,True
+190,2011-12-04,New Orleans Saints,Detroit Lions,54,31,17,New Orleans Saints -9.0,home,9.0,28.027292999178876,25.400364330842464,True,True,False
+191,2011-12-05,Jacksonville Jaguars,San Diego Chargers,39,38,38,San Diego Chargers -3.0,away,3.0,24.633252212616924,24.390014010945677,True,True,True
+195,2011-12-11,Cincinnati Bengals,Houston Texans,37,20,20,Cincinnati Bengals -3.0,home,3.0,22.960812396141527,23.70142383163631,True,True,True
+197,2011-12-11,Miami Dolphins,Philadelphia Eagles,44,26,26,Miami Dolphins -3.0,home,3.0,24.808493995293176,21.377418993586275,True,False,False
+198,2011-12-11,Jacksonville Jaguars,Tampa Bay Buccaneers,42,41,14,Tampa Bay Buccaneers -3.0,away,3.0,23.572799101136034,20.766769376373965,True,True,True
+199,2011-12-11,Detroit Lions,Minnesota Vikings,47,34,28,Detroit Lions -10.0,home,10.0,27.087891895629713,24.452377183037534,True,True,True
+203,2011-12-11,Arizona Cardinals,San Francisco 49ers,40,21,19,San Francisco 49ers -3.5,away,3.5,22.00709079990947,23.92799547361949,True,False,True
+206,2011-12-11,Dallas Cowboys,New York Giants,50,37,37,Dallas Cowboys -4.5,home,4.5,27.910423589405184,27.195135903587044,True,True,True
+207,2011-12-12,Seattle Seahawks,St. Louis Rams,37,30,13,Seattle Seahawks -9.5,home,9.5,25.029811423367576,20.26217685549593,True,True,False
+208,2011-12-15,Atlanta Falcons,Jacksonville Jaguars,42,41,14,Atlanta Falcons -13.5,home,13.5,28.051038393700296,24.11563365812902,True,True,False
+211,2011-12-18,New York Giants,Washington Redskins,46,23,23,New York Giants -6.0,home,6.0,28.157954453876503,26.874211109269403,True,True,True
+217,2011-12-18,Minnesota Vikings,New Orleans Saints,53,42,42,New Orleans Saints -7.5,away,7.5,24.49775007698409,31.69349075698053,True,False,True
+225,2011-12-24,Buffalo Bills,Denver Broncos,43,40,14,Denver Broncos -3.0,away,3.0,24.829963964367074,24.343401112915014,True,True,True
+226,2011-12-24,Tennessee Titans,Jacksonville Jaguars,38,23,17,Tennessee Titans -8.5,home,8.5,24.762222290430845,21.22107978981996,True,True,True
+232,2011-12-24,Kansas City Chiefs,Oakland Raiders,43,16,16,Kansas City Chiefs -3.0,home,3.0,25.315221408527755,24.41971873156846,False,True,True
+234,2011-12-24,Washington Redskins,Minnesota Vikings,43,33,33,Washington Redskins -6.0,home,6.0,26.38795909615667,23.141632705211755,True,False,True
+235,2011-12-24,Detroit Lions,San Diego Chargers,53,38,10,San Diego Chargers -1.0,away,1.0,26.729994556412787,29.259863602291773,False,False,False
+237,2011-12-24,Seattle Seahawks,San Francisco 49ers,37,19,19,San Francisco 49ers -2.5,away,2.5,23.92924930210156,23.128982131143246,True,True,True
+239,2011-12-26,New Orleans Saints,Atlanta Falcons,52,45,16,New Orleans Saints -7.0,home,7.0,32.05106442261236,27.245907310276397,True,True,False
+242,2012-01-01,Philadelphia Eagles,Washington Redskins,44,34,10,Philadelphia Eagles -7.0,home,7.0,23.64212701782082,23.247212346295097,True,True,False
+243,2012-01-01,New England Patriots,Buffalo Bills,50,49,21,New England Patriots -10.0,home,10.0,30.538847121231832,26.42377695232893,True,True,False
+244,2012-01-01,Houston Texans,Tennessee Titans,38,23,23,Tennessee Titans -2.0,away,2.0,23.59139536536066,25.589431994314232,True,False,True
+246,2012-01-01,Jacksonville Jaguars,Indianapolis Colts,37,19,13,Jacksonville Jaguars -3.0,home,3.0,21.613979841655485,24.12189278061161,False,False,False
+249,2012-01-01,Oakland Raiders,San Diego Chargers,48,38,38,Oakland Raiders -3.0,home,3.0,25.146471842397823,29.177008679054182,True,False,True
+251,2012-01-01,Denver Broncos,Kansas City Chiefs,37,7,7,Denver Broncos -2.0,home,2.0,22.783757515833116,26.369663423699205,False,False,True
+252,2012-01-01,Cincinnati Bengals,Baltimore Ravens,38,24,24,Baltimore Ravens -2.5,away,2.5,20.201869741845197,23.791709418852648,True,False,False
+253,2012-01-01,Cleveland Browns,Pittsburgh Steelers,33,13,13,Pittsburgh Steelers -7.0,away,7.0,21.436082885596093,25.55551953316237,False,False,True
+255,2012-01-01,New York Giants,Dallas Cowboys,47,31,14,New York Giants -3.0,home,3.0,27.556951551215704,26.686843548474734,False,True,False
+90,2012-10-15,San Diego Chargers,Denver Broncos,47,35,35,Pick,home,0.0,24.272681459269208,26.57559164801729,True,False,False
+95,2012-10-21,Houston Texans,Baltimore Ravens,47,43,13,Houston Texans -6.5,home,6.5,26.24040164198273,28.575090421811737,True,False,False
+97,2012-10-21,Carolina Panthers,Dallas Cowboys,45,19,19,Dallas Cowboys -2.5,away,2.5,24.96080702628722,25.99514809206674,False,True,True
+100,2012-10-21,Oakland Raiders,Jacksonville Jaguars,44,26,23,Oakland Raiders -6.0,home,6.0,26.343588319591724,20.212843603931667,True,True,False
+101,2012-10-21,New England Patriots,New York Jets,47,29,26,New England Patriots -10.5,home,10.5,27.872318851514343,23.469173009475412,True,True,True
+105,2012-10-28,Pittsburgh Steelers,Washington Redskins,44,27,12,Pittsburgh Steelers -4.5,home,4.5,25.51803007456737,23.40094259111629,False,True,False
+120,2012-11-04,Houston Texans,Buffalo Bills,48,21,9,Houston Texans -11.5,home,11.5,28.287454889435892,23.190990059192753,False,True,False
+125,2012-11-04,Jacksonville Jaguars,Detroit Lions,44,31,31,Detroit Lions -6.0,away,6.0,18.93079131774604,25.52466398815892,True,False,False
+126,2012-11-04,Washington Redskins,Carolina Panthers,48,21,21,Washington Redskins -3.0,home,3.0,24.910557534280684,22.972228273623628,True,False,True
+128,2012-11-04,Seattle Seahawks,Minnesota Vikings,38,30,20,Seattle Seahawks -4.0,home,4.0,24.889836215650174,22.68637703234606,True,True,False
+129,2012-11-04,New York Giants,Pittsburgh Steelers,47,24,24,New York Giants -3.5,home,3.5,24.042420452066295,28.53836035163013,True,False,True
+131,2012-11-05,New Orleans Saints,Philadelphia Eagles,52,28,13,New Orleans Saints -3.0,home,3.0,28.7222694229878,26.863380449238853,False,True,False
+132,2012-11-08,Jacksonville Jaguars,Indianapolis Colts,43,27,27,Indianapolis Colts -3.5,away,3.5,21.925366157877797,27.82227476110885,True,False,False
+134,2012-11-11,New England Patriots,Buffalo Bills,54,37,31,New England Patriots -13.5,home,13.5,29.70534961785274,23.77305212431102,False,True,True
+135,2012-11-11,Carolina Panthers,Denver Broncos,47,36,36,Denver Broncos -4.0,away,4.0,24.430797521783884,26.97721459348505,True,False,True
+137,2012-11-11,Tampa Bay Buccaneers,San Diego Chargers,47,34,24,Tampa Bay Buccaneers -3.0,home,3.0,27.00585506075427,23.26838282350301,True,True,True
+140,2012-11-11,Minnesota Vikings,Detroit Lions,45,34,24,Detroit Lions -3.0,away,3.0,22.40124035527059,28.68638609882828,True,False,False
+144,2012-11-11,Chicago Bears,Houston Texans,40,13,13,Chicago Bears -1.0,home,1.0,22.44991739590719,25.29344543577345,False,False,True
+151,2012-11-18,Houston Texans,Jacksonville Jaguars,40,43,37,Houston Texans -15.5,home,15.5,24.145306571181063,22.10150068713171,True,True,True
+155,2012-11-18,Oakland Raiders,New Orleans Saints,56,38,38,New Orleans Saints -6.5,away,6.5,25.706723138410272,28.519642762623263,False,False,True
+160,2012-11-22,Detroit Lions,Houston Texans,49,34,34,Houston Texans -4.0,away,4.0,26.124734992379224,26.908955520523534,True,True,True
+163,2012-11-25,Chicago Bears,Minnesota Vikings,39,28,10,Chicago Bears -6.5,home,6.5,19.94082305175413,22.106833310457695,False,False,False
+164,2012-11-25,Tampa Bay Buccaneers,Atlanta Falcons,51,24,24,Atlanta Falcons -1.5,away,1.5,25.728932745829734,28.32340458662184,False,False,False
+167,2012-11-25,Kansas City Chiefs,Denver Broncos,42,17,17,Denver Broncos -10.5,away,10.5,20.915265304248877,26.25227073466683,False,False,True
+171,2012-11-25,San Diego Chargers,Baltimore Ravens,47,16,16,Baltimore Ravens -1.0,away,1.0,23.833084980015755,22.666525957038868,True,True,True
+180,2012-12-02,Green Bay Packers,Minnesota Vikings,47,23,14,Green Bay Packers -7.5,home,7.5,23.438459001658813,22.156758649919013,True,True,False
+181,2012-12-02,Tennessee Titans,Houston Texans,47,24,24,Houston Texans -7.0,away,7.0,22.44995966665585,25.951925695941846,True,False,True
+182,2012-12-02,Chicago Bears,Seattle Seahawks,37,23,23,Chicago Bears -3.5,home,3.5,20.66538428495949,25.276933559299067,True,False,True
+184,2012-12-02,Detroit Lions,Indianapolis Colts,51,35,35,Detroit Lions -7.0,home,7.0,27.177622848675746,28.18702801935611,True,True,True
+185,2012-12-02,New York Jets,Arizona Cardinals,36,7,6,New York Jets -6.0,home,6.0,23.397734024078304,22.481054887459933,False,True,True
+187,2012-12-02,Oakland Raiders,Cleveland Browns,39,20,20,Cleveland Browns -2.5,away,2.5,20.83691747002223,24.415035001032102,True,False,False
+188,2012-12-02,San Diego Chargers,Cincinnati Bengals,46,20,20,Cincinnati Bengals -2.5,away,2.5,21.560083101528704,24.42867858935422,True,False,False
+192,2012-12-06,Oakland Raiders,Denver Broncos,47,26,26,Denver Broncos -10.5,away,10.5,24.077035250604503,27.45373079541726,True,False,True
+195,2012-12-09,Cleveland Browns,Kansas City Chiefs,38,30,7,Cleveland Browns -7.0,home,7.0,23.809083195071196,21.813975558023536,False,True,False
+207,2012-12-10,New England Patriots,Houston Texans,51,42,14,New England Patriots -5.5,home,5.5,29.3966145556015,25.904831217052468,True,True,False
+216,2012-12-16,Atlanta Falcons,New York Giants,50,34,0,Pick,home,0.0,27.447250750513582,26.785589619362128,False,True,True
+220,2012-12-16,Oakland Raiders,Kansas City Chiefs,44,15,0,Oakland Raiders -4.5,home,4.5,26.40450163710632,24.64635460810232,False,True,False
+221,2012-12-16,Dallas Cowboys,Pittsburgh Steelers,46,27,24,Pittsburgh Steelers -2.5,away,2.5,25.544621255936143,22.96335580954667,True,True,True
+223,2012-12-17,Tennessee Titans,New York Jets,42,14,10,Tennessee Titans -1.0,home,1.0,21.947293663082185,21.215342264461075,False,True,False
+226,2012-12-23,Miami Dolphins,Buffalo Bills,43,24,10,Miami Dolphins -5.0,home,5.0,24.820616294530765,22.823931298495445,False,True,False
+230,2012-12-23,Houston Texans,Minnesota Vikings,43,23,23,Houston Texans -7.5,home,7.5,26.895689224030612,24.681147430358017,True,False,True
+231,2012-12-23,Kansas City Chiefs,Indianapolis Colts,41,20,20,Indianapolis Colts -6.0,away,6.0,22.99945702390142,24.517912446509477,False,False,True
+232,2012-12-23,Tampa Bay Buccaneers,St. Louis Rams,44,28,28,Tampa Bay Buccaneers -3.0,home,3.0,24.641708995724997,24.891681666258965,True,True,True
+241,2012-12-30,Atlanta Falcons,Tampa Bay Buccaneers,46,22,22,Atlanta Falcons -3.0,home,3.0,27.57771886330483,25.018006788665858,False,False,True
+247,2012-12-30,Detroit Lions,Chicago Bears,46,26,26,Chicago Bears -3.0,away,3.0,26.52395531046317,24.853769889955732,True,False,True
+250,2012-12-30,Denver Broncos,Kansas City Chiefs,41,38,3,Denver Broncos -17.0,home,17.0,26.14140054776871,22.490938320667006,True,True,False
+255,2012-12-30,Washington Redskins,Dallas Cowboys,49,28,18,Washington Redskins -3.0,home,3.0,27.362472601989044,28.764592407296323,False,False,False
+80,2013-10-13,Kansas City Chiefs,Oakland Raiders,41,24,7,Kansas City Chiefs -7.5,home,7.5,24.31623829725889,23.628591165956266,False,True,False
+81,2013-10-13,Cleveland Browns,Detroit Lions,44,31,31,Detroit Lions -2.5,away,2.5,24.726610169169902,24.677059974486646,True,True,True
+87,2013-10-13,Seattle Seahawks,Tennessee Titans,42,20,13,Seattle Seahawks -11.5,home,11.5,23.141350898793448,24.07593924022744,False,False,True
+88,2013-10-13,New England Patriots,New Orleans Saints,51,30,27,New England Patriots -2.5,home,2.5,24.87795845434004,26.872015311436204,True,False,False
+89,2013-10-13,San Francisco 49ers,Arizona Cardinals,40,32,20,San Francisco 49ers -10.5,home,10.5,21.445944342383022,22.230996329404867,True,False,False
+92,2013-10-17,Arizona Cardinals,Seattle Seahawks,41,34,34,Seattle Seahawks -4.5,away,4.5,23.231984874565313,24.919578078405934,True,False,True
+95,2013-10-20,Jacksonville Jaguars,San Diego Chargers,44,24,24,San Diego Chargers -7.0,away,7.0,21.721826349633414,27.288942696008874,True,False,True
+97,2013-10-20,Detroit Lions,Cincinnati Bengals,45,27,27,Detroit Lions -1.5,home,1.5,26.057963501866883,25.473052856666165,True,True,True
+98,2013-10-20,Carolina Panthers,St. Louis Rams,42,30,15,Carolina Panthers -7.0,home,7.0,27.27415273052906,21.82572735101374,True,True,False
+101,2013-10-20,Tennessee Titans,San Francisco 49ers,41,31,31,San Francisco 49ers -3.0,away,3.0,23.79570946384124,23.56030850357879,True,True,True
+103,2013-10-20,Green Bay Packers,Cleveland Browns,45,31,13,Green Bay Packers -9.5,home,9.5,25.635006279677064,25.303251955935565,False,True,False
+104,2013-10-20,Kansas City Chiefs,Houston Texans,38,17,16,Kansas City Chiefs -6.0,home,6.0,21.932194622056358,23.428718856624897,False,False,True
+108,2013-10-27,New England Patriots,Miami Dolphins,46,27,17,New England Patriots -5.5,home,5.5,24.101357603813433,22.818925716457542,False,True,False
+110,2013-10-27,Philadelphia Eagles,New York Giants,49,15,15,Philadelphia Eagles -5.5,home,5.5,25.32574152970877,22.518227953627438,True,False,True
+111,2013-10-27,New Orleans Saints,Buffalo Bills,48,35,17,New Orleans Saints -10.5,home,10.5,27.80961644894313,23.778658266945644,True,True,False
+128,2013-11-03,Oakland Raiders,Philadelphia Eagles,45,49,49,Oakland Raiders -1.0,home,1.0,20.896175931965068,23.991507324820123,False,False,True
+129,2013-11-03,New England Patriots,Pittsburgh Steelers,42,55,31,New England Patriots -5.5,home,5.5,22.799993573165597,25.263598614338424,True,False,False
+130,2013-11-03,Cleveland Browns,Baltimore Ravens,41,24,18,Baltimore Ravens -1.0,away,1.0,25.827751868798387,24.12736992156338,True,True,True
+132,2013-11-04,Green Bay Packers,Chicago Bears,50,27,27,Green Bay Packers -9.5,home,9.5,26.7707690202773,24.619537669880362,True,False,True
+135,2013-11-10,Tennessee Titans,Jacksonville Jaguars,42,29,29,Tennessee Titans -11.5,home,11.5,24.828034093894225,24.66844262019596,True,True,True
+136,2013-11-10,Pittsburgh Steelers,Buffalo Bills,42,23,10,Pittsburgh Steelers -2.5,home,2.5,23.14164380686615,23.812073523799278,False,False,False
+139,2013-11-10,Indianapolis Colts,St. Louis Rams,43,38,38,Indianapolis Colts -7.0,home,7.0,26.26144099358886,24.812851944121277,True,True,True
+142,2013-11-10,San Francisco 49ers,Carolina Panthers,43,10,10,San Francisco 49ers -5.5,home,5.5,25.414990216241925,26.149535835400698,False,True,True
+147,2013-11-14,Tennessee Titans,Indianapolis Colts,42,30,30,Indianapolis Colts -3.0,away,3.0,25.78734402134277,24.015315131206226,True,False,True
+148,2013-11-17,Pittsburgh Steelers,Detroit Lions,45,37,27,Detroit Lions -3.0,away,3.0,22.9576371866011,27.191801500034543,True,False,False
+152,2013-11-17,Cincinnati Bengals,Cleveland Browns,40,41,20,Cincinnati Bengals -4.5,home,4.5,25.303244089319318,23.511855752934608,True,True,False
+153,2013-11-17,Houston Texans,Oakland Raiders,41,28,28,Houston Texans -10.5,home,10.5,25.266383596248247,21.04868513325287,True,False,True
+157,2013-11-17,New York Giants,Green Bay Packers,41,27,13,New York Giants -3.0,home,3.0,23.638339088780384,23.419934991782505,False,True,False
+159,2013-11-17,Seattle Seahawks,Minnesota Vikings,45,41,20,Seattle Seahawks -13.0,home,13.0,24.989442818398835,21.885425418150284,True,True,False
+163,2013-11-24,St. Louis Rams,Chicago Bears,46,42,21,St. Louis Rams -1.5,home,1.5,24.134131108558364,27.293328673606247,True,False,False
+169,2013-11-24,Detroit Lions,Tampa Bay Buccaneers,48,24,24,Detroit Lions -7.0,home,7.0,28.214394152860635,24.31426357294925,True,False,True
+171,2013-11-24,Oakland Raiders,Tennessee Titans,42,23,23,Tennessee Titans -2.0,away,2.0,21.180812377006905,25.86687668164913,True,False,False
+173,2013-11-24,New York Giants,Dallas Cowboys,44,24,24,New York Giants -2.5,home,2.5,24.006857394089977,21.99511759036018,True,False,True
+180,2013-12-01,New York Jets,Miami Dolphins,39,23,23,New York Jets -2.0,home,2.0,21.167885262452103,24.8599456723395,True,False,True
+181,2013-12-01,Indianapolis Colts,Tennessee Titans,46,22,14,Indianapolis Colts -3.5,home,3.5,24.82627569577875,28.36042923340066,False,False,False
+182,2013-12-01,Houston Texans,New England Patriots,49,34,34,New England Patriots -6.5,away,6.5,25.53102984690098,27.688965298600607,True,False,True
+185,2013-12-01,Minnesota Vikings,Chicago Bears,48,23,20,Minnesota Vikings -1.0,home,1.0,25.46487544157192,27.66720404241928,False,False,False
+186,2013-12-01,Buffalo Bills,Atlanta Falcons,48,34,34,Buffalo Bills -4.5,home,4.5,25.68588541075477,24.46440316632335,True,True,True
+187,2013-12-01,San Francisco 49ers,St. Louis Rams,40,23,13,San Francisco 49ers -7.5,home,7.5,23.114337687686167,22.55682059824953,False,True,False
+189,2013-12-01,Kansas City Chiefs,Denver Broncos,49,35,35,Denver Broncos -6.0,away,6.0,23.230031685543768,27.55164745466926,True,False,True
+190,2013-12-01,Washington Redskins,New York Giants,45,24,24,Washington Redskins -1.0,home,1.0,24.413367379717535,23.743176138217216,True,True,True
+203,2013-12-08,San Diego Chargers,New York Giants,47,37,14,San Diego Chargers -4.0,home,4.0,26.60137227961867,24.006388199963137,True,True,False
+207,2013-12-09,Chicago Bears,Dallas Cowboys,49,45,28,Chicago Bears -1.5,home,1.5,25.886719646491883,24.146674466527827,True,True,True
+211,2013-12-15,Indianapolis Colts,Houston Texans,47,25,3,Indianapolis Colts -6.0,home,6.0,26.4636072668181,25.546906146833678,False,True,False
+214,2013-12-15,New York Giants,Seattle Seahawks,43,23,23,Seattle Seahawks -9.5,away,9.5,22.8732726256831,28.412855595781245,True,False,True
+216,2013-12-15,Atlanta Falcons,Washington Redskins,50,27,26,Atlanta Falcons -5.5,home,5.5,26.585855662596153,23.218179996830827,False,True,True
+218,2013-12-15,Oakland Raiders,Kansas City Chiefs,44,56,56,Kansas City Chiefs -6.0,away,6.0,27.67377923503682,26.487701553974972,True,True,True
+219,2013-12-15,St. Louis Rams,New Orleans Saints,47,27,16,New Orleans Saints -7.0,away,7.0,24.87503384015616,27.410073322589124,False,False,True
+225,2013-12-22,Houston Texans,Denver Broncos,53,37,37,Denver Broncos -9.5,away,9.5,24.93824927348325,28.00825812610937,False,False,True
+226,2013-12-22,Jacksonville Jaguars,Tennessee Titans,44,20,20,Tennessee Titans -4.0,away,4.0,23.862803909573337,25.732292205483684,False,False,True
+227,2013-12-22,Buffalo Bills,Miami Dolphins,42,19,0,Miami Dolphins -1.5,away,1.5,22.18310552047628,26.35492751150204,False,False,False
+233,2013-12-22,Detroit Lions,New York Giants,47,23,23,Detroit Lions -9.0,home,9.0,24.955741762204962,23.75233386346075,False,True,True
+236,2013-12-22,Baltimore Ravens,New England Patriots,45,41,41,Baltimore Ravens -1.5,home,1.5,25.85303263066218,27.810930329351443,True,False,True
+238,2013-12-22,Philadelphia Eagles,Chicago Bears,53,54,11,Philadelphia Eagles -3.0,home,3.0,28.608582478116773,27.518288524525218,True,True,False
+239,2013-12-23,San Francisco 49ers,Atlanta Falcons,46,34,24,San Francisco 49ers -14.5,home,14.5,26.0784052897291,23.72174876632827,True,True,True
+242,2013-12-29,Pittsburgh Steelers,Cleveland Browns,44,20,7,Pittsburgh Steelers -9.5,home,9.5,26.49634882523752,26.439433266925818,False,True,False
+244,2013-12-29,Miami Dolphins,New York Jets,41,20,20,Miami Dolphins -7.0,home,7.0,23.21471532638764,24.144381242840012,False,True,True
+247,2013-12-29,Atlanta Falcons,Carolina Panthers,46,21,21,Carolina Panthers -5.5,away,5.5,25.26807531341236,27.745207366136015,False,False,True
+249,2013-12-29,Arizona Cardinals,San Francisco 49ers,41,23,23,Arizona Cardinals -3.0,home,3.0,24.973755495108783,25.212455114809977,True,True,True
+252,2013-12-29,New England Patriots,Buffalo Bills,46,34,20,New England Patriots -7.0,home,7.0,28.316941769468908,23.634694214589796,True,True,False
+253,2013-12-29,Seattle Seahawks,St. Louis Rams,41,27,9,Seattle Seahawks -12.5,home,12.5,23.552677160452497,22.547128737138,False,True,False
+78,2014-10-12,Cleveland Browns,Pittsburgh Steelers,46,31,10,Cleveland Browns -1.5,home,1.5,25.598596250486608,26.099677725797576,False,False,False
+79,2014-10-12,Buffalo Bills,New England Patriots,44,37,37,Buffalo Bills -1.0,home,1.0,23.653331627067402,23.99566539780251,True,True,True
+82,2014-10-12,Tampa Bay Buccaneers,Baltimore Ravens,44,48,48,Baltimore Ravens -3.0,away,3.0,24.383759197690914,28.281957700310414,True,False,False
+86,2014-10-12,Arizona Cardinals,Washington Redskins,47,30,20,Arizona Cardinals -5.5,home,5.5,27.41128580388476,26.775950915371457,True,True,False
+87,2014-10-12,Atlanta Falcons,Chicago Bears,55,27,27,Atlanta Falcons -3.5,home,3.5,28.33281566035766,26.578990909726905,True,False,True
+97,2014-10-19,Green Bay Packers,Carolina Panthers,49,38,17,Green Bay Packers -6.5,home,6.5,27.491143310742835,25.531235165710246,True,True,False
+98,2014-10-19,Detroit Lions,New Orleans Saints,46,24,23,Detroit Lions -1.5,home,1.5,23.384599165084232,28.182088226856365,True,False,True
+101,2014-10-19,San Diego Chargers,Kansas City Chiefs,46,23,23,San Diego Chargers -3.0,home,3.0,28.01005611597681,26.11818241816256,True,False,True
+103,2014-10-19,Dallas Cowboys,New York Giants,47,31,21,Dallas Cowboys -5.5,home,5.5,28.37867930592015,26.342594427076172,True,True,False
+104,2014-10-19,Denver Broncos,San Francisco 49ers,48,42,17,Denver Broncos -6.5,home,6.5,26.37753629042102,24.487571180871132,True,True,False
+106,2014-10-23,Denver Broncos,San Diego Chargers,51,35,21,Denver Broncos -9.0,home,9.0,27.61388259052323,26.18755742888869,True,True,False
+109,2014-10-26,New York Jets,Buffalo Bills,40,43,43,New York Jets -3.0,home,3.0,22.20414967073794,23.512618908726356,True,True,True
+118,2014-10-26,Pittsburgh Steelers,Indianapolis Colts,48,51,34,Indianapolis Colts -4.5,away,4.5,23.004148892046572,25.67021984950502,True,False,True
+119,2014-10-26,New Orleans Saints,Green Bay Packers,55,44,23,New Orleans Saints -2.0,home,2.0,29.37319695670926,27.80956393943083,True,True,False
+122,2014-11-02,Miami Dolphins,San Diego Chargers,45,37,0,Miami Dolphins -3.0,home,3.0,25.252376417106795,25.485077274916527,False,False,False
+125,2014-11-02,Kansas City Chiefs,New York Jets,41,24,10,Kansas City Chiefs -8.5,home,8.5,27.14723912562995,19.27595985949857,False,True,False
+128,2014-11-02,Dallas Cowboys,Arizona Cardinals,45,28,28,Dallas Cowboys -1.5,home,1.5,28.441206536717342,25.79370649647263,True,False,False
+129,2014-11-02,San Francisco 49ers,St. Louis Rams,44,13,13,San Francisco 49ers -10.5,home,10.5,26.463456793870957,24.254272843663614,False,False,True
+130,2014-11-02,New England Patriots,Denver Broncos,52,43,21,Denver Broncos -3.0,away,3.0,25.712399745742403,27.736855518963786,True,False,True
+134,2014-11-06,Cincinnati Bengals,Cleveland Browns,46,24,24,Cincinnati Bengals -6.5,home,6.5,23.274139459259736,23.38911809771062,True,True,True
+135,2014-11-09,Buffalo Bills,Kansas City Chiefs,42,17,17,Buffalo Bills -1.5,home,1.5,21.11772513391961,25.676277687761083,False,False,True
+137,2014-11-09,New York Jets,Pittsburgh Steelers,47,20,13,Pittsburgh Steelers -4.5,away,4.5,23.801574412348963,27.55024747465043,False,False,True
+140,2014-11-09,Tampa Bay Buccaneers,Atlanta Falcons,47,27,27,Atlanta Falcons -3.0,away,3.0,23.95725122143733,25.201829289958305,True,True,True
+152,2014-11-16,New York Giants,San Francisco 49ers,44,16,16,San Francisco 49ers -4.0,away,4.0,24.881140247506135,26.738518021084378,False,False,True
+158,2014-11-16,Arizona Cardinals,Detroit Lions,41,14,6,Arizona Cardinals -1.0,home,1.0,26.136564683306617,25.34896124851959,False,True,False
+161,2014-11-20,Oakland Raiders,Kansas City Chiefs,42,24,20,Kansas City Chiefs -7.0,away,7.0,19.973918540060776,24.359126888603804,True,False,True
+166,2014-11-23,Chicago Bears,Tampa Bay Buccaneers,46,21,13,Chicago Bears -4.5,home,4.5,23.447532761237134,24.09106955150449,False,False,False
+169,2014-11-23,San Diego Chargers,St. Louis Rams,43,27,24,San Diego Chargers -5.0,home,5.0,23.273630405614476,21.854514930052833,True,True,True
+171,2014-11-23,San Francisco 49ers,Washington Redskins,44,17,13,San Francisco 49ers -9.5,home,9.5,24.167340647765002,24.53265556144507,False,False,True
+174,2014-11-24,Buffalo Bills,New York Jets,42,38,3,Buffalo Bills -2.5,home,2.5,23.955768147377583,23.691099380824213,False,True,False
+178,2014-11-27,San Francisco 49ers,Seattle Seahawks,40,19,19,San Francisco 49ers -1.5,home,1.5,21.26869646006095,24.00352560339178,False,False,True
+181,2014-11-30,Minnesota Vikings,Carolina Panthers,41,31,13,Minnesota Vikings -2.5,home,2.5,24.313810804722632,21.815324205799612,True,True,False
+182,2014-11-30,Baltimore Ravens,San Diego Chargers,45,34,34,Baltimore Ravens -6.5,home,6.5,25.571420978344175,24.605161791468376,True,True,True
+184,2014-11-30,Houston Texans,Tennessee Titans,43,45,21,Houston Texans -7.0,home,7.0,26.611997077890877,25.0279039733839,True,True,False
+185,2014-11-30,Indianapolis Colts,Washington Redskins,49,49,27,Indianapolis Colts -8.5,home,8.5,28.293269580837354,25.082869231781224,True,True,False
+187,2014-11-30,Jacksonville Jaguars,New York Giants,44,25,24,New York Giants -3.0,away,3.0,25.13260597067035,27.888780121906862,True,False,True
+188,2014-11-30,Atlanta Falcons,Arizona Cardinals,45,29,18,Arizona Cardinals -1.5,away,1.5,26.046530656420423,26.636911343422916,True,False,True
+191,2014-12-01,New York Jets,Miami Dolphins,41,16,16,Miami Dolphins -7.0,away,7.0,20.990278954470785,25.503095715451614,False,False,True
+197,2014-12-07,Cleveland Browns,Indianapolis Colts,50,25,25,Indianapolis Colts -3.0,away,3.0,24.835485569354027,23.830536839991083,True,True,True
+198,2014-12-07,Washington Redskins,St. Louis Rams,44,24,24,St. Louis Rams -3.0,away,3.0,22.05322294172455,25.036808423205933,True,False,True
+201,2014-12-07,Jacksonville Jaguars,Houston Texans,42,27,27,Houston Texans -6.5,away,6.5,23.210342998700984,26.822085966598433,True,False,True
+202,2014-12-07,Denver Broncos,Buffalo Bills,47,24,17,Denver Broncos -9.5,home,9.5,26.512768592572332,22.664710526518498,False,True,True
+204,2014-12-07,Oakland Raiders,San Francisco 49ers,40,24,13,San Francisco 49ers -9.0,away,9.0,20.75846623888456,23.046849220893478,False,False,True
+205,2014-12-07,Philadelphia Eagles,Seattle Seahawks,48,24,24,Seattle Seahawks -2.0,away,2.0,23.270439132288978,25.379389480790778,True,False,False
+206,2014-12-07,San Diego Chargers,New England Patriots,54,23,23,New England Patriots -4.0,away,4.0,24.628248733718788,28.752783256795688,True,False,False
+207,2014-12-08,Green Bay Packers,Atlanta Falcons,54,43,37,Green Bay Packers -13.5,home,13.5,28.66591749921067,25.848392273909774,True,True,True
+208,2014-12-11,St. Louis Rams,Arizona Cardinals,40,12,12,St. Louis Rams -4.5,home,4.5,26.195063905933576,25.918520697722975,False,True,True
+211,2014-12-14,Cleveland Browns,Cincinnati Bengals,44,30,30,Cleveland Browns -1.0,home,1.0,23.24175567386542,25.396658457807447,True,False,True
+213,2014-12-14,Indianapolis Colts,Houston Texans,49,17,10,Indianapolis Colts -6.5,home,6.5,25.322611205715035,27.694966775145687,False,False,False
+214,2014-12-14,New York Giants,Washington Redskins,47,24,13,New York Giants -6.5,home,6.5,28.06310748927809,21.351924951657892,False,True,True
+217,2014-12-14,Carolina Panthers,Tampa Bay Buccaneers,41,19,17,Carolina Panthers -3.0,home,3.0,25.187456889698993,22.20529634320217,False,True,True
+223,2014-12-15,Chicago Bears,New Orleans Saints,53,31,31,New Orleans Saints -3.0,away,3.0,26.93185320780165,27.604719151742998,True,True,True
+224,2014-12-18,Jacksonville Jaguars,Tennessee Titans,39,21,13,Jacksonville Jaguars -4.5,home,4.5,23.212379615261305,23.234794372659984,False,False,False
+226,2014-12-20,San Francisco 49ers,San Diego Chargers,40,38,38,San Francisco 49ers -1.5,home,1.5,22.820265271463956,26.78273448383407,True,False,True
+228,2014-12-21,Pittsburgh Steelers,Kansas City Chiefs,49,20,12,Pittsburgh Steelers -2.5,home,2.5,29.32281406725347,24.570535783011856,False,True,True
+229,2014-12-21,Houston Texans,Baltimore Ravens,42,25,13,Baltimore Ravens -6.5,away,6.5,26.547222344811715,27.961247331577503,False,False,True
+233,2014-12-21,Chicago Bears,Detroit Lions,44,20,20,Detroit Lions -10.0,away,10.0,20.759081974546664,25.943566589181295,False,False,True
+235,2014-12-21,St. Louis Rams,New York Giants,43,37,37,St. Louis Rams -6.5,home,6.5,25.2572052542588,25.340657085206914,True,True,True
+236,2014-12-21,Oakland Raiders,Buffalo Bills,42,26,24,Buffalo Bills -6.5,away,6.5,21.32062291741495,22.9660750826512,True,False,True
+237,2014-12-21,Dallas Cowboys,Indianapolis Colts,54,42,7,Dallas Cowboys -3.0,home,3.0,24.963032712383153,26.4294566025105,True,False,False
+245,2014-12-28,Baltimore Ravens,Cleveland Browns,39,20,10,Baltimore Ravens -13.5,home,13.5,25.602896971924316,20.79630502411904,False,True,True
+246,2014-12-28,Kansas City Chiefs,San Diego Chargers,42,19,7,Kansas City Chiefs -2.5,home,2.5,25.002421567311302,25.5108293938719,False,False,False
+77,2015-10-15,New Orleans Saints,Atlanta Falcons,51,31,21,Atlanta Falcons -3.0,away,3.0,26.825588625452614,30.018691352435347,True,False,False
+80,2015-10-18,Cleveland Browns,Denver Broncos,42,26,26,Denver Broncos -3.5,away,3.5,24.78119056360535,25.493591758582404,True,True,True
+83,2015-10-18,Minnesota Vikings,Kansas City Chiefs,43,16,10,Minnesota Vikings -3.5,home,3.5,24.17447544021602,22.900999676960247,False,True,False
+85,2015-10-18,Pittsburgh Steelers,Arizona Cardinals,45,25,13,Arizona Cardinals -3.5,away,3.5,24.652867141301137,23.858746393637077,False,True,True
+88,2015-10-18,San Francisco 49ers,Baltimore Ravens,43,25,20,Baltimore Ravens -2.0,away,2.0,25.29393657476146,27.872244102104997,True,False,False
+89,2015-10-18,Indianapolis Colts,New England Patriots,54,34,34,New England Patriots -9.5,away,9.5,26.57156897827515,30.310476664109657,True,False,True
+95,2015-10-25,Tennessee Titans,Atlanta Falcons,47,10,10,Atlanta Falcons -6.0,away,6.0,22.3900425448619,27.823032680981115,False,False,True
+105,2015-10-29,New England Patriots,Miami Dolphins,50,36,7,New England Patriots -7.5,home,7.5,27.797794841364475,22.738128639180385,False,True,False
+106,2015-11-01,Kansas City Chiefs,Detroit Lions,45,45,10,Kansas City Chiefs -3.5,home,3.5,27.937540588191226,24.209650180281365,True,True,True
+107,2015-11-01,St. Louis Rams,San Francisco 49ers,39,27,6,St. Louis Rams -7.5,home,7.5,23.97137984000622,24.71817207237654,False,False,False
+110,2015-11-01,Baltimore Ravens,San Diego Chargers,51,29,26,Baltimore Ravens -3.5,home,3.5,25.827393536171698,28.05522149018124,True,False,True
+113,2015-11-01,Atlanta Falcons,Tampa Bay Buccaneers,48,23,23,Atlanta Falcons -7.0,home,7.0,25.03746733951221,25.077071418355093,False,True,True
+117,2015-11-01,Denver Broncos,Green Bay Packers,45,29,10,Green Bay Packers -2.5,away,2.5,24.828546652622407,25.479826405750977,False,False,True
+119,2015-11-05,Cincinnati Bengals,Cleveland Browns,45,31,10,Cincinnati Bengals -11.0,home,11.0,27.975835957112402,25.201408678984762,False,True,False
+124,2015-11-08,Pittsburgh Steelers,Oakland Raiders,48,38,35,Pittsburgh Steelers -4.5,home,4.5,23.7770120197548,25.98034528577288,True,False,True
+127,2015-11-08,Tampa Bay Buccaneers,New York Giants,49,32,32,New York Giants -1.0,away,1.0,28.13065333103217,26.5429599518798,True,False,True
+128,2015-11-08,San Francisco 49ers,Atlanta Falcons,44,17,16,Atlanta Falcons -7.5,away,7.5,22.346274824391305,26.124536700436707,False,False,True
+130,2015-11-08,Dallas Cowboys,Philadelphia Eagles,43,33,33,Philadelphia Eagles -3.0,away,3.0,24.96953314605649,26.59908837580067,True,False,True
+133,2015-11-15,St. Louis Rams,Chicago Bears,42,37,37,St. Louis Rams -6.5,home,6.5,23.543024391762806,26.14852759353098,True,False,True
+135,2015-11-15,Green Bay Packers,Detroit Lions,49,18,18,Green Bay Packers -10.5,home,10.5,25.34639312503017,25.413315702724212,False,True,True
+138,2015-11-15,Baltimore Ravens,Jacksonville Jaguars,47,22,22,Baltimore Ravens -5.0,home,5.0,26.33083262273987,24.90008803073549,False,True,True
+144,2015-11-15,Seattle Seahawks,Arizona Cardinals,44,39,39,Seattle Seahawks -3.0,home,3.0,24.217871335193088,25.98162151110889,True,False,True
+145,2015-11-16,Cincinnati Bengals,Houston Texans,47,10,10,Cincinnati Bengals -10.5,home,10.5,26.228163582450957,26.415877046827596,False,True,True
+150,2015-11-22,Atlanta Falcons,Indianapolis Colts,47,24,24,Atlanta Falcons -4.5,home,4.5,27.445459969356882,24.07416695489666,True,False,True
+153,2015-11-22,Houston Texans,New York Jets,40,24,17,New York Jets -3.0,away,3.0,26.358036844852485,26.000637222796193,True,True,True
+155,2015-11-22,San Diego Chargers,Kansas City Chiefs,45,33,33,Kansas City Chiefs -3.0,away,3.0,27.90094975668508,26.957004828763274,True,True,True
+162,2015-11-26,Green Bay Packers,Chicago Bears,44,17,17,Green Bay Packers -8.5,home,8.5,23.82020906894843,25.74930114045155,False,False,True
+165,2015-11-29,Cincinnati Bengals,St. Louis Rams,42,31,7,Cincinnati Bengals -8.5,home,8.5,23.18880826548065,20.442706072514028,False,True,False
+166,2015-11-29,New York Jets,Miami Dolphins,42,38,20,New York Jets -4.0,home,4.0,26.187954048434584,25.502398289149724,True,True,False
+172,2015-11-29,San Francisco 49ers,Arizona Cardinals,45,19,19,Arizona Cardinals -9.5,away,9.5,23.025045833175643,28.570121429540272,False,False,True
+176,2015-12-03,Detroit Lions,Green Bay Packers,46,27,27,Green Bay Packers -3.0,away,3.0,26.121539426521625,24.559833862885398,True,False,True
+179,2015-12-06,Chicago Bears,San Francisco 49ers,43,26,26,Chicago Bears -6.5,home,6.5,25.924390356159194,24.27551772932236,True,False,True
+182,2015-12-06,Tampa Bay Buccaneers,Atlanta Falcons,46,23,19,Tampa Bay Buccaneers -1.0,home,1.0,24.883824170239524,23.59691142889092,False,True,True
+185,2015-12-06,New York Giants,New York Jets,46,23,23,New York Jets -2.5,away,2.5,25.737869297262616,25.734980312198907,True,True,True
+189,2015-12-06,New England Patriots,Philadelphia Eagles,49,35,35,New England Patriots -8.0,home,8.0,27.424406001076306,25.595515074029095,True,False,True
+192,2015-12-10,Arizona Cardinals,Minnesota Vikings,46,23,20,Arizona Cardinals -8.5,home,8.5,28.168555626498588,23.54250283132638,False,True,True
+197,2015-12-13,Chicago Bears,Washington Redskins,43,24,24,Chicago Bears -3.5,home,3.5,23.40383310618291,23.42354400255561,True,True,True
+199,2015-12-13,Cincinnati Bengals,Pittsburgh Steelers,50,33,33,Cincinnati Bengals -2.5,home,2.5,25.81005681146209,27.74444024922647,True,False,True
+201,2015-12-13,Cleveland Browns,San Francisco 49ers,41,24,10,Cleveland Browns -1.5,home,1.5,22.73834708526873,25.221602538944396,False,False,False
+205,2015-12-13,Green Bay Packers,Dallas Cowboys,42,28,7,Green Bay Packers -6.5,home,6.5,23.458444344553406,20.91206491805918,False,True,False
+208,2015-12-17,St. Louis Rams,Tampa Bay Buccaneers,41,31,23,St. Louis Rams -2.5,home,2.5,22.639223418986326,27.44715303997215,True,False,False
+212,2015-12-20,Minnesota Vikings,Chicago Bears,43,38,17,Minnesota Vikings -5.5,home,5.5,24.96029824381435,27.02999804068638,True,False,False
+214,2015-12-20,New England Patriots,Tennessee Titans,46,33,16,New England Patriots -14.0,home,14.0,24.957758198177086,23.939734676627644,True,True,False
+219,2015-12-20,Pittsburgh Steelers,Denver Broncos,45,34,27,Pittsburgh Steelers -6.0,home,6.0,26.597083320694615,25.78858352443924,True,True,False
+220,2015-12-20,San Diego Chargers,Miami Dolphins,46,30,14,San Diego Chargers -1.5,home,1.5,23.078654898913953,23.00060717798511,False,True,False
+221,2015-12-20,San Francisco 49ers,Cincinnati Bengals,40,24,24,Cincinnati Bengals -5.5,away,5.5,23.53036800979901,26.935358870526677,True,False,True
+222,2015-12-20,Philadelphia Eagles,Arizona Cardinals,51,40,40,Arizona Cardinals -3.5,away,3.5,24.599275076242648,30.232351532253816,True,False,False
+223,2015-12-21,New Orleans Saints,Detroit Lions,51,35,35,New Orleans Saints -2.5,home,2.5,25.859578368372254,27.967289850410637,True,False,True
+227,2015-12-27,New York Jets,New England Patriots,45,26,20,New England Patriots -3.0,away,3.0,26.45530457817502,23.159711490994184,True,True,True
+229,2015-12-27,Tennessee Titans,Houston Texans,40,34,34,Houston Texans -3.5,away,3.5,23.24407208195911,24.032947485463524,True,True,True
+231,2015-12-27,Buffalo Bills,Dallas Cowboys,42,16,6,Buffalo Bills -6.5,home,6.5,25.217795648146637,22.356044643467627,False,True,False
+232,2015-12-27,Tampa Bay Buccaneers,Chicago Bears,45,26,26,Tampa Bay Buccaneers -3.0,home,3.0,27.09379904820385,24.60115864474694,True,False,True
+235,2015-12-27,New Orleans Saints,Jacksonville Jaguars,51,38,27,New Orleans Saints -3.0,home,3.0,27.857710005559284,27.762090673267718,True,True,False
+238,2015-12-27,Minnesota Vikings,New York Giants,44,49,17,Minnesota Vikings -7.0,home,7.0,26.368835955796236,26.869058206829386,True,False,False
+239,2015-12-28,Denver Broncos,Cincinnati Bengals,39,20,17,Denver Broncos -3.0,home,3.0,23.35788467891009,24.53942936774199,False,False,False
+240,2016-01-03,Buffalo Bills,New York Jets,42,22,17,New York Jets -3.0,away,3.0,24.80408722829951,27.13122060129622,False,False,True
+241,2016-01-03,Chicago Bears,Detroit Lions,45,24,24,Detroit Lions -1.0,away,1.0,24.259296386744374,25.883808213254262,True,False,False
+245,2016-01-03,Cincinnati Bengals,Baltimore Ravens,41,24,16,Cincinnati Bengals -9.5,home,9.5,25.01985158653258,24.68764707591811,False,True,True
+247,2016-01-03,Cleveland Browns,Pittsburgh Steelers,46,28,28,Pittsburgh Steelers -11.0,away,11.0,24.636211925067073,25.411973697142415,True,True,True
+249,2016-01-03,New York Giants,Philadelphia Eagles,51,35,35,New York Giants -5.0,home,5.0,25.619547200916305,25.286373098858817,False,True,True
+251,2016-01-03,Denver Broncos,San Diego Chargers,41,27,20,Denver Broncos -10.0,home,10.0,24.935259046970888,23.16592938747869,True,True,True
+80,2016-10-16,Tennessee Titans,Cleveland Browns,44,28,26,Tennessee Titans -7.5,home,7.5,24.56125253487449,24.9040117707141,True,False,True
+83,2016-10-16,Detroit Lions,Los Angeles Rams,44,31,28,Detroit Lions -2.5,home,2.5,26.507226408788014,26.003037561578104,True,True,False
+88,2016-10-16,Green Bay Packers,Dallas Cowboys,47,30,30,Green Bay Packers -5.0,home,5.0,24.62123623131469,28.10871744081179,True,False,True
+90,2016-10-16,Houston Texans,Indianapolis Colts,47,26,23,Houston Texans -3.0,home,3.0,24.94713072872135,24.987491766530255,True,False,False
+91,2016-10-17,Arizona Cardinals,New York Jets,45,28,3,Arizona Cardinals -7.0,home,7.0,24.5615411659017,24.845053999584284,False,False,False
+94,2016-10-23,Jacksonville Jaguars,Oakland Raiders,47,33,33,Jacksonville Jaguars -2.0,home,2.0,24.87863769800243,23.591598167054,True,True,True
+95,2016-10-23,Philadelphia Eagles,Minnesota Vikings,39,21,10,Minnesota Vikings -3.0,away,3.0,22.814578914332287,24.08450421500789,False,False,True
+97,2016-10-23,Miami Dolphins,Buffalo Bills,46,28,25,Buffalo Bills -2.5,away,2.5,23.017835246917983,23.723927352127582,True,False,True
+104,2016-10-23,Pittsburgh Steelers,New England Patriots,49,27,27,New England Patriots -7.5,away,7.5,24.081765446199398,25.861567462714206,True,False,True
+105,2016-10-23,Arizona Cardinals,Seattle Seahawks,43,6,6,Arizona Cardinals -2.5,home,2.5,23.97950705529786,26.759216760994605,False,False,True
+109,2016-10-30,Carolina Panthers,Arizona Cardinals,45,30,20,Carolina Panthers -2.5,home,2.5,24.278136334446287,27.14767864029085,True,False,False
+110,2016-10-30,Indianapolis Colts,Kansas City Chiefs,50,30,30,Kansas City Chiefs -3.0,away,3.0,26.782359446506774,27.393351985300193,True,True,True
+113,2016-10-30,Tampa Bay Buccaneers,Oakland Raiders,48,30,30,Tampa Bay Buccaneers -1.0,home,1.0,24.8423887037492,23.81116164978779,True,True,False
+115,2016-10-30,Houston Texans,Detroit Lions,46,20,13,Houston Texans -1.0,home,1.0,25.6896443776293,27.216095946720774,False,False,False
+116,2016-10-30,Denver Broncos,San Diego Chargers,43,27,19,Denver Broncos -3.5,home,3.5,24.02073867067756,23.20434255545158,True,True,False
+119,2016-10-31,Chicago Bears,Minnesota Vikings,39,20,10,Minnesota Vikings -4.5,away,4.5,24.398989234826757,22.586325814316446,False,True,True
+121,2016-11-06,Miami Dolphins,New York Jets,45,27,23,Miami Dolphins -3.5,home,3.5,22.69801003887802,22.569256768993068,True,True,False
+131,2016-11-06,Oakland Raiders,Denver Broncos,44,30,20,Oakland Raiders -1.0,home,1.0,24.686761997261897,23.51754980763028,True,True,True
+132,2016-11-07,Seattle Seahawks,Buffalo Bills,43,31,25,Seattle Seahawks -5.5,home,5.5,27.593543085472984,24.28738945158495,True,True,False
+133,2016-11-10,Baltimore Ravens,Cleveland Browns,44,28,7,Baltimore Ravens -7.5,home,7.5,25.32286388607263,25.16209134207039,False,True,False
+134,2016-11-13,Carolina Panthers,Kansas City Chiefs,44,20,20,Carolina Panthers -3.0,home,3.0,25.456680364820762,26.93804278231918,False,True,True
+137,2016-11-13,Jacksonville Jaguars,Houston Texans,42,24,24,Jacksonville Jaguars -3.0,home,3.0,24.270137739821568,22.92334418142609,True,True,True
+138,2016-11-13,Tampa Bay Buccaneers,Chicago Bears,45,36,10,Chicago Bears -2.5,away,2.5,24.825286035297566,28.991645816960933,True,False,False
+141,2016-11-13,Philadelphia Eagles,Atlanta Falcons,48,24,15,Philadelphia Eagles -2.0,home,2.0,21.755878652368914,27.157580916804122,False,False,False
+146,2016-11-14,New York Giants,Cincinnati Bengals,49,21,20,Cincinnati Bengals -1.0,away,1.0,25.649081710033666,28.06194911031598,False,False,False
+152,2016-11-20,Detroit Lions,Jacksonville Jaguars,47,26,19,Detroit Lions -5.5,home,5.5,27.377758791310267,25.642129152001175,False,True,False
+154,2016-11-20,Indianapolis Colts,Tennessee Titans,53,24,17,Indianapolis Colts -3.0,home,3.0,26.74753008857147,29.19581610232138,False,False,False
+160,2016-11-21,Oakland Raiders,Houston Texans,45,27,20,Oakland Raiders -6.5,home,6.5,24.97860973317499,24.152390929324387,True,True,False
+164,2016-11-27,Atlanta Falcons,Arizona Cardinals,49,38,19,Atlanta Falcons -4.0,home,4.0,27.594580495334412,26.216179068955178,True,True,False
+168,2016-11-27,Chicago Bears,Tennessee Titans,41,27,27,Tennessee Titans -6.5,away,6.5,23.879986479810153,25.785089170109828,True,False,True
+169,2016-11-27,New Orleans Saints,Los Angeles Rams,45,49,21,New Orleans Saints -8.0,home,8.0,26.248127268084538,23.95786093249675,True,True,False
+180,2016-12-04,New Orleans Saints,Detroit Lions,53,28,28,New Orleans Saints -6.5,home,6.5,26.73889031192482,25.590800177899617,False,True,True
+182,2016-12-04,Jacksonville Jaguars,Denver Broncos,38,20,20,Denver Broncos -3.5,away,3.5,22.783056835320753,22.523076435233143,True,True,True
+190,2016-12-04,Seattle Seahawks,Carolina Panthers,43,40,7,Seattle Seahawks -8.0,home,8.0,25.21814765959294,24.453030103487695,True,True,False
+195,2016-12-11,Carolina Panthers,San Diego Chargers,48,28,16,Carolina Panthers -1.0,home,1.0,25.07546796573267,26.39929934138571,False,False,False
+196,2016-12-11,Detroit Lions,Chicago Bears,42,20,17,Detroit Lions -7.5,home,7.5,26.15130033816517,23.540558446359444,False,True,True
+198,2016-12-11,Indianapolis Colts,Houston Texans,47,22,22,Indianapolis Colts -6.5,home,6.5,25.545256019753722,25.07677761308249,False,True,True
+200,2016-12-11,Cleveland Browns,Cincinnati Bengals,42,23,23,Cincinnati Bengals -4.5,away,4.5,19.312604906694652,23.382562056237127,True,False,True
+202,2016-12-11,San Francisco 49ers,New York Jets,42,23,23,San Francisco 49ers -3.0,home,3.0,21.832186254552468,23.877014850632698,True,False,True
+204,2016-12-11,Green Bay Packers,Seattle Seahawks,47,38,10,Seattle Seahawks -3.0,away,3.0,25.438109471632334,28.09667519873002,True,False,True
+208,2016-12-15,Seattle Seahawks,Los Angeles Rams,39,24,3,Seattle Seahawks -15.0,home,15.0,24.849362928808784,19.68831007829324,False,True,False
+210,2016-12-18,Baltimore Ravens,Philadelphia Eagles,41,27,26,Baltimore Ravens -5.0,home,5.0,28.22128854650059,24.5700551060275,True,True,True
+212,2016-12-18,Kansas City Chiefs,Tennessee Titans,43,19,19,Kansas City Chiefs -6.0,home,6.0,25.21202955200846,26.996691626134407,False,False,True
+213,2016-12-18,Buffalo Bills,Cleveland Browns,43,33,13,Buffalo Bills -10.5,home,10.5,23.672091659279232,20.181259656254216,True,True,False
+214,2016-12-18,New York Giants,Detroit Lions,42,17,6,New York Giants -4.0,home,4.0,22.203868666630243,25.665179614460122,False,False,False
+221,2016-12-18,Denver Broncos,New England Patriots,43,16,16,New England Patriots -3.0,away,3.0,23.100033213112123,27.27231839952194,False,False,False
+222,2016-12-18,Dallas Cowboys,Tampa Bay Buccaneers,47,26,20,Dallas Cowboys -7.0,home,7.0,25.034773457472355,27.47294943306374,False,False,True
+225,2016-12-24,Chicago Bears,Washington Redskins,49,41,41,Washington Redskins -3.0,away,3.0,26.7401917174156,27.896088537399596,True,True,True
+226,2016-12-24,Carolina Panthers,Atlanta Falcons,49,33,33,Atlanta Falcons -3.0,away,3.0,24.984083388000652,28.989777981915175,True,False,False
+243,2017-01-01,Indianapolis Colts,Jacksonville Jaguars,48,24,20,Indianapolis Colts -5.5,home,5.5,26.2291696403269,24.18102949185512,False,True,True
+255,2017-01-01,Detroit Lions,Green Bay Packers,50,31,31,Green Bay Packers -3.5,away,3.5,26.98867499058513,27.58337119818344,True,True,True
+79,2017-10-15,Minnesota Vikings,Green Bay Packers,46,23,10,Green Bay Packers -3.0,away,3.0,26.205647864740914,25.93445254783257,False,True,True
+80,2017-10-15,New York Jets,New England Patriots,48,24,24,New England Patriots -9.0,away,9.0,23.745706015233047,26.616101716484227,True,False,True
+82,2017-10-15,Baltimore Ravens,Chicago Bears,39,27,27,Baltimore Ravens -5.5,home,5.5,22.086031213178188,23.40882936230435,True,True,True
+87,2017-10-15,Kansas City Chiefs,Pittsburgh Steelers,46,19,19,Kansas City Chiefs -3.5,home,3.5,25.336133377388922,23.864435448201675,False,True,True
+91,2017-10-19,Oakland Raiders,Kansas City Chiefs,46,31,30,Kansas City Chiefs -3.0,away,3.0,22.61163514718896,26.874837983669824,True,False,False
+94,2017-10-22,Los Angeles Rams,Arizona Cardinals,45,33,0,Los Angeles Rams -3.0,home,3.0,24.994960600112016,25.498518303531487,False,False,False
+97,2017-10-22,Cleveland Browns,Tennessee Titans,42,12,12,Tennessee Titans -5.5,away,5.5,21.06450529432313,22.813519824153456,False,False,True
+99,2017-10-22,Chicago Bears,Carolina Panthers,39,17,3,Carolina Panthers -2.5,away,2.5,20.44898919520329,23.34186005894731,False,False,False
+100,2017-10-22,San Francisco 49ers,Dallas Cowboys,48,40,40,Dallas Cowboys -6.5,away,6.5,25.54251738516055,24.899541843452567,True,True,True
+101,2017-10-22,Pittsburgh Steelers,Cincinnati Bengals,40,29,14,Pittsburgh Steelers -4.0,home,4.0,23.451707227167997,24.728369494521747,True,False,False
+105,2017-10-23,Philadelphia Eagles,Washington Redskins,48,34,24,Philadelphia Eagles -5.0,home,5.0,25.42538906263912,26.184647002994424,True,False,False
+107,2017-10-29,Cleveland Browns,Minnesota Vikings,38,33,33,Minnesota Vikings -11.0,away,11.0,19.464714047105318,22.50699674877316,True,False,True
+114,2017-10-29,New Orleans Saints,Chicago Bears,46,20,12,New Orleans Saints -7.5,home,7.5,25.528086845864973,22.17827415354028,False,True,False
+116,2017-10-29,Washington Redskins,Dallas Cowboys,46,33,33,Dallas Cowboys -3.0,away,3.0,26.573037974181887,26.549434848947833,True,True,True
+121,2017-11-05,Philadelphia Eagles,Denver Broncos,41,51,23,Philadelphia Eagles -7.0,home,7.0,24.432089365046444,20.398620730510917,True,True,False
+124,2017-11-05,New Orleans Saints,Tampa Bay Buccaneers,54,30,10,New Orleans Saints -7.0,home,7.0,26.819179512172397,26.230822580562773,True,True,False
+126,2017-11-05,Houston Texans,Indianapolis Colts,45,20,20,Houston Texans -6.0,home,6.0,28.57425175012039,25.095413742949553,False,False,True
+127,2017-11-05,Seattle Seahawks,Washington Redskins,44,17,17,Seattle Seahawks -8.0,home,8.0,26.21433779460137,23.68889420107464,False,False,True
+128,2017-11-05,San Francisco 49ers,Arizona Cardinals,39,20,20,Arizona Cardinals -2.5,away,2.5,25.262499657904833,26.268317456113564,True,True,True
+130,2017-11-05,Miami Dolphins,Oakland Raiders,44,27,27,Oakland Raiders -3.0,away,3.0,23.12676358188378,25.753495045904764,True,False,True
+132,2017-11-09,Arizona Cardinals,Seattle Seahawks,40,22,22,Seattle Seahawks -6.0,away,6.0,25.08756374264545,27.394015435652655,True,False,True
+133,2017-11-12,Buffalo Bills,New Orleans Saints,48,47,47,New Orleans Saints -2.0,away,2.0,23.296794616905963,25.08783906398109,True,False,True
+137,2017-11-12,Detroit Lions,Cleveland Browns,42,38,24,Detroit Lions -10.5,home,10.5,24.387836090697153,23.549755189412636,True,True,False
+139,2017-11-12,Indianapolis Colts,Pittsburgh Steelers,47,20,20,Pittsburgh Steelers -10.5,away,10.5,24.137165041507732,27.562156450626173,False,False,True
+140,2017-11-12,Tampa Bay Buccaneers,New York Jets,44,15,10,Tampa Bay Buccaneers -1.0,home,1.0,24.08145349349828,24.334841819920893,False,False,False
+144,2017-11-12,Denver Broncos,New England Patriots,45,41,41,New England Patriots -7.0,away,7.0,21.2485883254807,27.467809193256343,True,False,True
+146,2017-11-16,Pittsburgh Steelers,Tennessee Titans,44,40,17,Pittsburgh Steelers -7.0,home,7.0,24.911808258023996,23.51132516855037,True,True,False
+151,2017-11-19,Cleveland Browns,Jacksonville Jaguars,37,19,19,Jacksonville Jaguars -7.5,away,7.5,19.94782783978101,24.143706056844366,True,False,True
+154,2017-11-19,Miami Dolphins,Tampa Bay Buccaneers,44,30,30,Tampa Bay Buccaneers -1.0,away,1.0,25.499169330635997,24.916785226830477,True,True,True
+160,2017-11-23,Detroit Lions,Minnesota Vikings,46,30,30,Minnesota Vikings -2.5,away,2.5,26.21692967353312,28.069819314064887,True,False,True
+164,2017-11-26,Kansas City Chiefs,Buffalo Bills,47,16,16,Kansas City Chiefs -8.5,home,8.5,25.137548405596313,21.846764877349074,True,False,True
+165,2017-11-26,Philadelphia Eagles,Chicago Bears,43,31,3,Philadelphia Eagles -14.0,home,14.0,24.83399987451996,22.24663611904132,False,True,False
+167,2017-11-26,Atlanta Falcons,Tampa Bay Buccaneers,47,34,20,Atlanta Falcons -10.5,home,10.5,27.253978769182268,22.81298897576241,True,True,False
+171,2017-11-26,Los Angeles Rams,New Orleans Saints,54,26,20,Los Angeles Rams -2.5,home,2.5,27.054371422431075,27.252902137957005,False,False,False
+176,2017-11-30,Dallas Cowboys,Washington Redskins,47,38,14,Washington Redskins -1.5,away,1.5,24.694504119020287,26.93553620275671,True,False,False
+177,2017-12-03,Chicago Bears,San Francisco 49ers,42,15,15,Chicago Bears -2.5,home,2.5,23.07478422363063,24.915041252199085,False,False,True
+184,2017-12-03,New York Jets,Kansas City Chiefs,44,38,31,Kansas City Chiefs -4.0,away,4.0,23.071345503576342,23.217240527178916,True,False,True
+185,2017-12-03,Baltimore Ravens,Detroit Lions,43,44,20,Baltimore Ravens -2.5,home,2.5,23.430832647813403,24.423061076754784,True,False,False
+191,2017-12-04,Cincinnati Bengals,Pittsburgh Steelers,42,23,23,Pittsburgh Steelers -4.5,away,4.5,26.014886030864773,27.20314030597213,True,True,True
+196,2017-12-10,Cleveland Browns,Green Bay Packers,38,27,27,Green Bay Packers -2.5,away,2.5,23.047151235496493,22.292748552753118,True,True,True
+197,2017-12-10,Cincinnati Bengals,Chicago Bears,40,33,33,Cincinnati Bengals -6.0,home,6.0,25.13215997779239,22.799579451156,True,False,True
+201,2017-12-10,Denver Broncos,New York Jets,40,23,0,New York Jets -1.0,away,1.0,23.40244331394683,25.482806382954454,False,False,False
+202,2017-12-10,Los Angeles Chargers,Washington Redskins,46,30,13,Los Angeles Chargers -6.0,home,6.0,28.918244276641435,25.39226254396651,False,True,False
+205,2017-12-10,Jacksonville Jaguars,Seattle Seahawks,41,30,24,Jacksonville Jaguars -3.0,home,3.0,22.264129432229712,23.846413834222474,True,False,False
+211,2017-12-17,Washington Redskins,Arizona Cardinals,40,20,15,Washington Redskins -4.0,home,4.0,22.522169865065237,23.692008144735922,False,False,False
+213,2017-12-17,Buffalo Bills,Miami Dolphins,39,24,16,Buffalo Bills -3.5,home,3.5,21.75647061776224,21.690270645081107,True,True,False
+216,2017-12-17,Minnesota Vikings,Cincinnati Bengals,42,34,7,Minnesota Vikings -12.5,home,12.5,29.0076439597946,24.598763153406438,False,True,False
+218,2017-12-17,Carolina Panthers,Green Bay Packers,46,31,24,Carolina Panthers -3.0,home,3.0,25.43452117319339,24.285955425363117,True,True,False
+223,2017-12-18,Tampa Bay Buccaneers,Atlanta Falcons,49,24,24,Atlanta Falcons -7.0,away,7.0,25.666825678617116,29.98655277749703,False,False,True
+227,2017-12-24,Washington Redskins,Denver Broncos,39,27,11,Washington Redskins -3.0,home,3.0,21.381006381537834,22.75840237330086,False,False,False
+228,2017-12-24,New York Jets,Los Angeles Chargers,42,14,14,Los Angeles Chargers -7.5,away,7.5,24.118648390281926,29.644464088521218,False,False,True
+229,2017-12-24,New England Patriots,Buffalo Bills,47,37,16,New England Patriots -11.0,home,11.0,24.37198736128913,23.906525406833737,True,True,False
+230,2017-12-24,Kansas City Chiefs,Miami Dolphins,43,29,13,Kansas City Chiefs -11.0,home,11.0,24.77294457253957,20.938105532998563,False,True,False
+231,2017-12-24,Cincinnati Bengals,Detroit Lions,43,26,17,Detroit Lions -3.5,away,3.5,23.82750292414834,26.560108866127756,True,False,True
+233,2017-12-24,Carolina Panthers,Tampa Bay Buccaneers,46,22,19,Carolina Panthers -10.0,home,10.0,25.734975556065848,28.03924338194801,False,False,True
+234,2017-12-24,New Orleans Saints,Atlanta Falcons,52,23,13,New Orleans Saints -5.5,home,5.5,26.034774549030864,28.116907756934946,False,False,False
+235,2017-12-24,San Francisco 49ers,Jacksonville Jaguars,43,44,33,Jacksonville Jaguars -4.0,away,4.0,26.50323636000287,25.43078971604661,True,True,True
+236,2017-12-24,Dallas Cowboys,Seattle Seahawks,47,21,21,Dallas Cowboys -4.5,home,4.5,27.04919573940885,24.34816558606947,False,False,True
+238,2017-12-25,Houston Texans,Pittsburgh Steelers,45,34,34,Pittsburgh Steelers -8.0,away,8.0,25.17752555874598,31.106019249219308,True,False,True
+240,2017-12-31,Minnesota Vikings,Chicago Bears,38,23,10,Minnesota Vikings -13.5,home,13.5,24.406198461669817,24.438183318836465,False,False,True
+241,2017-12-31,Indianapolis Colts,Houston Texans,41,22,13,Indianapolis Colts -5.5,home,5.5,26.476055108232238,23.838276285091393,False,True,False
+243,2017-12-31,Detroit Lions,Green Bay Packers,44,35,11,Detroit Lions -7.5,home,7.5,26.277158186533747,24.19198469146167,True,True,False
+252,2017-12-31,Los Angeles Rams,San Francisco 49ers,44,34,34,San Francisco 49ers -6.0,away,6.0,23.9788401083809,28.156664902796212,True,False,True
+253,2017-12-31,Seattle Seahawks,Arizona Cardinals,38,26,26,Seattle Seahawks -8.0,home,8.0,21.161867460462698,22.426013294249508,True,True,True
